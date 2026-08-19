@@ -354,7 +354,7 @@ MODELS = [
         # (seed/qwen/aion 32000, gemini 16000, all 0.0% truncated) while glm
         # truncates 10.9% of zero-shot rows with zero visible output. Because the
         # dropped rows are the ones needing the longest reasoning, they are
-        # systematically harder — on medcalc_verified the 153 truncated items are
+        # systematically harder — on medcalc the 153 truncated items are
         # 7.3 points harder for the other 21 models — so dropping them from the
         # denominator biases glm's accuracy UP.
         #

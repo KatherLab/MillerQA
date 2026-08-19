@@ -16,9 +16,72 @@ benchmarks/
   _manifest.csv      per-benchmark item counts, pre-QC vs curated
   _dropped_items.csv every item removed by QC, with the reason
 harness/             zero-shot inference code
+docs/                figures used in this README
 requirements.txt
 .env.example
 ```
+
+## The benchmark suite
+
+![The 24 benchmarks, grouped into five competency dimensions](docs/benchmark_suite.png)
+
+The suite spans five competency dimensions. Counts below are per benchmark, in
+both releases; the source dataset is given as its Hugging Face identifier where
+the set was pulled from the Hub.
+
+### Clinical Judgment
+
+| Benchmark | File | Pre-QC | Curated | Source dataset | Licence | Description |
+| --- | --- | ---: | ---: | --- | --- | --- |
+| **CUPCase** | `cupcase` | 700 | 700 | CUPCase | Apache-2.0 | Diagnosis from complex real-world clinical case reports |
+| **HLE** | `hle` | 146 | 128 | `cais/hle` | MIT | Humanity's Last Exam — expert-level frontier questions; biology/medicine subset, text-only |
+| **MHQA** | `mhqa` | 624 | 616 | MHQA | CC BY-NC 2.0 | Mental-health research literature QA |
+| **MedCalc** | `medcalc` | 340 | 340 | `ncbi/MedCalc-Bench-v1.0` | CC BY-SA 4.0 | Medical calculation from clinical vignettes; integer/decimal outputs |
+| **MetaMedQA** | `metamedqa` | 676 | 658 | `Maximegmd/MetaMedQA` | CC BY 4.0 | USMLE-style QA with unknown / unanswerable options (metacognition) |
+| **Triage** | `triage` | 86 | 84 | `NLie2/TRIAGE` | CC BY 4.0 | Mass-casualty triage, recast as MCQ over a fixed 4-tier scale |
+
+### Robustness and Fairness
+
+| Benchmark | File | Pre-QC | Curated | Source dataset | Licence | Description |
+| --- | --- | ---: | ---: | --- | --- | --- |
+| **FairMedQA** | `fairmedqa` | 960 | 960 | FairMedQA | CC BY 4.0 | Demographic bias in clinical QA via counterfactual vignettes (race / income / gender) |
+| **Global MMLU** | `global_mmlu` | 750 | 705 | Global MMLU | Apache-2.0 | Multilingual professional-medicine exam questions across 15 languages |
+| **TruthfulQA** | `truthfulqa` | 790 | 790 | TruthfulQA | Apache-2.0 | Truthfulness and resistance to common misconceptions |
+
+### Ethical and Professional Reasoning
+
+| Benchmark | File | Pre-QC | Curated | Source dataset | Licence | Description |
+| --- | --- | ---: | ---: | --- | --- | --- |
+| **MMLU-Pro (Phil)** | `mmlupro_phil` | 237 | 200 | `TIGER-Lab/MMLU-Pro` | MIT | Philosophy, formal logic and moral-disputes categories |
+| **MedEthicsQA** | `medethicsqa` | 1,000 | 928 | MedEthicsQA | CC BY-NC 4.0 | Medical ethics, stratified across the four core principles |
+| **TridentBench** | `tridentbench` | 854 | 842 | TridentBench | MIT | Identifying which AMA Principle of Medical Ethics a scenario violates |
+
+### Medical Knowledge
+
+| Benchmark | File | Pre-QC | Curated | Source dataset | Licence | Description |
+| --- | --- | ---: | ---: | --- | --- | --- |
+| **MMLU-Pro (Med)** | `mmlupro_med` | 326 | 252 | `TIGER-Lab/MMLU-Pro` | MIT | Advanced clinical-knowledge and professional-medicine exam questions |
+| **MedBullets** | `medbullets` | 308 | 188 | `LangAGI-Lab/medbullets_op5` | Apache-2.0 | USMLE Step 2/3-style clinical vignettes |
+| **PubMedQA** | `pubmedqa` | 1,000 | 998 | `qiaojin/PubMedQA` | MIT | Yes / no / maybe QA over biomedical research abstracts |
+
+### Legal and Regulatory
+
+| Benchmark | File | Pre-QC | Curated | Source dataset | Licence | Description |
+| --- | --- | ---: | ---: | --- | --- | --- |
+| **LB (ipi)** | `ipi_legalbench` | 133 | 133 | `nguha/legalbench` | CC BY 4.0 | Insurance policy interpretation — is the claim covered? |
+| **LB (lhb)** | `lhb_legalbench` | 66 | 65 | `nguha/legalbench` | CC BY 4.0 | Learned Hands: does the post concern public benefits or social services? |
+| **LB (lhh)** | `lhh_legalbench` | 226 | 225 | `nguha/legalbench` | CC BY 4.0 | Learned Hands: does the post concern health care or medico-legal issues? |
+| **LB (oad)** | `oad_legalbench` | 100 | 95 | `nguha/legalbench` | CC BY 4.0 | OPP-115: user access, edit and deletion clauses |
+| **LB (odr)** | `odr_legalbench` | 100 | 94 | `nguha/legalbench` | CC BY 4.0 | OPP-115: data-retention clauses |
+| **LB (ods)** | `ods_legalbench` | 100 | 97 | `nguha/legalbench` | CC BY 4.0 | OPP-115: data-security clauses |
+| **LB (ofp)** | `ofp_legalbench` | 100 | 100 | `nguha/legalbench` | CC BY 4.0 | OPP-115: first-party collection and use clauses |
+| **LB (otp)** | `otp_legalbench` | 100 | 98 | `nguha/legalbench` | CC BY 4.0 | OPP-115: third-party sharing and collection clauses |
+| **LB (tos)** | `tos_legalbench` | 298 | 298 | `nguha/legalbench` | CC BY 4.0 | Classifying potentially unfair Terms-of-Service clauses |
+
+Full citations for each source dataset are given in the paper. Each benchmark
+remains subject to its original licence, listed above; several are
+non-commercial (CC BY-NC), so the suite as a whole cannot be redistributed under
+a single permissive licence.
 
 ## Benchmark format
 
@@ -44,10 +107,11 @@ what makes the choice-only baseline possible.
 `pre_qc/` is the suite as originally assembled: 10,020 items. `curated/` is the
 same suite after the quality-control pass described in the paper: 9,594 items,
 with defective items excluded and duplicates removed. Three benchmarks were
-retired and replaced by corrected versions during QC, and both directories carry
-only the replacements (`medcalc_verified`, `triage_ethics_v2`,
-`truthfulqa_mc1`), so the two directories hold the same 24 benchmark names and
-differ only in which items survive.
+rebuilt from source during QC rather than filtered — `medcalc`, `triage` and
+`truthfulqa` — and both directories carry the rebuilt versions, so the two
+releases hold the same 24 benchmark names and differ only in which items
+survive. The `replaces_retired` column of `_manifest.csv` records the original
+name in each case.
 
 `_manifest.csv` gives the per-benchmark counts on both sides;
 `_dropped_items.csv` lists all 447 removed items with the QC check that caught
@@ -89,7 +153,7 @@ python run_experiment.py --dry-run
 # One model, one benchmark
 python run_experiment.py --models gpt-4o --benchmarks fairmedqa
 
-# The full paper run: all 26 model configurations × all 24 benchmarks
+# The full paper run: every model configuration × all 24 benchmarks
 python run_experiment.py
 
 # Run against the original pre-QC release instead
@@ -154,23 +218,14 @@ drops them from the denominator and reports the counts separately.
 | `output_parser.py` | Response parsing into the flat record schema |
 | `make_csv.py` | JSONL → CSV |
 
-The model registry in `config.py` is the exact set of 26 model configurations
-evaluated in the paper. Models tested both with and without reasoning appear
-twice, with different `label`s and a `reasoning_config` that is passed through to
-the provider. Note that some entries carry model-specific `max_tokens`; the
-comments in that file record why, including the reasoning-truncation caveat that
-applies to `glm-4-7-flash_reasoning`.
-
-### Note on the answer resolver
-
-The answer-letter resolver in this release differs from the code used for the
-original runs in one respect. The original used `str.index` against the alphabet
-to map a letter back to an index, which is a *substring* search: an empty answer
-matched at position 0 and was silently scored as "A", as were multi-letter
-outputs like "AB". This affected 29 of ~495k records, 10 of which were scored
-correct off a non-answer — too few to move any published figure. The version here
-accepts only a single A–Z character and treats anything else as unscored, which
-matches how the paper's results were rescored.
+The model registry in `config.py` holds the 26 configurations that were
+dispatched. Four of them returned an API error on every request and produced no
+usable data (`gpt-5`, `o3-mini`, `lfm2-8b`, `aion-2-0_base`), so the paper
+reports **22 configurations across 19 models**; they are left in the registry so
+the run is reproducible as executed. Models tested both with and without
+reasoning appear twice, with different `label`s and a `reasoning_config` that is
+passed through to the provider. Some entries carry model-specific `max_tokens`;
+the comments in that file record why.
 
 ## Citation
 
