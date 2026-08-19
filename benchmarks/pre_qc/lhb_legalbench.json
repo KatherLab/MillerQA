@@ -1,0 +1,728 @@
+[
+    {
+        "id": "0_lhb",
+        "question": "Does the following post discuss public benefits and social services that people can get from the government, like for food, disability, old age, housing, medical help, unemployment, child care, or other social needs?\nPost: I filed for unemployment on July 4th. I had no hours at all from July 2nd to July 12th. That's basically two weeks of no work and I see no reason this will change. I am in effect unemployed.  I quit my previous job. My concern is that I will be denied unemployment because I quit that job, because when I look at the eligibility verification, it lists only the job I quit, not the job I have now where my hours have been cut to nothing.  I should say what is going on his not due to any misconduct on my part. I have been trying very hard at this job, but nothing I do makes the store manager happy. So she cut me down to no hours for one week, four hours the next, making me basically unemployed. I assume she isn't firing me because she is trying to get out of me possibly getting unemployment.  If anyone has any idea for what recourse I have, I'd appreciate it. I am looking for a new job but it's been slow going.  If I get denied I do plan to appeal, I'm just wondering what my odds are of not getting denied, since I'm filing unemployment for the job where my hours have been cut, not the job I quit. I live in massachusetts.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "learned_hands_benefits"
+    },
+    {
+        "id": "1_lhb",
+        "question": "Does the following post discuss public benefits and social services that people can get from the government, like for food, disability, old age, housing, medical help, unemployment, child care, or other social needs?\nPost: My father claims they'll never pursue collection, and it'll only present an issue if I try to collect social security in another way. I'm worried that this is untrue.  They applied the overpayment note to my case in February of 2016. I was cut off in October. Nothing has happened as of yet, but I've found papers saying my mom, who was my representative payee, has been paying a little over $700 a month. My question is, does this mean it's on her to pay the debt since she was my payee? Or is it a coincidence? If it's just a coincidence that she's the one paying it, if she stops, will they come after me?",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "learned_hands_benefits"
+    },
+    {
+        "id": "2_lhb",
+        "question": "Does the following post discuss public benefits and social services that people can get from the government, like for food, disability, old age, housing, medical help, unemployment, child care, or other social needs?\nPost: I visited the E.R. in Louisiana and am being billed (around $1,000) by the hospital who refuses to bill Iowa medicaid.  I've spoken to the insurance company that I have a policy with through medicaid and they agree I was covered and they have been willing to pay the bill, but the hospital must send them the bill.  The hospital insists they have no mechanism to send a bill to Iowa medicaid.  My bill was sent to a collections agency who were actually much more helpful than the hospital.  They facilitated a 3 way call between myself, the insurance company and themselves (collections).  We all came to the mutual understanding that I had fulfilled my obligations and that the hospital needed to bill the insurance company. Collections has since stopped contacting me completely, yet I still receive bills from the hospital.  I've tried speaking to the billing supervisor, and the people in billing have refused to let me speak to a supervisor, and just today sent my phone call to a customer service rep after telling me they were transferring me to a supervisor.  The hospital at one point even sent me a form so that I could bill my insurance company.  I filled it out and sent it to my insurance company and was told by my insurance company that it wouldn't work, and that they needed a bill from the hospital and not me.  I don't want this to hurt my credit, and I'm not sure what to try next.  Should I try a lawyer in Louisiana or Iowa? Is there some easier way to go about this?  Thank you for any advice.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "learned_hands_benefits"
+    },
+    {
+        "id": "3_lhb",
+        "question": "Does the following post discuss public benefits and social services that people can get from the government, like for food, disability, old age, housing, medical help, unemployment, child care, or other social needs?\nPost: Thanks in advance. I am posting for my girlfriend who recently got put into this position. She has a chronic pain issue that makes her unable to work a few days a month. She applied for FMLA with her employer but was 30 days too early so she was ineligible by the date, otherwise she would have qualified and been approved.  Her employer's reaction to learning this was to force her to move positions and take a roughly 12% pay cut as well. It seems as if this was a direct reaction to learning that she would be able to protect her position and pay rate in 30 days when she will be eligible. Anything that can be done?",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "learned_hands_benefits"
+    },
+    {
+        "id": "4_lhb",
+        "question": "Does the following post discuss public benefits and social services that people can get from the government, like for food, disability, old age, housing, medical help, unemployment, child care, or other social needs?\nPost: I'm trying to get on disability (height is 4'10 with a few mental disorders that have been left untreated, and 27 years old). The only diagnosis that I have are over 10 years old. It feels like I've developed another disorder as I feel like I can't go outdoors and have trouble completing my job because of this. I know that you have to have documentation of your disorders to get on disability but without insurance, I can't readily get up-to-date diagnoses. What is it that you guys recommend?",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "learned_hands_benefits"
+    },
+    {
+        "id": "5_lhb",
+        "question": "Does the following post discuss public benefits and social services that people can get from the government, like for food, disability, old age, housing, medical help, unemployment, child care, or other social needs?\nPost: Hey everyone. I'm in a bit of a predicament and I'm not sure how to proceed. My mother is seriously mentally ill and has been refusing treatment for as long as I can remember. I beg her to get help because at this point she's extremely paranoid, terrified of touching things (germ situation), repeats herself 100x times, and has pulled out all her hair, and sadly, there's even more :( I've tried pretty much everything, but she's ALWAYS been this way. It even had a huge effect on my upbringing and due to that I have CPTSD. She once tried to burn me alive as an infant, and would regularly slam my head into concrete and the tub for things as simple as knocking over my juicebox. I'm afraid that at the rate she's going, she's just going to crash and burn... hard. I have a 16 year old sister too, and I fear that if my mom really gets out of hand, we'll be evicted. She honestly screams 24/7 so I'm not even sure how we haven't gotten kicked out. Due to my cptsd and a slew of other conditions, I'm disabled and can only work a job from home, but that's not enough for me to move my sister and myself out... I was wondering if there was any way the section 8 could be transferred to me or my sister, as my mother isn't stable or responsible enough for this kind of thing and always submits their paperwork MONTHS late. It's like she's trying to go out of her way to get us kicked out. Anyway, I'd like to keep my little sister safe, more importantly. Is there any way we could protect ourselves and our housing as my mother continues to self destruct ??  Thank you, and sorry for the essay... It's just been a LOT :/",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "learned_hands_benefits"
+    },
+    {
+        "id": "6_lhb",
+        "question": "Does the following post discuss public benefits and social services that people can get from the government, like for food, disability, old age, housing, medical help, unemployment, child care, or other social needs?\nPost: Hey everyone~ using a throwaway account for this. Please let me know if this is the right place to post or if there's a similar post I may reference.   So I became disabled recently (off the clock) and found out I'll need surgery which would leave me immobile for the next 2-3 months, and won't return to an active lifestyle for another 8 months. Because my job is high physical activity I am in the process of claiming disability and my employer has been extremely helpful. Since I also live in a walk-up in an urban area I can't access my apartment safely without supervision so I decided to stay with my mom in a different state until I can have the surgery.   The problem is I didn't have insurance at the time of the disability so I've been having to pay out of pocket for MRI/X ray and Doctors visits to make sure I would really need surgery, out of the state I live in. My insurance kicks in next month so I'll have to wait until then to get the surgery, unless I want to pay over 10k out of pocket. I can't yet make an appointment for the surgery because I'm not insured yet, even though I will be at the time of the appointment. I get it, it's a legal issue. There are a lot of 'should haves' in this scenario and I am to blame for why this is spiraling. I'm gaining back control of the situation but it's going to be a longer process now. However, this is not where my issue is.  I went to urgent care and paid out of pocket so I could get referred for an MRI and specialist. Okay. Did that. When I saw the specialist I asked specifically if I would be able to work and how long would it be. He said absolutely not and that it would take up to 8 months to recover, post-op, back to my high activity level. My employer then suggested I file for disability. When I spoke to the office again they said they wouldn't fill out my claim because I'm not getting the surgery with them and that it could be a legal issue, however when I pressed them on why they didn't really give me a lot of information. When I spoke with my employer's insurance company they said they just needed the word on whether I could work or not, and that the surgery dates could be figured out later.   Then, I tried going to the urgent care to see if that first Doctor could fill out my disability form (since he was the one who referred me and scheduled the MRI etc). His receptionist said that it would take up to 2-3 visits, possibly more to get the claim filled out ($150 per visit!). It's literally one sheet of paper asking if I can work. That's it. The MRI is proof enough I can't and I have my medical forms from the hospital. When I asked why she wouldn't give me an explanation, all she said was it would take time to fill out the paperwork (but doesn't know exactly how much time) and that we could see a specialist if I needed it that badly. I am at a loss. I'm in the process of finding my own specialist and surgeon in my state and that's become a wholly different issue otherwise I could've had that provider help (and will if none of this gets figured out but time is a factor with paperwork) ...  Can the hospital refuse to sign the disability papers because I'm not having the surgery with them even though they told me I will absolutely need surgery and won't be able to work?  Can the urgent care doctor ask for an unknown amount of medical visits just to fill out one piece of paper? I feel like I'm being price gouged.  I know this is my fault, yes I should've had insurance and yes I should've seen a doctor in my state immediately to start the process of finding a specialist. I really did not think my injury was  going to need surgery at the time and thought I could just heal my way out of it. I'm learning a hard lesson this month and paying out of pocket for it. Any help would be much appreciated. Thank you",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "learned_hands_benefits"
+    },
+    {
+        "id": "7_lhb",
+        "question": "Does the following post discuss public benefits and social services that people can get from the government, like for food, disability, old age, housing, medical help, unemployment, child care, or other social needs?\nPost: TLDR is, degree, terrible job, want to change my life in any way I can. It's incredibly depressing, and I want to know what are my options. I heard conflicting things:  * it's easy/hard to get tuition paid on unemployment  * you have to be a minority they recognize  * you actually have to be on unemployment for &gt;24wks before they even consider helping you, which seems incredibly counter-productive  * even if you get it, you're not getting essentials covered by UI, just tuition  Help me /r/legaladvice you're my only hope. As I'm too broke to do much else. Thanks for reading",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "learned_hands_benefits"
+    },
+    {
+        "id": "8_lhb",
+        "question": "Does the following post discuss public benefits and social services that people can get from the government, like for food, disability, old age, housing, medical help, unemployment, child care, or other social needs?\nPost: Back story: My company (A) was acquired 1.5 years ago (January 2016) by company (B). In the agreement they were required to keep all company A employees for one year. After that year was over they laid a few of us off for financial reasons.   I was sadly one of those and am now filing for unemployment. It asks me to \"Provide your employment history for the past 18 months, including your very last employer.\"   Do I include company A and company B TOGETHER as one company where I have worked for the past 18 months? or list them separately? There is nowhere to include information about the acquisition.   Thanks for the help!",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "learned_hands_benefits"
+    },
+    {
+        "id": "9_lhb",
+        "question": "Does the following post discuss public benefits and social services that people can get from the government, like for food, disability, old age, housing, medical help, unemployment, child care, or other social needs?\nPost: A fellow Redditor told me over on personal finance that if your hours at your job get butchered to the point where you only have one small shift a paycheck, it can be viewed as constructive dismissal and might be grounds for unemployment qualification even if you quit.  My question is, is this true? And if so, are their any technicalities and conditional rules to look into before I try to apply? I worked at McDonald's for three months and in my last month of work they cut me to one day a week, and eventually one day a paycheck. So, naturally, I quit. I'm looking for a new job but could really use some cash to hold me over, even if it's just enough to keep my phone turned on and pay my ride for gas when they take me to interviews.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "learned_hands_benefits"
+    },
+    {
+        "id": "10_lhb",
+        "question": "Does the following post discuss public benefits and social services that people can get from the government, like for food, disability, old age, housing, medical help, unemployment, child care, or other social needs?\nPost: I am a 27 year old and have been on the \"Healthy Michigan Plan\" through Michigan medicaid due to being a graduate student with no income.  Back in February I received a one-time inheritance payment of $26,000 which would bump me over the limit for 133% of the federal poverty level which is the designated level for benefits eligibility.  My negligence to report the \"income\" change within 10 days indicates that I may be responsible for overpayments by medicaid.  I had been confused about whether the inheritance counted as income and would be treated as such by medicaid.  I did some research and am unsure as to whether the income reporting is annually or monthly.  Since that one time payment, my income has returned to zero. What are my options at this point?  I have used medical services since that time using my medicaid insurance. Will reporting the income now start a shit storm that will require legal counsel?",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "learned_hands_benefits"
+    },
+    {
+        "id": "11_lhb",
+        "question": "Does the following post discuss public benefits and social services that people can get from the government, like for food, disability, old age, housing, medical help, unemployment, child care, or other social needs?\nPost: Time is of the essence here because my savings is dwindling. I applied for unemployment benefits for the state of Ohio about 3 weeks ago, after being laid off May 30th from a company I worked for about a year and a half.   The status was \"pending\" as it takes about 3-4 weeks for them to begin paying. I filed each week, and met the requirements dictated by the state.  I was told by someone at the unemployment office that my company had until 7/13 to respond and that a determination would be made by 7/14. I was unable to check the status yesterday. When I logged in today, it appeared my claim has been closed out. I was unable to view the status of my previous claims filed, or file my weekly claim. There was a determination in my correspondence inbox.   This is where my confusion arose, maybe I'm reading thing wrong, but the determination said that the state had ALLOWED my claim, and listed the weekly amount payable. However, when I click on the payment summary, it list my claims as \"DENIED\".   I created an album so you can see what it is I am seeing. If anyone is familiar with this any advice or clarification would be greatly appreciated. I'm just looking for answers. I'm completely broke, and was counting on that money to see me through. I found a new job and will be starting next week, but I was counting on the $1200 from unemployment claims to get me through to my first paycheck.   Thanks in advance for your responses. Below is the album.   http://imgur.com/a/7ak2f",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "learned_hands_benefits"
+    },
+    {
+        "id": "12_lhb",
+        "question": "Does the following post discuss public benefits and social services that people can get from the government, like for food, disability, old age, housing, medical help, unemployment, child care, or other social needs?\nPost: She has a pacemaker, and is a 3 time cancer survivor in her mid 20s. She has been in and out of the hospital every month for the past few years. First it was heart issues, and another was breathing problems. She got many heart surgeries, including heart valve and stents. She has had heart attacks too. She barely has any muscle on the back of her neck, so its hard on her to look up while at work.  I almost lost my mom many times. I'm 20, she is 52. All of these problems are from the radiation she endured in her twenties. Recently, she was hospitalized for over a month because she couldn't breath. She had fluid drained out of her lungs, which was a major surgery. She made it through it, and now has to use an oxygen machine at home and oxygen tanks every where she goes.   We struggle financially, and as a college student that works almost 40 hours a week, half of my paycheck goes to bills. She has applied for disability twice, and has been denied twice. I'm in shock, especially because of everything she has been through. And now that she relys on oxygen tanks, it makes me feel horrible she has to still work because she got denied. We did get a lawyer, but it could take up to 2 years now.   Is there any way to fast track this process? Or any place we can appeal this? There is absolutely no reason she should have been denied. Any advice is greatly appreciated. I'm a Florida resident if that helps.  Edit: we were also denied food stamps, even though we can barely afford food and barely get by with bills. She has lost too much weight since she has been on the oxygen machine.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "learned_hands_benefits"
+    },
+    {
+        "id": "13_lhb",
+        "question": "Does the following post discuss public benefits and social services that people can get from the government, like for food, disability, old age, housing, medical help, unemployment, child care, or other social needs?\nPost: I'm 50 years old.  After a 24 year absence from physically demanding work I got back into an old career, in the intervening years I was a desk jockey and pretty weak &amp; out of shape due to sedentary lifestyle and no real exercise.  Also a type 2 diabetic for the last 13 years, with major numbness in my feet/legs, and have a little trouble balancing. I can get tripped up easily and take extra precautions when climbing.  My first three days on the job I was on a 15-foot ladder, going up and down a lot, and spent ten hour days on my feet with lots of climbing and walking. It was hell, but by the end of the first week I was stronger. But after the third day I was noticing a serious pain and swelling in my right ankle. I chalked this up to muscles getting used that hadn't been used in years and simply powered through it, hardly able to walk, but did it anyway, ten hours a day. Yesterday (end of second week of work) I just couldn't bear the pain anymore and it was not improving in any way - only getting worse. I'm limping badly all over the workplace, nobody even asks if I'm okay.  Left work a couple hours early and went to the ED yesterday at the local hospital, after an examination and x-ray doc calls me over and shows me the imaging, he literally says \"wtf\" as he points out a shard of bone broken off one of my ankle bones and is sitting in the lower part of my ankle in the spot where the swelling is. They give me an air cast and are supposed to be arranging an appointment with an orthopedic specialist this week. I didn't want this to wreck my work contract (I need the money) so he wrote me a note saying I cannot climb ladders or do any climbing whatsoever, and that the cast must stay on for six weeks. I can walk with the cast on, but it's not fun. Also on Indomethacin for inflammation.  I called off sick today, but my next workday is Wednesday and I plan to show up, cast and all, and ask if there are any duties I can be given that don't involve climbing or ladders. I have no idea if they'll go for it or if they'll just call off the contract and send me packing.  Have no idea what my rights are, or if being a contractor makes any difference. I suspect the injury happened in the first couple of days when I was hopping off the last rung or two of the ladder, but I never reported anything to anyone at the time. How will the fact that I have diabetes and leg/foot numbness play into this? My right leg/foot is weak due to a back injury in the early 90's as well. I ended up with a 30% permanent partial disability due to this, adjudicated by the Workers Comp Board of Texas.  Thanks very much for any advice you can give.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "learned_hands_benefits"
+    },
+    {
+        "id": "14_lhb",
+        "question": "Does the following post discuss public benefits and social services that people can get from the government, like for food, disability, old age, housing, medical help, unemployment, child care, or other social needs?\nPost: My family were refugees. Vietnamese boat people. We stayed in a refugee camp in Hong Kong until we were accepted to the United States in 1994. Now we are proud citizens, truly living the American dream. Along the way her paperwork all showed a different age. It started from the beginning when we first left Vietnam. She doesn't remember much of the details of what caused the error on her paperwork but since it was already processed, she just wanted to move along. Now, it is starting to be a problem because she is getting older and should be retiring soon but her paperwork says she is younger than she really is. Therefore this is affecting her retirement as well as ability to work according to her false age. Is this something that a lawyer can fix? Thank you everybody!",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "learned_hands_benefits"
+    },
+    {
+        "id": "15_lhb",
+        "question": "Does the following post discuss public benefits and social services that people can get from the government, like for food, disability, old age, housing, medical help, unemployment, child care, or other social needs?\nPost: My aunt and her long-term boyfriend (father of her kids) received food stamps or EBT from August-January (the food stamp people also claim they gave them money for February but aunt says nothing showed up on the card) she would get about $150 a month until the food stamp use was discontinued. Her boyfriend failed to report the overtime her made in his job and now they had a letter sent to their home asking him to sign a letter and authorize for them to ask his work place for his pay stubs. Is there a possibility that they go to prison or will they just have to pay the money back? Its urgent. Thank you!",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "learned_hands_benefits"
+    },
+    {
+        "id": "16_lhb",
+        "question": "Does the following post discuss public benefits and social services that people can get from the government, like for food, disability, old age, housing, medical help, unemployment, child care, or other social needs?\nPost: TL;DR- Got lost in the health insurance system due to a glitch; now have a wisdom tooth tearing up my mouth and want to know if it's okay to get medical help despite being in an appeal process   So! Back in December of 2016, I applied for health insurance via NY State of Health and uploaded my tax returns as proof of income (I'm freelance). I was then told I hadn't given enough information of proof of income despite uploading my tax return, so called the phone line to ask what more I needed to do. They told me tax documents were enough, it was a glitch in their system, and they would contact me when it was all settled. In February I hadn't heard from them yet, so called again to check in---was told once again that it was a glitch and they would contact me shortly.  Fast forward to now--I still hadn't heard from them, but apparently have a wisdom tooth that decided to show up in my mouth last week and wreck havoc (constant pain, hard to eat, hurts to swallow, all that fun stuff). I called the office again to check in, was told it was a massive error on their part and they got me set up to pick a plan (which I did), except it doesn't start until August--I cannot make it much longer like this, one week has already been hell. I then requested to file for backdating due to an urgent medical need, which was denied (not sure why entirely, more than willing to call and ask for specifics if that's helpful).   I can expand on all of this further if the wall of text hasn't already been a turn off, but the basic questions I have are:  -now that I'm filing an appeal, is it okay to still get my tooth removed or does that hurt my standing in the appeal process?  -if I win this appeal will I be reimbursed for whatever costs my dental would've covered (if it's kosher to remove the tooth)?  -is it terribly stupid to not have someone to represent me for this telephone hearing?  Thank you for any/all help and hope everyone is having a wonderful Sunday!",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "learned_hands_benefits"
+    },
+    {
+        "id": "17_lhb",
+        "question": "Does the following post discuss public benefits and social services that people can get from the government, like for food, disability, old age, housing, medical help, unemployment, child care, or other social needs?\nPost: Pretty much summed it up in the headline but one more detail I need to add.  The mail from the food stamp office comes to my house.  I called her and asked about it and she told me that they knew she didn't live there but she didn't have her PO Box set up.    I'm concerned that she told them that she does live here, but not me.  Is this something that could come back on me?  What exactly are the requirements for counting a child as a member of the household, when they don't live with you the majority of the time?",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "learned_hands_benefits"
+    },
+    {
+        "id": "18_lhb",
+        "question": "Does the following post discuss public benefits and social services that people can get from the government, like for food, disability, old age, housing, medical help, unemployment, child care, or other social needs?\nPost: I am 6 months pregnant. I applied for WIC to help with basics such as milk and eggs, since I consume a lot of those and we are currently functioning on one income (my husband's). We were married last October and although I plan to take his last name, we have not gotten around to doing that yet. All of my identification still says my original name.  The first time I went in, the woman who registered me with WIC assumed that my name was changed, even though all of my identification had my original name. When the vouchers printed wrong, we immediately told them and then they reprinted with my correct name.  When I went back for my follow up appointment today, it happened again. I called and somehow they said they have no record of my actual name. So they could not have corrected the error in their computer system, just reprinted the vouchers.   When my husband looked more closely, he noticed that the middle initial is also wrong. Looking up people in our area, we found that the name they have given me is an actual other person here.   We don't understand how this happened; I provided original social security card, photo state ID, birth certificate, and a host of other documents with my correct name, SSN, and birthdate on it. But it appears they have filed me as a completely different identity and have been dispensing my vouchers as such this whole time.   The situation is even stranger because they told me they are connected with Medicaid. But my medicaid card has the correct name and birth date on it.   I am wary of this situation because I have a separate legal issue (fraud case relating to a small business I formerly ran) currently going on that my lawyer is working on getting dropped. It is unconnected to WIC, but I really do not need anything that was not my doing looking fraud-y right now.   So I asked WIC on the phone if I could come in tomorrow to have it fixed and they said yes. But 1) I have no idea of how to make sure they actually fix it this time and don't just reprint it while keeping me linked to another person, and 2) I asked if I could get anything in writing documenting the error for my personal records and they seemed hesitant, said they'd have to ask a supervisor. I do not care whatsoever about trying to get anyone fired, I just need something that clearly indicates this was not my doing. I don't know what is and is not legal regarding government institutions such as medicaid and wic, but it doesn't seem right if any blame for this falls on me because I cannot obtain from them any proof that I gave them 100% original, correct information from the start.   I would prefer to just not have WIC at this point, but we do need it until I can go back to work.   In case I need it, how can I - 1) obtain some kind of proof that this was not my error, and 2) Ensure that they have my correct identity on file?",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "learned_hands_benefits"
+    },
+    {
+        "id": "19_lhb",
+        "question": "Does the following post discuss public benefits and social services that people can get from the government, like for food, disability, old age, housing, medical help, unemployment, child care, or other social needs?\nPost: Hi All, first of all I'm not sure if this is the right forum, but here goes.   My parents live in Virginia, they have VERY little in assets. (Rent home, few posessions, old car, small life insurance policy, small pension my dad receives, dad is on disability, both are receiving social security).   My mom recently broke her hip and had to go to the hospital. the recovery will take months and my mom will not be able to take care of my dad. (thankfully we have my sister stepping in to take care of him for now, she lives close by). We would like to see if we could get my dad to qualify for medicaid so that he can receive long term care that is paid for. No one in my family can afford paying for the type of care that he needs.   I understand that the limitations for medicaid are very strict. A family friend has told us that we need to transfer all assets to my sister or I (I would prefer it be my sister) in some sort of trust so that the government does not recognize any assets under their name and they can qualify for medicaid.   Basically I think we need to start talking to a lawyer to facilitate this. But I need a list of items to go into the meeting with the lawyer with to make sure that we can get this accomplished. Any advice or assistance in navigating this would be helpful. Thanks!",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "learned_hands_benefits"
+    },
+    {
+        "id": "20_lhb",
+        "question": "Does the following post discuss public benefits and social services that people can get from the government, like for food, disability, old age, housing, medical help, unemployment, child care, or other social needs?\nPost: My boyfriends parents, but my mom and dad enough in heart.  Dad (50) has been fighting for disability for over 7yrs, but the first 2 were spent in VA and somehow there is suddenly no record of the doctors appointment had back then. Bad genes and work injury and mental health issues. He's been unable to work. They have been in more than poverty since moving from VA to GA. Mom (51) has been working as best she can with existing fibromialga, diabetes, and having had 2 heart attacks to this point in life. She shouldn't be working, but someone has had to. Little more than a year ago, she got hurt on the job, and while in the midst of a high pay out court case, their house burnt down. Lightning in a midnight April storm. Everything gone but the car that was in a mostly disconnected garage. She wasn't home, but dad &amp; the pets were. They all survived, but the thing was that they could barely put food on the table and gas in the car with other bills to pay on what few hours mom could work in her pained state, so of course they had no home insurance. Mom had to accept a tiny payout and just give up on her case for lack of funds, mental ability, and physical ability to deal with everything.  They were homeless, living in and out of their garage til winter, couch sleeping with not so great family, until a few months ago. Finally got the acres sold that the house had been on. That was April. They got into a rental recently after going about trying to find a place to buy/rent. They ended up having to get a car, they paid off debts, she got a credit card to work on credit to get a loan for a house. They didn't get any substantial amount from the property. They are mostly out of money now, they were sure this disability situation would be sorted out by now, but it's not. It's the absolute opposite. They are facing homelessness again, losing their vehicle, losing their pets, and their minds at this point.  I've not seen the letter about the denial of back pay. I live 3hours away, but will see it in a week. I'm not in the position to help outside of moral support and helping her keep her head on track. She's called government entities, she's got a couple letters to right, I was told she could write a 'Letter of Need' and take it to the social security office... They are in their 50s. I was homeless at 18 and pregnant, to boot. I remember how that was... I can't begin to imagine how this is all impacting them beyond the face they try to keep up for the sake of looking strong.  Now... I have to apologize for going on and one. Here is where I ask for options? Suggestions? They are in Union County. For what that's worth. I couldn't even find a way to fight a divorce I just went through, I've been unable to find them any kind of legal support being so far away.   They need hope..",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "learned_hands_benefits"
+    },
+    {
+        "id": "21_lhb",
+        "question": "Does the following post discuss public benefits and social services that people can get from the government, like for food, disability, old age, housing, medical help, unemployment, child care, or other social needs?\nPost: This is post ended up having quite a few questions but they're all  in regards to money.  I'm 16 and receive a check once a month of I believe $700. The checks began to come in shortly after my mother died in 2010 and I've been told it's because my mom worked at Wal-Mart for a really long time but I've never actually seen this check because i guess my guardian set it so that goes to the bank instead of in the mail. Anyways, I would like to know how/what I'm getting this money for /  what it's called. My guardian has said that I'll keep getting this check as long as I stay in school and go to college, another time she said I would just get it until forever so i'm at a loss there.  Eventually I'm going to move out and I don't want to leave without my money because I have to live my own life. How old would I have to be to get this for myself, can I get it right after I turn 18 ?   My mother also had (life insurance money I suppose?) split up for me and my older brother who has already taken his share. My part is in a bank account which again I've been told I can access once I'm older ( no one has access at all at the moment) but does that mean once I'm 18 or 21 or?  This post has gotten a little to long for my liking and I don't want to add anymore questions because I think I've had enough.  Please help me, I want to live my life on my own as soon as I can, I don't live with physical abuse or anything too bad but there is some problems and it's just one of those homes where you don't want to stick around past your due.  The day I turn 18 is going to be a great day and I want to get an idea of what I have to do.  I appreciate anything you can help me with even if it's only one thing, thank you in advance to/if anyone that can help.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "learned_hands_benefits"
+    },
+    {
+        "id": "22_lhb",
+        "question": "Does the following post discuss public benefits and social services that people can get from the government, like for food, disability, old age, housing, medical help, unemployment, child care, or other social needs?\nPost: We are located in Alberta, Canada.   Over the course of the past year, my mother has suffered a debilitating illness that has kept her from working.  There have been complications throughout that have significantly impeded recovery. With the prolonged recovery, the insurance company has become increasingly difficult (stopping payments, demanding more paperwork after requested paperwork was supplied, etc).   My mom really does want to go back to work, but she, her doctor, and her employer do not feel that she can fulfill her duties at this time. The job is very hands on and requires snap decisions. Her employer supplied a list of duties that are required and her doctor stated that she could not fulfill them.    We are at the point where a decision needs to be made. If we go through with the lawyers, they will ask for everything up to 65 (retirement age, which she is not too far from). However, that likely means the end of her employment. If we keep fighting with the insurance, we don’t know how long recovery will take and they are constantly looking for ways to stop coverage.   Dealing with insurance and disability is not something we are familiar with, so any thoughts or warnings on which way to go would be helpful.  Thank you.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "learned_hands_benefits"
+    },
+    {
+        "id": "23_lhb",
+        "question": "Does the following post discuss public benefits and social services that people can get from the government, like for food, disability, old age, housing, medical help, unemployment, child care, or other social needs?\nPost: Hey, so I'm getting laid off in the state of Pennsylvania. I have a bit of advanced warning, and I know they are going to offer me a shitty contract employee position that pays by the job.  I'm not going to accept that job, and am actively looking for work. It won't pay nearly as well, and involves being out in the field 100%, while my current position only requires occasional field work.   Can I file for unemployment in my state? Or does my rejecting the shitty job disqualify me? I'm pretty surey boss offers everyone he fires a shitty job to avoid paying unemployment to anyone.   It won't affect my decision, but it will help me plan financially.   Thanks!",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "learned_hands_benefits"
+    },
+    {
+        "id": "24_lhb",
+        "question": "Does the following post discuss public benefits and social services that people can get from the government, like for food, disability, old age, housing, medical help, unemployment, child care, or other social needs?\nPost: Hello,  I got denied my unemployment because I did not go in person and register for unemployment. I was unaware that I needed to do this step. However, I have followed everything else pretty much down to the letter. How can I file for protest and win?",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "learned_hands_benefits"
+    },
+    {
+        "id": "25_lhb",
+        "question": "Does the following post discuss public benefits and social services that people can get from the government, like for food, disability, old age, housing, medical help, unemployment, child care, or other social needs?\nPost: Hey everyone. I'm not sure where to look for information, or what to search for. I've tried a bit, and found some information, but not complete.   So here's the situation.   I'm 8 months pregnant, my husband went to work for a company to go tree planting for a couple of months.   Turns out it's a shitty company and he wants to leave early. He told the boss that he needs to come back to help me, as I'm on sick leave currently.   His boss said two things that are making me scratch my head.   1. He needs me to provide a sick note detailing why I'm sick and what's wrong with me. I told my husband that in the note I provided my employer, it didn't say anything about why I am sick, just that I am sick and that I will be off work from this date until this date.   2. Then he said that if my husband leaves now, instead of paying per tree, my husband will get paid minimum wage for the hours worked. My husband also said that he can stay for one more week.   My husband doesn't have a copy of his contract, and will talk to his boss tomorrow to get a copy.   I'm just wondering about the legalities of leaving a contract early, and if the boss can change the rate of pay in this situation.   Also I tried looking into family sick leave in MB, and I found a phone number I can call to ask more. Unfortunately tomorrow is Sunday and I may have to wait until Monday to call.   Also if he is in a different province, what provinces labour laws should he be following, assuming this company is a MB company?   Thanks in advance.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "learned_hands_benefits"
+    },
+    {
+        "id": "26_lhb",
+        "question": "Does the following post discuss public benefits and social services that people can get from the government, like for food, disability, old age, housing, medical help, unemployment, child care, or other social needs?\nPost: I am to receive zero paid or unpaid childcare leave from my employer. But I do have to get FMLA.  Would it be possible to work right after my child is born and take FMLA a few months later?  I cannot be out of work for a few months because my husband cannot support us alone. However, I can take the summer months off as I will have an off books position where I can earn money while not working.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "learned_hands_benefits"
+    },
+    {
+        "id": "27_lhb",
+        "question": "Does the following post discuss public benefits and social services that people can get from the government, like for food, disability, old age, housing, medical help, unemployment, child care, or other social needs?\nPost: Hello to anyone reading this,  I am a 20 year old male and I have a mentally disabled mother. I dont live with her though, its not that i don't want to, but i can't because I'm going to college and living with my dad and trying to get a degree. It's hard to put up with my mother, but I'm finally doing my best and putting my emotions behind to help her. She gets money every month from the SSA, BUT it does not go to her it goes to a cousin of hers who is using the money. I can't really say she is really doing so, but from my mothers view I think she is. My mom is not that crazy, she can tell when things are not going right. Most of mother's illness was emotional to me as a child so I chose to ignore it, but now I want to help her. I'm tired of seeing her like this. I need to know where her money goes and how I can direct it to me, so I can take care of her. I feel like an asshole for choosing to ignore her when i was little, but i never understood any of it. No one in my family wanted to tell me what was wrong, but I had to find out for myself.  Please, if anyone can tell me what I need to talk to the SSA to let me take care of my mother. Any papers? Forms? I know that she cant take care of herself due to the fact that she doesnt get the money directly to her, but she lives alone.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "learned_hands_benefits"
+    },
+    {
+        "id": "28_lhb",
+        "question": "Does the following post discuss public benefits and social services that people can get from the government, like for food, disability, old age, housing, medical help, unemployment, child care, or other social needs?\nPost: Hey so I was planning on buying my cousin's 2013 Honda Fit, KBB value around $7000 for getting to work and college. Me and my mom live in NJ and she receives SSI, food stamps, Medicare, and we're living on public property. So I've seen mixed messages online that if I buy the car the value might be treated as an asset and can reduce our benefits. These programs have a asset limit, but I've seen some stuff saying that cars don't count towards these assets. I don't want my mom to lose healthcare or any income benefits as she's disabled and money's tight. The only reason I could afford this Fit is my cousin letting me pay the money over time. Any help would be greatly appreciated.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "learned_hands_benefits"
+    },
+    {
+        "id": "29_lhb",
+        "question": "Does the following post discuss public benefits and social services that people can get from the government, like for food, disability, old age, housing, medical help, unemployment, child care, or other social needs?\nPost: I left a large chain retail to work for a start up as a pharmaceutical rep on march 20th. Unfortunately on July 10th I was let go . The reasons were  1) a doctor in an office that I was in charge of but never met started prescribing less. Ironically it's not even a doctor of mine.  2) my prescription count wasn't going up fast enough. I was given a brand new area where a majority of insurances are not being covered with our particular product.  3) due to the fact I don't drive, I wasn't given a company car and had to be on foot. This resulted in me dragging a small suitcase on wheels around. A portion of the job required me to pick up hard copies before I bring it to the office. I generally kept hard copies at home because I was afraid of being a target and having someone steal the suitcase. This according to my boss was a HIPPA violation.   My question is if I file for unemployment, should I expect some sort of retaliation?  What can I do if I get some sort of legal document in the mail? My former boss is currently suing former employees for violating our contracts. So I'm very worried about getting anything from him.   Thank you for any and all advice.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "learned_hands_benefits"
+    },
+    {
+        "id": "30_lhb",
+        "question": "Does the following post discuss public benefits and social services that people can get from the government, like for food, disability, old age, housing, medical help, unemployment, child care, or other social needs?\nPost: So I've worked at a company for almost 4 years as a temporary employee, which means if I get laid off I don't get unemployment. Never have I worked less than 40 hours a week, I average 60 hours of week, all mandatory.    In Kentucky if you get laid off you can get a unemployment check for 6 months or until you find another job. But not as a temporary like me.  I know people will say if you don't like it quit and find another job. But I feel like this shouldn't be allowed.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "learned_hands_benefits"
+    },
+    {
+        "id": "31_lhb",
+        "question": "Does the following post discuss public benefits and social services that people can get from the government, like for food, disability, old age, housing, medical help, unemployment, child care, or other social needs?\nPost: To keep this short and not go into historical detail, my mother's income is only $400/month child support and about $450/month social security. She is permanently disabled due to a spinal fusion that did not go well at all. She is 52 and has been permanently disabled for ~15 years now. Government help has barely been help. I know she was receiving food stamps about 10-12 years ago until her social worker claimed she was lying on who was living with her, accusing my mother for lying about my sister not living with us when she really was. So my mom's paying back a minimum payment of about $30 for I don't even know how many years due to this \"incorrect\" information.  My main questions: 1. Can you work while on social security? 2. Is social security different from disability? Can you get both? 3. What type of lawyer is best to try and get my mom the most government help or let me know if there are options to work.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "learned_hands_benefits"
+    },
+    {
+        "id": "32_lhb",
+        "question": "Does the following post discuss public benefits and social services that people can get from the government, like for food, disability, old age, housing, medical help, unemployment, child care, or other social needs?\nPost: I work at a large healthcare organization that was just taken over by a much larger entity. We expected changes would be coming but we were just formally given notice that our office would close and we would have to commute an hour away if we wished to continue employment. We were given 3 business days to decide if we accept the offer or refuse it and be considered as voluntarily resigning our position. The change would take place in two weeks and they offered no severance due to it being under their 50 mile commute limit.   The problem is that I'm a single father of three young children as their mother passed away a few years ago. My currently work location is 15-18 minutes from my home and my children's school. The new location would be over an hour away and that's on a high traffic highway so possibly longer during usual business hours. We have no family and I have only been able to work due to before-school and after-school care which I pay for and occasionally my friends help with transporting them. It is not really possible both financially and logistically be able to commute to the new location due to my situation. Would this be considered \"good cause\" to attempt to collect unemployment if they consider me voluntarily resigning my position?   -My hours are the same and do not factor in the additional commute so I have to leave much earlier and return much later thus adding more financial strain to pay for more daycare.   -I've asked the HR Rep for assistance in finding another comparable position while staying local and I was told there was nothing available for me via email.   -If I do not sign the offer letter by the deadline, they will consider that also as voluntary resignation.   -I am getting the same rate of pay so there is nothing additional to compensate for the additional gas usage and daycare cost. Traveling there and back for one day of work is equivalent to traveling to my current location for four work days.  Any help is greatly appreciated! Thank you!",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "learned_hands_benefits"
+    },
+    {
+        "id": "33_lhb",
+        "question": "Does the following post discuss public benefits and social services that people can get from the government, like for food, disability, old age, housing, medical help, unemployment, child care, or other social needs?\nPost: I found out today that the \"adu\" apartment I have been renting for the past 15 months is not a legal apartment and was not approved by the city. The owners were not supposed to put a kitchen in and it was only supposed to be extra housing. A code inspector came by for another matter and figured it out. I have to be out by the end of the month. Can my landlord who rented the apartment to me fraudulently be held accountable? I'm moving with basically no notice in an extremely expensive city. Thanks for any advice. I live in Portland, Oregon.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "learned_hands_benefits"
+    },
+    {
+        "id": "34_lhb",
+        "question": "Does the following post discuss public benefits and social services that people can get from the government, like for food, disability, old age, housing, medical help, unemployment, child care, or other social needs?\nPost: Last year i went into the hospital and was misdiagnosed with the stomach flu, i went home and a week later ended up taking myself back to the emergency room after my appendix ruptured. I ended up needing emergency surgery after the drains didn't work and spent three weeks as an inpatient. I had to drop out of school for the semester and am still having problems. is this worth a law suit? or even a consultation?",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "learned_hands_benefits"
+    },
+    {
+        "id": "35_lhb",
+        "question": "Does the following post discuss public benefits and social services that people can get from the government, like for food, disability, old age, housing, medical help, unemployment, child care, or other social needs?\nPost: I had been caught buying mushrooms months ago. I was handcuffed but the detective who had arrested me told me that the incident would be in his notes but due to the fact that they were looking for a serial rapist (that just so happened to fit my description) and that it was my first offense I would be let go. Yesterday two cops came to my door, showed me a warrant for my arrest and took me to jail. I was realeased on bail 18 hours after arrest. At the time I thought that it kind of made sense but now that I've had time to think about it I don't really understand why it took them that long to arrest me. I gave the detective my number and everything but I never received a call or a letter about having to appear in court but all of a sudden there's a warrant for my arrest? I just need some advice because this is my first (and hopefully last) run in with the law.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "learned_hands_benefits"
+    },
+    {
+        "id": "36_lhb",
+        "question": "Does the following post discuss public benefits and social services that people can get from the government, like for food, disability, old age, housing, medical help, unemployment, child care, or other social needs?\nPost: So, my dad has been doing this to my mom and now that her credit is shit he's using my (19 year old college student) credit to open cards. I can't complain because he does pay off my credit cards and hes paying for a study abroad trip but honestly what the fuck? I just got a letter in the mail (my home address not uni address) one saying I was approved and there was a card for me and my dad in there (I ripped them up and threw them away) and the other saying I was denied.      I tried calling every customer service number I found but there was only a robot server, so I just ripped the cards up. The issue is he has my SSCN written down (he has all three of ours written down on all of our SS cards. For example mine has his and my moms, his has my moms and mine, my mom has mine and his)     I don't want to get in anything too legal but I don't want my credit to go to shit. Can I change my social security card number at all? (also would that require me to get a new passport?)",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "learned_hands_benefits"
+    },
+    {
+        "id": "37_lhb",
+        "question": "Does the following post discuss public benefits and social services that people can get from the government, like for food, disability, old age, housing, medical help, unemployment, child care, or other social needs?\nPost: Me and my friends landlord hasn't as of today returned our security deposit. I live in Ohio and we moved out July 1. She emailed us today saying she has charges that are 1500$. The charges are a little too high for some of the stuff but I do understand a couple of them. I know she is legally obligated to return the deposit within 30 days is there any way she can charge us for stuff after those 30 days? Just very clueless about this subject in all honesty.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "learned_hands_benefits"
+    },
+    {
+        "id": "38_lhb",
+        "question": "Does the following post discuss public benefits and social services that people can get from the government, like for food, disability, old age, housing, medical help, unemployment, child care, or other social needs?\nPost: So, long story short, I am one day away from closing on a home when I find out the home has been designated as Affordable Housing. I do not qualify for affordable housing (income too high) and the house was being sold above the legal value.    I was notified of the \"Affordable Housing\" status a day before closing by my lawyer who finally discovered it. This is in the U.S. in Westchester County, New York.  I was under contract, invested $650 for the inspection, $400 for the mortgage appraisal, $300+ in transportation fees to get up to see the house (had to rent a car and take a train often due to lack of car due to living in Manhattan) and an unknown sum in lost wages due to the hours spent dealing with this process (I am in sales, so the unknown amount is lost sales).  Am I at fault here? I have never tried to purchase a home. But, it seems to me that someone should have been aware of this before I spent so much time (2 months from first viewing to the day before closing on the house and finding I cannot buy it due to its status). Is it my realtor's fault? The seller's fault? The lawyer's? Due I have any recourse for getting my investment back?  I would understand if I lost the inspection money and mortgage assessment money because I backed out on the house or had financial problems, but I didn't. We were under contract. I thought this was going forward.  I am sort of at a loss here. Any help is greatly appreciated!   Signed,  Renter for life!",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "learned_hands_benefits"
+    },
+    {
+        "id": "39_lhb",
+        "question": "Does the following post discuss public benefits and social services that people can get from the government, like for food, disability, old age, housing, medical help, unemployment, child care, or other social needs?\nPost: We just moved out of our apartment in FL after doing a walk through and being charged a $75 cleaning fee. They said everything seemed good and we would get our last water bill later on.  Today we got a bill for ($70) for the water. We moved out mid month and usually the water bill was ($40) for the whole month.  They also charged us ($295) for replacing the living room carpet, which they had seen during the walk through.  After doing some research online I found that normal wear and tear does not allow them to ask the tenant to pay for it. I guess it had some stains where the furniture had been sitting. But the carpet was old when we moved in.  We did not take pictures because of the walk through, we assumed everything was fine.  What do we do/say from here?",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "learned_hands_benefits"
+    },
+    {
+        "id": "40_lhb",
+        "question": "Does the following post discuss public benefits and social services that people can get from the government, like for food, disability, old age, housing, medical help, unemployment, child care, or other social needs?\nPost: In June I asked my landlord if it would be possible for us to renegotiate the length of my lease from two years to one. Renting this unit has been an absolute nightmare for various reasons and I was hoping she would work with me. We met to discuss the situation in person and to my surprise, she agreed. She said that as long as I didn't mind her showing the unit while I was still occupying it, she had no problem letting me go and returning my deposit. I asked if we would sign a revised lease to make everything legal and she said she didn't think that was necessary. That made me uneasy, so I emailed her a few days later, basically reiterating that I could leave xx/1/17 instead of xx/1/18, no strings attached and that she would return my deposit after a walkthrough. She emailed me back with a simple \"yes\". Now here I am two months later, and she texts me asking if I'm still \"breaking my lease.\" I texted back that yes, I still intend to move forward with leaving early. She texts me back that because I am breaking my lease I will have to forfeit my deposit, and that I now owe her an additional two months worth of rent as a penalty. I reminded her of our email exchange (which I saved in my archive folder as well as a printed hard copy) where she agreed to let me leave without penalty, but she is refusing to answer my attempts at contact, except for a text message where she informed me that I have 30 days from the day I leave to pay up or she will sue me in court, and that I'm not eligible for a walkthrough because I'm illegally breaking my lease. I'm in panic mode here, is the email exchange between us legally enough to defend myself in court if I have to? I feel like a complete fool for going through with this without a written and signed agreement.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "learned_hands_benefits"
+    },
+    {
+        "id": "41_lhb",
+        "question": "Does the following post discuss public benefits and social services that people can get from the government, like for food, disability, old age, housing, medical help, unemployment, child care, or other social needs?\nPost: Throwaway because this has the potential to include a lot of personal details. /r/personalfinance suggested to xpost here.  My mom has been on disability for as long as I can remember, and she has had a really hard life. Her disability is mental: she has trouble with basic remembering, organizing, keeping track of information, etc. She also has depression which has been off and on, and it sounds like it's really starting to hit her full force.  She lives in NM, USA (I live in a different state) and her only income is disability, with a few small side gigs like teaching music and pet-sitting. She inherited her mom's house, so doesn't have to pay rent or mortgage, but it is starting to fall apart. She owns a paid-off car that's always on its last legs. Her credit is shot, but has no formal debt. She has enough money for really basic living expenses, but is also terrible managing her money (maybe partially due to her disability). Essentially, no matter how much or how little she has each month she gets by but spends it all, so her emergency fund is always drained.  The more I talk to her, the more I see she is really starting to have trouble:  * Her house is in complete disrepair and she barely manages to negotiate help with neighbors or scrapes together enough to pay for a cheap repair person, which isn’t a quality fix.  * She has been taking her car to the same family-owned shop for 10+ years and they just keep adding big costs to her “tab”--then when she asks how much she owes they don’t even know! There’s no way she’d be able to keep this car up without their clearly free labor/parts, and I’m not anticipating this business can stick around forever operating like this.  * She has trouble driving medium-long distances, which seems to be getting worse over time (now trips over about an hour long are not possible). She literally falls asleep. I think some of her meds do this, and part of this might be her disability too. I worry she’s close to losing her ability to transport herself anywhere.  * She told me she is five years behind on her taxes. Because of this, she cannot access any community services that require her to prove she’s low-income or to help her generally get and keep her life together (social workers, community house repair programs, etc.). I ask her what’s keeping her from doing her taxes… apparently she has a CPA volunteering her time but she’s missing extensive documentation from her side gigs. So… she’s completely stuck. Are there any options for a person who had lost documentation of (pretty low levels of) income? She estimates about $200-$400 per month she cannot document over those past few years, and her volunteer CPA is basically saying nothing can be done without complete information.  * She has a counselor (had two for a while) but her depression is really starting to wear on her. She admits she has trouble getting up in the mornings and doing basic self-care tasks some days. I truly don’t believe she’s a danger to herself but I do think she is just sad, and life is hard for her right now.  * She is mostly introverted but I have been really proud of her ability to make friends and contribute when possible to try to build a community net around her. But… those connections have been dropping like flies. The neighbors that used to check on her and help her have moved, gotten busy, or in one case there was a misunderstanding about money and they stopped talking to my mom altogether. Her friends have thinned out--I think they are drained by the kind of general support she needs. Her disability (or something…) has started to make her act really weird the last few years. She talks about pointless things, gets confused following conversation, etc.  * She’s asked me for help with managing her money before, but she never does the steps to get us a joint account (she has to be the one to set it up in person because I cannot travel there right now). I also don’t want to be forceful about this… I will help with what she requests but since she’s not taking the actual steps I believe she is still clinging to what autonomy she still has. She knows she has extreme problems but isn’t ready to change yet, even though I’m here ready when she is.  I am so stuck right now and I don’t even know how to help. I feel like there has got to be some kind of service for people who have disabilities and need to be sort of dug out of a hole like this so they can access other social services. She’s been trying to do all this by herself for so long and it just doesn’t look like it’s working well anymore.  Any advice, stories, resources, kind words, harsh truths, etc. are appreciated.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "learned_hands_benefits"
+    },
+    {
+        "id": "42_lhb",
+        "question": "Does the following post discuss public benefits and social services that people can get from the government, like for food, disability, old age, housing, medical help, unemployment, child care, or other social needs?\nPost: Hi, I'm a person living in Washington state.  Yesterday, my friends and I went out to a club for my birthday, but the bouncer decided that the image on the I.D. did not look like me and confiscated it away from me (best birthday ever). They have refused to give it back until I call the cops, but I did not call the cops because I felt that this would be a larceny and that there would be more I could do about this situation.  Is it legal for clubs to confiscate a valid I.D.? and if not, what can I do about it?  Thank you so much for your help in advance.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "learned_hands_benefits"
+    },
+    {
+        "id": "43_lhb",
+        "question": "Does the following post discuss public benefits and social services that people can get from the government, like for food, disability, old age, housing, medical help, unemployment, child care, or other social needs?\nPost: Without getting bogged down in details, we are one month into a yearlong lease and would like to break it. We (likely) have no legal justification in doing so. The lease agreement gives a term of 12 months and asks that 30 days' notice be given in case of departure, but otherwise does not specify penalty fees for early termination.   - My understanding of CA law is that the landlord has to make a good-faith effort to re-rent the property and we are liable for any rents that she would miss out on. This particular landlord lives several states away and has a streak of vindictiveness. What would be the intelligent way to minimize our liability here? If we, say, found a craigslist tenant with an equivalent credit score willing to occupy the place but she rejects, would this be enough to protect us in small claims?   It's a bit of a fishing expedition, but I'm basically wondering what our options are.   - What is the bar for \"uninhabitable living conditions\" that would justify legally breaking the lease? Over the last year and a half we have had consistent, documented mold in the bathroom that the landlord has refused to address. It's a structural issue (no ventilation), but she claims it's from neglect or use. It hasn't made us sick, but it's still mold and I'm wondering if this could be leveraged.   Any other tips for how to go about this would be great. If we just lose our security deposit over this I think we'd be fine with it, but it could escalate.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "learned_hands_benefits"
+    },
+    {
+        "id": "44_lhb",
+        "question": "Does the following post discuss public benefits and social services that people can get from the government, like for food, disability, old age, housing, medical help, unemployment, child care, or other social needs?\nPost: I've read that federal rules state that it has to be from 71-81 during the summertime, but that during days of excessive heat (like, 100+) that there's a little wiggle room (so, 81 might not be the limit), so long as the health of the patients is not threatened.   I'm in search of a more specific answer If 71-81 is the specific limit during a regular summer day, then what is the specific limit during a 100+ day?  I'm asking because I'm closely monitoring the temperatures of an assisted living facility that I often visit. I'll leave it at that.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "learned_hands_benefits"
+    },
+    {
+        "id": "45_lhb",
+        "question": "Does the following post discuss public benefits and social services that people can get from the government, like for food, disability, old age, housing, medical help, unemployment, child care, or other social needs?\nPost: Hello, thank you for taking the time to read this, first of all. I will go direct to the point. 1) My ex has blocked me from contact with my daughter for the past 3 weeks. 2) She moved out of state without my permission and has left the country without my authorization as well.  3) My daughter and adopted son ( my ex’s son) are being home schooled, without me knowing about it. And I thought they were going to a regular school.  We got divorced 6 years ago in NH, with her having primary physical custody (Not the same as sole custody according to NH parenting plan form). We also have joint decision making over the two kids. The divorce decree mentioned that she will be able to relocate to Arizona, and so they did. Throughout the 6 years, I signed a consent once when they moved to Dallas, another when they lived in California, the times they have traveled and so on.   I just found out through my mother (who lives in southamerica) that she arrived to Peru last Saturday. My ex contacted her a day before (maybe so that it doesn’t seem like child abduction? ). My mother, since she doesn’t see her grand kids as much (maybe once a year), agreed to have them for a few hours and they had a great time.  My ex's mother also lives in Peru but in a distant city, and it is worth mentioning that that city has had mayor flash floods and slides which have destructed some of that city this past summer (winter there), making it a dangerous place to be at. This is where my kids are currently and I don’t know for how long exactly, although they said something being around Christmas to my mother as well.  Apparently according to my daughter, they have been living in Hawaii since May, last time I saw her was on January and I have always thought they were in Arizona, since that’s where they have been living for the past year and a half or so ( I am not entirely sure at this point).   I’d really like to know what the best next steps are and what can I accomplish. Ideally I wouldn't like to separate them from their mother but I am starting to doubt that it'd be the best for the kids to be with her long term with this type of upheavals; this is the 7th time or more that my ex and her bf move with the kids in 6 years. I cant let this go on and I have been passive enough. What are my options? I have done some research but there is a lot of contradictions even with lawyers.  Is this abduction? Child kidnapping? I read the definition of both and somewhat it fits. Would the fact that my mother having been in contact with my daughter and son contradict the fact that could be a possible abduction?  I also want to put a stop to this and not just be in touch or see my kids whenever they decide it's ok (my ex and her bf). I honestly have put up with a lot, I also have tried the “maybe later on my daughter will reflect and look for me”. I think this is has been enough.  Thank you in advance for the advice and thank for taking the time to read this.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "learned_hands_benefits"
+    },
+    {
+        "id": "46_lhb",
+        "question": "Does the following post discuss public benefits and social services that people can get from the government, like for food, disability, old age, housing, medical help, unemployment, child care, or other social needs?\nPost: On mobile, throwaway, first time posting, etc etc.   So I'm currently in Las Vegas, Nevada on vacation. I'm originally from Alberta Canada. Tonight me and a group of girls went out for some Asian fusion. Unfortunately I am anaphylactic to peanuts. I carry meds in case of a reaction and always tell the waitress of my allergy.   So at dinner we decided to let the server just bring us food that would end up totalling $40-50 each and sharing instead of each ordering something individually. I told her at the beginning that I am severely allergic to peanuts. This allergy includes peanut oil. Server says great she understands. Awesome.   So our food comes out, one dish being chicken satay. I double check with the server that dropped it off (not our waitress) that the satay does not have peanuts. He says nope, it does not. Great! He said the dressing in the salad (which wasn't on our table yet) might have peanuts and he'll go check. So I start dishing up. I use chopsticks to put some veggie dumplings on my plate. I then grab some other food and eat it. Notice an immediate allergic reaction. Not awesome.   The waitress then hurries over and says don't eat the dumplings as they are cooked in peanut oil. Unfortunately I used the same chopsticks to pick up the dumpling as I did to eat something else. So serious cross contamination. We call the hotel paramedic and an ambulance. I spend about three hours in the hospital for observation. I gave myself my epipen and Benadryl at the restaurant. They gave me prednisone at the hospital. Had an IV and fluids given.   My question is do I have any grounds to sue? I'm pretty pissed since we're here on vacation and I felt like shit. I do have travellers insurance so the hospital stay will be covered by them. I'm really just curious what my options are. Thanks!  TLDR; told restaurant about peanut allergy, served food with peanuts, spent evening in the hospital emerg.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "learned_hands_benefits"
+    },
+    {
+        "id": "47_lhb",
+        "question": "Does the following post discuss public benefits and social services that people can get from the government, like for food, disability, old age, housing, medical help, unemployment, child care, or other social needs?\nPost: First off let me state, me and my ex have a pretty good relationship, except shes very controlling and wants her way. Besides that she's an amazing mother and friend.  We're in the process of divorce and she keeps saying that she wants sole legal custody so she can make sure peyton attends the right schools and isn't raised into religion (family drama caused yhay issue)   So at first i agreed, nothing is finalized but after talking to a family friend who is works in a law firm she told me it was a terrible idea because I'd be essential giving up all rights as a father.   I love being a father and I don't want to give up my rights, but I'm extremely confused..  Any advice is greatly appreciated.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "learned_hands_benefits"
+    },
+    {
+        "id": "48_lhb",
+        "question": "Does the following post discuss public benefits and social services that people can get from the government, like for food, disability, old age, housing, medical help, unemployment, child care, or other social needs?\nPost: I'm not too sure on the details but someone close to me was raped around 4 years ago with the person that they lived with. From my understanding the rape was never violent, but the attacker was repeatedly told no and to stop during the attack. Also the attacker would regularly use alcohol to the extent where my friend would be drunk to the point of passing out (so unable to consent) repeatedly. Attacker has also been slightly violent during arguments (old scars to prove it). Is there anything that can be done?   Also my friend had filed a police report years ago but nothing came of it, my friend believes the police were too lazy to investigate and she never tried again.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "learned_hands_benefits"
+    },
+    {
+        "id": "49_lhb",
+        "question": "Does the following post discuss public benefits and social services that people can get from the government, like for food, disability, old age, housing, medical help, unemployment, child care, or other social needs?\nPost: Thanks for reading. I am a 22 year old child of two parents whom divorced when I was 2. My father never paid my mother child support, and when my mother tried to petition for some, he denied paternity. Anyway, he never paid a dime of child support. Is it possible to sue him for back child support? He lives in GA now. I have honest motives for wanting to sue as he has caused serious financial impediments to my life recently. Thank you!",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "learned_hands_benefits"
+    },
+    {
+        "id": "50_lhb",
+        "question": "Does the following post discuss public benefits and social services that people can get from the government, like for food, disability, old age, housing, medical help, unemployment, child care, or other social needs?\nPost: The landlord of my girlfriend's previous apartment is requesting she pay for replacing the carpet (due to a couple dog urine stains) after she moved out. When she moved in, she had to pay $200 for the security deposit along with a $300 pet deposit for each of her two dogs. The total cost to replace the carpet was $600. They used her security deposit to cover part of this but they are insisting that she owes the remaining $400. Shouldn't the pet deposit ($600) be used for the remaining amount? Thanks for your help.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "learned_hands_benefits"
+    },
+    {
+        "id": "51_lhb",
+        "question": "Does the following post discuss public benefits and social services that people can get from the government, like for food, disability, old age, housing, medical help, unemployment, child care, or other social needs?\nPost: My question is about child support and custody when married/vs not married. My guess was that the legal system would be significantly more involved with the child custody and support stuff if you were not married at the time of a kid's birth. I was picturing that with a divorce order, you'd pick what you both wanted, write that up and submit it to the judge, and they would accept it. (This is assuming both parents agreed on everything). I figured that if you weren't married then you'd have to \"follow the rules\" in terms of splitting custody and child support. I guess I was thinking because the presumption would be the parents don't have much of a relationship and might not be able to sort out stuff. But I am just guessing. Is there any truth to that?",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "learned_hands_benefits"
+    },
+    {
+        "id": "52_lhb",
+        "question": "Does the following post discuss public benefits and social services that people can get from the government, like for food, disability, old age, housing, medical help, unemployment, child care, or other social needs?\nPost: Hey /r/legaladvice. This is probably an easier question to answer. I bought a duplex a few years ago and the tenant whose living in the other side has lived there since 2000. I've had zero issues with him  since buying the place. He pays on time, he's clean, he does minor repairs himself, and he's a great guy in general. I got pretty lucky.  He told me he wants to update his renters insurance and they are asking for an updated lease since his lease was made 17 years ago. I haven't hired a property manager because it's really low effort with him and I haven't felt I would need any legal help with him as a tenant.   I don't want to just copy his old lease as it's one page and there's not a whole lot on it that protects me or him for that matter. I googled leases and there's just so much out there, it was overwhelming. My main concern is going with an online tool that ends up not covering me legally if a problem were ever to arise so I'm just unsure if it's smart to even use the online tools.   My question is, is there an online tool you'd recommend using for creating a lease or should I hire a property manager to write up a new lease? It'll be month to month and the rent is staying the same, he just needs this for his renters insurance.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "learned_hands_benefits"
+    },
+    {
+        "id": "53_lhb",
+        "question": "Does the following post discuss public benefits and social services that people can get from the government, like for food, disability, old age, housing, medical help, unemployment, child care, or other social needs?\nPost: My parents bought a house for me 10 years ago because my income was not enough to quality. They got the loan and I was on a title only. I put down 5,000 towards downpayment. I was paying for it mothly about +/_33% of the monthly payment Then I had to remove myself from title since I had to declare a bankruptcy but because I got a better paying job started paying down the loan at about 75% per month. I moved in in permanently and then got an even a better job and have paying about 98% of the payment. My parents never lived here. My parents bought it for me. I have been paying down the loan, initially with their help. Now the market value of the property has gone up. My father wants to retire and he has has an outstanding loan on a condo where he lives. He wants to sell me this house at about 75% market value. So essentially, I will have to pay the loan from the start again. He wants this money because he wants to pay off condo for his son and leave the paid off condo for him.  I think that is super unfair and unacceptable. I can add the money that he had to contribute toward the payments in the past to the loan, but the house was not intended for my parents. They should not profit on me. The house was purchased for me as  was unable at the time to get the loan. They never needed or wanted this house. How shall I proceed? They do not want to get the money they paid for it back. They want to make a profit on me, when they originally bought it at my request and for me. Thanks",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "learned_hands_benefits"
+    },
+    {
+        "id": "54_lhb",
+        "question": "Does the following post discuss public benefits and social services that people can get from the government, like for food, disability, old age, housing, medical help, unemployment, child care, or other social needs?\nPost: So there is a company that called my work and asked for the maintenance guy's name. Then they sent us a huge $1,000 order of light bulbs and claimed that our maintenance guy ordered them.  We contacted the company and told them that we didn't order them and they needed to arrange to have them picked up or shipped back.  They were extremely rude, literally screaming that we ordered them and we had to pay for them. We of course refuse and tell them to stop contacting us.  A few months go by and then they send us a new invoice for only the freight to ship them back, $200. Again I contact them and tell them that we are not paying and they can have the product picked up or arrange to have it shipped back at their cost.  They refused and now I've received a letter from a collections agency for the $200.  They are complete scumbags, I looked them up on the Better Business Bureau and there are ~20 complaints about them running this exact same scam on other businesses.  I was content to ignore their requests for payment but now I don't want us to suffer any consequences for this being sent to collections.  What should I do?",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "learned_hands_benefits"
+    },
+    {
+        "id": "55_lhb",
+        "question": "Does the following post discuss public benefits and social services that people can get from the government, like for food, disability, old age, housing, medical help, unemployment, child care, or other social needs?\nPost: Almost a year ago I contacted a housekeeping company on Craigslist. I will change names here, let's call the owners of the company Viktor and Svetlana.  Svetlana sent a cleaning lady to my apartment, we will call her Vera. Vera does a fantastic job, we like her a lot. She is very sweet and meek and deferential. She comes every other week or so as needed, we have a tiny apartment, she charges $60 and I add $10 as a tip for a total of $70, I make out a check to Vera directly every time she comes. She cleans the whole 550 sq. ft. apartment including the dishes.  Vera does not speak basically any English at all, so anything I have to say I have to communicate through Svetlana by text message. I have never met Viktor or Svetlana, but I text them to arrange cleaning or if I have some request for Vera. I have the suspicion that Svetlana may be a bit stern or mean to Vera.  This summer Vera started bringing her girls. The girls are out of school and are helping her clean. Usually I am not home when she comes, so I didn't notice at first, but I worked from home one morning and she had brought her daughter, and then another time I noticed that she has two daughters she sometimes brings. The girls are very sweet and always smiling and pleasant.   I am not certain of the age of the girls, but they are both teenagers. The older one is probably 16-17, the younger may be 14-15.  I don't know what to do.  My concerns:  - We like Vera and her girls a lot. I actually used to clean apartments myself when I was in college full-time and I can't imagine doing it as a single mother. She seems like a great mom with happy girls and we are not judging her or wanting to get her in trouble, I am confident that she is making the best choices she can for her girls. Whatever I do I do not want to make life harder for her or her girls.  - I don't know how old the girls are or if they are being compensated fairly. I can't ask Vera about this because she knows so little English she is nearly mute. I could ask Svetlana, but I don't know how much I trust Svetlana, I have never even met her.  - I have no idea how many hours a week the girls are working, I don't know how many homes Vera cleans. It seems she only brings her girls occasionally and only since the summer began, she brings the older one more often I think.  So I guess my question is, how do I know whether this arrangement is legal? Am I violating child labor laws? How do I remedy this situation in a way that is best for Vera and her girls?",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "learned_hands_benefits"
+    },
+    {
+        "id": "56_lhb",
+        "question": "Does the following post discuss public benefits and social services that people can get from the government, like for food, disability, old age, housing, medical help, unemployment, child care, or other social needs?\nPost: Hello guys,  Well, the mother of my child is moving away with my kid about 300+ miles away from me. We were never married but have had split custody without any official court order for that matter.  I have had a personal addiction problem which I have sought treatment in recently after getting into Rehab.  She gave me the heads up of her move well over a year ago and I did not put up with a fight due to my admittance of personal demons.  At the moment I am clean and have turned a new leaf although I am within 3 months of recovery I'd rather not elaborate.  Despite my problem I have always held down a job, often two when no overtime is available.  I live with both parents, one who is retired and taking care of my child most days of the week and another who is retiring within the year to dedicate bringing my child to school and taking care of her.  Now this was something the mother of my child and I were ok with as our plan for 5 years.  However, she is still adamant of moving away.  She virtually has the worst credit score, car repo'd, lives with either her spouse or family.  I am not on child support however I make sure to give her a couple hundred+ monthly which was originally for day care services however, she hasn't been in day care for over a year.  (Maybe longer, it's hard to believe her at this point.)  Now with my health and wellness getting in order I fear for my child.  Her mom still plans on moving to LA despite no vehicle, credit score, and no family in that area, let alone a true job option or place (she is waiting on section 8).   She's \"almost done\" with school  and does not have a good employment history.   I really want to fight for full custody and keep my child with me and my parents, we even had a school lined up a few blocks away from my house but the mother of my child immediately interjected at my suggestion with \"shes not going to school here\".  With her vehicle repo'd I told her that I wanted my child with me being that you don't have a car nor stable home to live in and she was adamant of her moving to LA.  Despite no vehicle her response was \"she'll just have to school late\", she will be attending 1st grade.  I am really trying to not let the stress get to me.  I do NOT anticipate a relapse nor am I considering it, but I really want full custody of my child.  I work 7 days, 56 hours a week as my parents depend on me to maintain my good credit score (they have filed for bankruptcy) and despite the economy, there retirement pay supports our household.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "learned_hands_benefits"
+    },
+    {
+        "id": "57_lhb",
+        "question": "Does the following post discuss public benefits and social services that people can get from the government, like for food, disability, old age, housing, medical help, unemployment, child care, or other social needs?\nPost: So I was working at my dad's perfume store yesterday so he can take a day off. And I don't have that much experience, I occasionally fill in whenever he needs to take a day off for something. So yesterday I thought it was my lucky day cause I had two groups of people come in and buy nearly 500$ worth of items each but with credit cards. Now once again I don't have that much experience with this type of work. I just sold them the stuff but the procedure was the same as with any other group of people buying multiple items. Show them multiple stuff, bargain, and eventually they buy the stuff. I entered the price on the machine, they put in the card, they put in the pin, they signed the receipt and it was the end of that. Turns out both groups used stolen cards. So I get a call from my brother today saying both cards were stolen and we might not get the money for the stuff. But I pretty much followed the procedure I was told to, its just I don't know why we wouldn't get the money back.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "learned_hands_benefits"
+    },
+    {
+        "id": "58_lhb",
+        "question": "Does the following post discuss public benefits and social services that people can get from the government, like for food, disability, old age, housing, medical help, unemployment, child care, or other social needs?\nPost: I rented a house on the 5th of July, just myself and my 4 year old son. Prior to me moving in, the landlord informed me of a \"bunker\" that is in the middle of the backyard. She locked the door of the bunker with with a pad lock and told me she did that so nobody gets hurt. I never opened the door of the bunker till 3 days later, when my buddy was helping me move in, the other side of the door was broken and he opened it. I seen stairs that go down about 10 feet, and was led to a very creepy room. I was never told about there being a room down there, she (landlord) made it sound like there is just a \"hole\" down there. Apparently they used these things during the war? I don't​ know much about them, and I don't care to learn. My question is, the rental agreement does not state anything about the room in the ground, or the bunker itself. What are my loopholes to getting out of this lease and getting my money back? I paid first months rent and security deposit. I left the house on the 9th of July, cause I was very worried about my son going down there when I'm sleeping or at work. The landlord told me to leave, but she will charge me $55 per day till she rents it out to someone else, then she will give me some money back, and if she don't rent the house out by the first of August, I have to pay another rent, even though I'm not living there. Sorry for the long post. Need help! Thanks.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "learned_hands_benefits"
+    },
+    {
+        "id": "59_lhb",
+        "question": "Does the following post discuss public benefits and social services that people can get from the government, like for food, disability, old age, housing, medical help, unemployment, child care, or other social needs?\nPost: She spoke to the local sheriff, and he claims that since she left she has no legal right to any of the possessions left in the house or the joint property. The sheriff and my ex-wife don't really care much for one another, and it sounds like he's filling her full of bullshit out of spite. She and the husband are still married, and I don't see how she forfeited her claim to her belongings when she moved out. I think the sheriff is full of shit and just being petty.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "learned_hands_benefits"
+    },
+    {
+        "id": "60_lhb",
+        "question": "Does the following post discuss public benefits and social services that people can get from the government, like for food, disability, old age, housing, medical help, unemployment, child care, or other social needs?\nPost: Okay... technically this isn't an issue yet (haven't even made our first payment), but I'd like to have somewhat of a plan ahead of time, or at least an idea of what I can do to stay on the ball.  Wife and I just bought a house (250k) in mid June in a midwestern city with 10% down. First payment is due 8/1.  Got a letter from our lender--BankRecommendedByOurRealtor or BRBOR--(who was pretty good, got us through closing and on time) that they had sold the loan to Crappy Loan Owners, or CLO, which I'm assuming is standard. Last house we bought we just went through our local bank (MyBank), and had the same deal--they sold the loan to someone--but we continued to make the payments to MyBank. This time, we are supposed to send our money to CLO, and BRBOR seems to no longer be in the picture.  CLO seems to be a pile of crap. On their facebook, mostly 1-2 * reviews, the only 5 star reviews are people who work for CLO. 90% of the complaints are that they block sites like Mint. The other 10% seem to be a general mix of complaints about lousy customer service, hard to refinance (\"We don't do that kinda thing\"), and--this one worries me--taxes not getting paid on time, with notices getting sent to the borrower home occupant from the county that they need to pay up.  So my question is... how much of this is on me? If I make timely payments on my loan, never missing a date, and they suck and don't pass my tax money on to the county, State Farm, the PMI company (if that's a separate entity?), am I on the hook for anything as the homeowner? Could I... go behind their back and make my own property tax payments, and take away ownership of the house (that kinda excites me, but I'm pretty sure I signed documents that said I'll pay back the loan...  :-P). And second part of the question... if I see anything amiss (i.e. a missed tax deadline), would it be good just to get a lawyer to take care of it from the get-go? (wife has a new job, and legal services are offered as a benefit that you can pay something like $18-20/pay period for, then use when you need them--job's not at a law firm, it's just a separate benefit like paying an extra $11.24/mo to get vision insurance).",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "learned_hands_benefits"
+    },
+    {
+        "id": "61_lhb",
+        "question": "Does the following post discuss public benefits and social services that people can get from the government, like for food, disability, old age, housing, medical help, unemployment, child care, or other social needs?\nPost: My aunt and uncle, who live in PA, are in their 80s. My uncle has had dementia now for a few years and it has changed his personality and decision making a bit. Recently he has been thinking about paving his driveway, which would cost them quite a bit of money.  This has gotten my aunt worried about my uncle's financial decision making, and she is concerned someone might take advantage of their situation. She was asking me what she should do, but I am really not very knowledgeable about legal stuff. I was hoping maybe someone could provide some advice about what her best options are before she discusses things with a lawyer. Thanks in advance.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "learned_hands_benefits"
+    },
+    {
+        "id": "62_lhb",
+        "question": "Does the following post discuss public benefits and social services that people can get from the government, like for food, disability, old age, housing, medical help, unemployment, child care, or other social needs?\nPost: I'm in Minnesota. A little background to this twisty, complicated, decade-long issue. (names changed) 12 years ago when my sister was in high school, she was dating a nice boy named Mike. Mike's sister Nancy was... crazy. She had a baby (Derek) when they were all in 10th grade, and, long story short, Nancy was a huge partier and drug user and her parents were no better. Mike and my sister ended up raising Derek pretty exclusively (with help from my parents) until Derek was about 4. My sister and Mike got married right out of high school and then divorced (amicably), but Nancy continued to leave Derek at my sister's house for weeks while she disappeared god knows where. On and on this went until Derek was about 8. Nancy ended up doing some jail time and Derek was living with her parents who were heavy gamblers and drinkers. He was getting in serious trouble in school and having serious behavioral problems. Mike intervened and called my sister asking if she could take Derek full time as no one else in their family was stable enough to care for him. She agreed and Nancy agreed as well, stating that she 'never wanted him'. Derek went to live with my sister and her boyfriend Randy who, because he's such a great guy, had no problem with her ex husband's sister's kid moving in with them out of the blue. They worked up a plan with the new school district and got Derek into family therapy to work through his issues, and over the last couple of years he has been very stable and his grades and outlook have improved immensely. He has stated that he hates his mom for what she's done and he wants to live with my sister forever.    Things were going well until about 2 months ago. Nancy has been in and out of rehab for years, and she is currently living in a halfway house. She called my sister to demand that she bring Derek down to the Twin Cities (about a 6 hour drive from where my sister lives) because she wanted Derek to stay with her for the summer. My sister said no, for every reason. Nancy is living in a halfway house, Nancy is not sober, Nancy does not have a job. Derek is doing well, he is stable and he is happy with my sister. Nancy then threatened my sister and said she would be taking Derek back full time unless my sister drove him to the Twin Cities every weekend for visitation. My sister can't do that, it's a huge cost, it's a huge amount of time, and most importantly, Derek doesn't want to see his mom.    She is currently waiting on her approval for foster care status, but that takes time. She doesn't have any legal rights over Derek, but his entire extended family 100% agrees that the best place for him is with my sister. What options does she have to make sure that Nancy doesn't follow through with her threat? Everyone is sure that *eventually* Derek will still end up with my sister, but that could take time, and Nancy is so unstable that my sister worries for his well being, even being with Nancy for a short amount of time. She's feeling very frantic and stressed and she doesn't know who to talk to or where to go to make sure this doesn't happen.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "learned_hands_benefits"
+    },
+    {
+        "id": "63_lhb",
+        "question": "Does the following post discuss public benefits and social services that people can get from the government, like for food, disability, old age, housing, medical help, unemployment, child care, or other social needs?\nPost: Hi there, First time posting here and I'm hoping that it's helpful to my understanding of the system and what the circumstances mean. I'll try to keep it as simple as possible.  Location: CT and NY -CT is where the crime is taking place, NY is where the person responsible lives. Summary: An independent contractor, working for our company in the service industry, has been and continues to plan and execute the theft of at least $25,000. That amount is what we know of so far but it keeps getting larger. He's accepting and reporting (on weekly reports) that money is coming in (to make us think it's being collected and placed into the right account). In reality, he's having clients make out checks to him personally and depositing them into his own bank account. He's also accepting cash from clients for things that aren't being reported and further, he has clients paying for services without reporting that they exist. Again, in total that theft amounts at least $25,000.  The real question: Okay so we spoke to some police officers in CT and they said that once the warrant is out (which will take 4-6 week) they will contact the police in NY and see if they will also issue a warrant. Now, let's say there is a warrant out in CT and NY BUT they also said that they won't actually go and bring him into custody...Huh? There's an unbelievable amount of evidence we've compiled that should be more than enough to go out and bring this person in but what it seems that we're being told is \"he's basically free to be until he makes a mistake.\" How can this be correct? I understand that some CT police don't want to go all the way to NY to arrest this person but, what if he's in the state? What if he happens to be in the same town? Will they take a call that says \"Here he is?\" The answer seems to be no, and my mind also seems to be blown that a criminal isn't being brought it and put through our legal system. I don't even know what the charges would be but maybe - grand larceny, fraud, damage to a business, forgery, like what would it take to mobilize and bring this person to justice? Are we just stuck with a warrant waiting for him to get pulled over for running a stop sign? There has to be an easier, more efficient, and just way to have him answer for his transgressions. Any help would be greatly appreciated. Thanks in advance!",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "learned_hands_benefits"
+    },
+    {
+        "id": "64_lhb",
+        "question": "Does the following post discuss public benefits and social services that people can get from the government, like for food, disability, old age, housing, medical help, unemployment, child care, or other social needs?\nPost: The new owners of the mortgage originally refused communication entirely with my friend and after months of failed calls and mail did the new owner actually respond by stating they refuse to accept any payments and will simply foreclose and sell the house.  They have already filed legal notices and set a date for the foreclosure. My friend's family has enough money to pay but with the new company refusing to accept those payments it's now been several months of no actual payments being made. They instead have been depositing it into a bank account waiting to pay so they can keep their home.  Is this even legal? What can anyone do in this situation to at least stop the foreclosure. Sadly my friend and has family have already gone to court once with an attorney but the attorney is pressing them to file for bankruptcy.   I am entirely ignorant to the law but that seems too drastic of a measure especially considering how close they were to paying off their mortgage and how they've never missed a payment. It just doesn't seem remotely legal. I'd really appreciate any advice or even a point in the right direction.   Extra details: they have receipts of every transaction, they were suddenly sent multiple letters all summoning them to court claiming they missed payments and now have to pay an incredible amount of money to not lose their home.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "learned_hands_benefits"
+    },
+    {
+        "id": "65_lhb",
+        "question": "Does the following post discuss public benefits and social services that people can get from the government, like for food, disability, old age, housing, medical help, unemployment, child care, or other social needs?\nPost: We are in the process of buying a home where my husband's new job is (San Antonio). We are supposed to close soon, but one of his former employers(Austin)  isn't returning any of the contact from the lender and it has been weeks. The problem being, that closing is right around the corner and not hearing from this company will cause a delay. If there is a delay the seller can back out and we will lose the home. I fear that this could likely happen, as it is a military family that has orders to a new state and they need to sell their home. Do we have any legal recourse to compel his former employer to pick up the phone?   He left the employment on good terms, he explained that he was unable to support his family on the salary and gave proper notice.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "learned_hands_benefits"
+    }
+]

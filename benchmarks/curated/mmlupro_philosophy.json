@@ -1,0 +1,3411 @@
+[
+ {
+  "id": 10774,
+  "question": "Select the best translation into predicate logic. David teaches Chris. (c: Chris; d: David; Txy: x teaches y)",
+  "options": [
+   "Tdc",
+   "Tcc",
+   "cTd",
+   "cTc",
+   "dTdc",
+   "dTc",
+   "Tcd",
+   "Tdd",
+   "dTcd",
+   "cTdd"
+  ],
+  "target": 0,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 10775,
+  "question": " Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whether the statements are logically equivalent or contradictory. If neither, determine whether they are consistent or inconsistent. Justify your answers.\n(~M ⊃ ~N) ∨ (O ≡ N) and (~M · N) · [(~O ∨ ~N) · (O ∨ N)]",
+  "options": [
+   "Both logically equivalent and consistent",
+   "Both consistent and contradictory",
+   "Both logically equivalent and contradictory",
+   "Contradictory",
+   "Neither logically equivalent nor contradictory, but inconsistent",
+   "Logically equivalent",
+   "Both inconsistent and contradictory",
+   "Inconsistent",
+   "Neither logically equivalent nor contradictory, but consistent",
+   "Neither logically equivalent nor inconsistent, but contradictory"
+  ],
+  "target": 3,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 10776,
+  "question": " Which of the following propositions is an immediate (one-step) consequence in PL of the given premises?\nU ⊃ W\nW ⊃ (X ≡ ~Y)\n(X ≡ ~Y) ⊃ Z\n~Z",
+  "options": [
+   "~W ∨ Z",
+   "U ⊃ Z",
+   "~W",
+   "~U",
+   "U ∨ W",
+   "~(U ⊃ W)",
+   "Z ∨ W",
+   "~Z ⊃ W",
+   "~(X ≡ ~Y)",
+   "(X ≡ ~Y) ∨ Z"
+  ],
+  "target": 8,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 10777,
+  "question": "Select the best translation into predicate logic. Holly loves Frances. (f: Frances; h: Holly; Lxy: x loves y)",
+  "options": [
+   "Lhf",
+   "hLf",
+   "hLh",
+   "Lfh",
+   "LfLh",
+   "fLhL",
+   "fLf",
+   "hLfL",
+   "fLh",
+   "LfhL"
+  ],
+  "target": 0,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 10778,
+  "question": "Select the best translation into predicate logic. Earth isn't bigger than Jupiter. (e: Earth; j: Jupiter; Bxy: x is bigger than y)",
+  "options": [
+   "j~Be",
+   "Be~j",
+   "Bej",
+   "~eBj",
+   "~Bej",
+   "e~Bj",
+   "~Bje",
+   "B~ej",
+   "~jBe",
+   "Bje~"
+  ],
+  "target": 4,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 10779,
+  "question": " Select the best translation into predicate logic. All birds live in some nest. (Bx: x is a bird; Nx: x is a nest; Lxy: x lives in y)",
+  "options": [
+   "(∃x)[Bx ⊃ (∃y)(Ny • Lxy)]",
+   "(∀x)[(Bx • Ny) ⊃ Lxy]",
+   "(∀x)(∃y)[(Bx • Ny) ⊃ Lxy]",
+   "(∃x)(∀y)[(Bx • Ny) ⊃ Lxy]",
+   "(∀x)(∃y)[(Bx ⊃ Ny) • Lxy]",
+   "(∀x)[(∃y)(Bx • Ny) ⊃ Lxy]",
+   "(∀x)(∀y)[(Bx • Ny) ⊃ Lxy]",
+   "(∀x)[(∃y)(Ny • Bx) ⊃ Lxy]",
+   "(∀x)[Bx ⊃ (∃y)(Ny • Lxy)]",
+   "(∀x)[Bx ⊃ (∀y)(Ny • Lxy)]"
+  ],
+  "target": 8,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 10780,
+  "question": " Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)\nL ⊃ [(M ∨ ~N) ⊃ O]\n(N ⊃ O) ⊃ (~P ⊃ Q)\nR ⊃ ~Q / L ⊃ (R ⊃ P)",
+  "options": [
+   "Valid",
+   "Invalid. Counterexample when L, M, O, Q, and R are true and N and P are false",
+   "Invalid. Counterexample when L, N, O, Q, and R are true and M and P are false",
+   "Invalid. Counterexample when L, N, and R are true and M, O, P, and Q are false"
+  ],
+  "target": 3,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 10781,
+  "question": "Identify the conclusion of the following argument. Remember to remove any conclusion indicators. It is wrong for society to kill a murderer. This follows for the reason that if a murderer is wrong in killing his victim, then society is also wrong in killing the murderer. And a murderer is wrong in killing his victim.",
+  "options": [
+   "A murderer is not wrong in killing his victim.",
+   "If a murderer is right in killing his victim, then society is also right in killing the murderer.",
+   "And a murderer is wrong in killing his victim.",
+   "This does not follow for the reason that if a murderer is wrong in killing his victim, then society is also wrong in killing the murderer.",
+   "And a murderer is not wrong in killing his victim.",
+   "This follows for the reason that if a murderer is wrong in killing his victim, then society is also wrong in killing the murderer.",
+   "If a murderer is wrong in killing his victim, then society is also wrong in killing the murderer.",
+   "Society is not wrong in killing the murderer.",
+   "A murderer is right in killing his victim.",
+   "It is wrong for society to kill a murderer."
+  ],
+  "target": 9,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 10782,
+  "question": " According to Reiman, van den Haag's argument leads to the conclusion that",
+  "options": [
+   "we should refrain from imposing the death penalty.",
+   "the death penalty is a necessary evil.",
+   "murder is wrong.",
+   "we should institute death by torture.",
+   "capital punishment serves as a deterrent.",
+   "society should be more lenient towards criminals.",
+   "we should abolish all forms of punishment.",
+   "the death penalty is the ultimate form of justice.",
+   "criminals should be given a chance to reform.",
+   "the refusal to execute criminals has a civilizing effect."
+  ],
+  "target": 3,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 10783,
+  "question": " Ashford's article is meant to address a particular paralysis in the face of",
+  "options": [
+   "the daunting task of solving worldwide economic imbalance.",
+   "the impossibility of meeting everyone's basic needs.",
+   "having to give up so much of our own wealth in light of Singer's arguments.",
+   "having to choose between addressing immediate harm and addressing structural injustice.",
+   "reconciling conflict moral theories.",
+   "the difficult task of prioritizing multiple global issues.",
+   "the challenge of implementing sustainable solutions to poverty.",
+   "the sheer scope of global poverty.",
+   "the overwhelming responsibility of addressing world hunger.",
+   "the complexity of addressing environmental issues globally."
+  ],
+  "target": 7,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 10784,
+  "question": " According to Reiman, van den Haag's arguments in favor of the death penalty",
+  "options": [
+   "are not based on logical reasoning.",
+   "are flawed due to lack of empirical evidence.",
+   "contradict the principles of human rights.",
+   "follow common sense.",
+   "are based on biased principles.",
+   "should be accepted.",
+   "prove that torture is morally impermissible.",
+   "are based on the concept of retribution.",
+   "promote the idea of capital punishment.",
+   "are incompatible with the right to retaliation."
+  ],
+  "target": 3,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 10785,
+  "question": " What is Pence's main objective in his article \"Will Cloning Harm People?\"",
+  "options": [
+   "to use Kant's humanity formulation to show that cloning is morally acceptable",
+   "to argue for the potential benefits of cloning",
+   "to use consequentialist arguments to show that cloning is immoral",
+   "to use virtue ethics to prove that cloning is morally unacceptable",
+   "to use Kant's humanity formulation to show that cloning is immoral",
+   "to use utilitarian arguments to show that cloning is immoral",
+   "to object to consequentialist arguments against cloning",
+   "to argue that cloning is ethically neutral",
+   "to object to Kant's humanity formulation arguments against cloning",
+   "to use consequentialist arguments to prove that cloning is morally acceptable"
+  ],
+  "target": 6,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 10787,
+  "question": " Collins suggests that the moral value of caring actions comes from",
+  "options": [
+   "the cost-effectiveness of caring actions in terms of resources expended.",
+   "the non-instrumental value of caring actions as manifestations of intrinsic goods for person like love and forgiveness.",
+   "the value assigned to the action by the person performing the caring act.",
+   "how well any caring actions fulfills the recipient's interests and the strength of one's intention to fulfill the recipient's interest.",
+   "the balance between the intention and the actual outcome of the caring actions.",
+   "the intrinsic value of caring attitudes which motivate caring actions.",
+   "the impact of the actions on the overall well-being of the society.",
+   "the degree to which those actions align with societal norms and expectations.",
+   "the extent to which the actions are recognized and appreciated by others.",
+   "the degree to which those actions produces the greatest amount of happiness in the recipient of care."
+  ],
+  "target": 3,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 10788,
+  "question": " The most common form of cosmopolitanism is _____ cosmopolitanism, according to which those in a position to do so have an obligation to assist those in need because of poverty and to promote basic human rights.",
+  "options": [
+   "political",
+   "humanitarian",
+   "philosophical",
+   "universal",
+   "moral",
+   "economic",
+   "ethical",
+   "social",
+   "global",
+   "cultural"
+  ],
+  "target": 4,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 10790,
+  "question": " The principle Arthur calls \"the greater moral evil rule\"says that",
+  "options": [
+   "morality itself is a great evil.",
+   "people should always strive to commit the lesser evil, even if it results in personal gain.",
+   "the person who commits the greater evil is the one who is morally responsible for the situation.",
+   "people are entitled to keep their earnings only if there is no way for them to prevent a greater evil by giving them away.",
+   "people are morally obligated to share their wealth if it can prevent a greater evil.",
+   "being rich is a great moral evil, and as such we should all strive to live on a moderate income.",
+   "the greater moral evil rule is a concept which states that it's always wrong to do evil, regardless of the circumstances.",
+   "two moral evils do not make a moral good.",
+   "people are allowed to do a smaller evil to prevent a greater one.",
+   "the concept of evil is subjective and varies from person to person."
+  ],
+  "target": 3,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 10791,
+  "question": " Ross claims that the essential defect of utilitarianism is that it ignores",
+  "options": [
+   "the significance of moral intentions.",
+   "epistemological responsibility.",
+   "the role of virtue in morality.",
+   "the value of pleasure.",
+   "the importance of individual rights.",
+   "the potential consequences of actions.",
+   "the concept of justice.",
+   "moral obligations.",
+   "the personal character of duty.",
+   "autonomy."
+  ],
+  "target": 8,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 10792,
+  "question": " Christopher Heath Wellman defends the position that",
+  "options": [
+   "nation-states have a presumptive right to close their borders to all potential immigrants.",
+   "nation-states have an obligation to close their borders to protect their own citizens.",
+   "closing borders to all potential immigrations is an inherently racist social policy.",
+   "anti-egalitarianism is incompatible with liberal cosmopolitanism.",
+   "anti-egalitarianism is compatible with liberal cosmopolitanism.",
+   "nation-states have an obligation to open their borders to the least well-off potential immigrants.",
+   "all borders should be entirely open, with no restrictions on immigration.",
+   "the concept of nation-states should be abolished in favor of a global government.",
+   "potential immigrants have a presumptive right to cross any border they choose.",
+   "nation-states should prioritize their own citizens' needs over potential immigrants."
+  ],
+  "target": 0,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 10793,
+  "question": " According to Kant, an imperative that represents an action as a necessary means to something that is willed is what kind of imperative?",
+  "options": [
+   "categorical",
+   "autonomous",
+   "consequential",
+   "hypothetical",
+   "practical",
+   "noumenal",
+   "moral",
+   "universalizable",
+   "conditional",
+   "theoretical"
+  ],
+  "target": 3,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 10794,
+  "question": " Baron cites a summary of Ali Soufan's Senate testimony to suggest that",
+  "options": [
+   "torture is always wrong without exception.",
+   "torture is the most effective method of interrogation.",
+   "successful interrogation may not require torture.",
+   "all successful interrogations involve some form of torture.",
+   "Ali Soufan was subjected to torture during his testimony.",
+   "Ali Soufan denounced the use of torture entirely in his testimony.",
+   "endorsing a single act of torture requires endorsing torture as a practice.",
+   "Ali Soufan supports the use of torture in interrogation.",
+   "torture can be ethically justified in some situations.",
+   "torture works in only limited situations."
+  ],
+  "target": 2,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 10813,
+  "question": "Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)\nH ≡ (~I ∨ J)\nH ∨ ~J / ~I",
+  "options": [
+   "Invalid. Counterexample when J is true and H and I are false",
+   "Valid. No counterexample exists",
+   "Invalid. Counterexample when H, I, and J are false",
+   "Invalid. Counterexample when H and J are true and I is false",
+   "Invalid. Counterexample when H is true, I and J are false",
+   "Valid",
+   "Invalid. Counterexample when I is true and H and J are false",
+   "Invalid. Counterexample when I is false and H and J are true"
+  ],
+  "target": 6,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 10814,
+  "question": "Select the best translation into predicate logic: Either Taylor or Eric is a latte boy.",
+  "options": [
+   "Lt ∨ Le",
+   "Lx ∨ Ly",
+   "Lt ∧ Le",
+   "L(t ∧ e)",
+   "tL ⊃ eL",
+   "tL ∨ eL",
+   "Lx ∧ Ly",
+   "L(t ∨ e)",
+   "E ∨ T",
+   "Tl ⊃ El"
+  ],
+  "target": 0,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 10815,
+  "question": "Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)\nE ⊃ F\nG ⊃ ~F / ~G ∨ ~E",
+  "options": [
+   "Invalid. Counterexample when E, F, and G are true",
+   "Invalid. Counterexample when E is true, G is true, and F is true",
+   "Invalid. Counterexample when E and G are true and F is false",
+   "Invalid. Counterexample when E, F are true and G is false",
+   "Valid",
+   "Invalid. Counterexample when E is false, G is true, and F is true",
+   "Invalid. Counterexample when F and G are true and E is false",
+   "Invalid. Counterexample when E, F, and G are all false",
+   "Invalid. Counterexample when E is false, G is false, and F is true",
+   "Invalid. Counterexample when E is true, G is false, and F is true"
+  ],
+  "target": 4,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 10816,
+  "question": " Which of the given formulas of PL is the best symbolization of the following sentence?\nEither England's importing beef is not a necessary condition for France's subsidizing agriculture, or China promotes human rights if South Africa supplies diamonds.",
+  "options": [
+   "(E ⊃ ~F) ∨ (S ≡ C)",
+   "~(F ⊃ E) ∨ (S ⊃ C)",
+   "~(F ⊃ E) ∨ (C ⊃ ~S)",
+   "(~E ⊃ F) ∨ (S ⊃ C)",
+   "(~F ⊃ E) ∨ (C ≡ ~S)",
+   "(~F ⊃ E) ∨ (C ≡ S)",
+   "(F ⊃ E) ∨ (~C ⊃ S)",
+   "~(F ⊃ ~E) ∨ (S ⊃ C)",
+   "(~E ⊃ F) ∨ (C ⊃ S)",
+   "(E ⊃ F) ∨ (C ⊃ S)"
+  ],
+  "target": 1,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 10818,
+  "question": " Which of the given formulas of PL is the best symbolization of the following sentence?\nSince the university raised tuition, the president approved of it and the board didn't prevent it.",
+  "options": [
+   "U • (P ⊃ ~B)",
+   "U ⊃ (P ∨ ~B)",
+   "(U ∨ P) • B",
+   "U ⊃ (~P • ~B)",
+   "(U ⊃ P) • B",
+   "U ⊃ (P • B)",
+   "(~U ⊃ P) • B",
+   "B ⊃ (U • P)",
+   "(P • ~B) ⊃ U",
+   "U ⊃ (P • ~B)"
+  ],
+  "target": 9,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 10819,
+  "question": " Select the best translation into predicate logic. All children go to some school. (Cx: x is a child; Sx: x is a school; Gxy: x goes to y)",
+  "options": [
+   "(∀x)(∃y)[(Cx • Sy) • Gxy)",
+   "(∀x)[Cx • (∃y)(Sy ⊃ Gxy)]",
+   "(∀x)[Sx ⊃ (∃y)(Cy • Gxy)]",
+   "(∀x)(∃y)[(Sx • Cy) • Gxy]",
+   "(∀x)(∃y)[(Cx ⊃ Sy) • Gxy]",
+   "(∀x)(∃y)[(Cx • Sy) ⊃ Gxy]",
+   "(∀x)[Sx ⊃ (∃y)(Cy ⊃ Gxy)]",
+   "(∀x)[Sx • (∃y)(Cy • Gxy)]",
+   "(∃x)(∀y)[(Cx • Sy) • Gxy]",
+   "(∀x)[Cx ⊃ (∃y)(Sy • Gxy)]"
+  ],
+  "target": 9,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 10821,
+  "question": " Carruthers approaches questions about the moral standing of nonhuman animals from the perspective of which of the following moral theories?",
+  "options": [
+   "relativism",
+   "consequentialism",
+   "natural law theory",
+   "egoism",
+   "Kantianism",
+   "utilitarianism",
+   "deontology",
+   "contractualism",
+   "existentialism",
+   "virtue ethics"
+  ],
+  "target": 7,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 10822,
+  "question": " What two problems does individualism lead us into, according to Hourdequin?",
+  "options": [
+   "They lead us into \"tragedy of the commons\" situations and they instill in us an atomistic view of persons.",
+   "It leads to a decline in societal values and the rise of selfish behavior.",
+   "It encourages a culture of isolation and self-centeredness, and leads to a lack of community engagement.",
+   "It leads to the breakdown of social structures and the erosion of collective responsibility.",
+   "It leads to increased greenhouse gas emissions and increased consumption of non-recyclable goods.",
+   "It leads to a lack of empathy and understanding of others, and an increase in individualistic behavior.",
+   "It results in increased consumption and waste, and a disregard for the environment.",
+   "It leads to failures of developing integration and integrality.",
+   "We both tend to think of our moral obligations as only personal obligations, and so think that we can only advocate for policy in \"tragedy of the commons\" situations.",
+   "It promotes competition over cooperation and leads to societal fragmentation."
+  ],
+  "target": 8,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 10823,
+  "question": " What is an example of \"mutual coercion, mutually agreed upon\"?",
+  "options": [
+   "all countries cooperating to change the existing incentive structure by introducing a system of enforceable sanctions to curb climate change.",
+   "the agreement of more powerful nations to require less powerful nations to curb greenhouse gas emissions for the benefit of all humanity.",
+   "the agreement of less powerful nations to boycott trade with more powerful nations until the latter agree to curb their greenhouse gas emissions.",
+   "the agreement of a large number of individual agents to restrict their own pollution."
+  ],
+  "target": 0,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 10825,
+  "question": " What kind of consequentialist theory does Dershowitz think can justify terrorism in certain extreme particular cases?",
+  "options": [
+   "deontological ethics",
+   "rule-based hedonism",
+   "act-based deontology",
+   "egoistic hedonism",
+   "moral relativism",
+   "act utilitarianism",
+   "rule utilitarianism",
+   "rule egoism",
+   "virtue ethics",
+   "act-based hedonism"
+  ],
+  "target": 5,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 10826,
+  "question": " Which of the following is the term used to refer to a stage in prenatal development which in humans begins at roughly the second week of pregnancy and lasts until roughly the eighth week?",
+  "options": [
+   "embryonic stage",
+   "fetal stage",
+   "pre-embryonic stage",
+   "zygotic stage",
+   "viability",
+   "postnatal stage",
+   "neonatal stage",
+   "implantation stage",
+   "gestational stage",
+   "fertilization"
+  ],
+  "target": 0,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 10828,
+  "question": " The second premise in Singer's main argument is: \"If it is in your power to prevent something bad from happening, without sacrificing anything nearly as important, it is wrong not to do so.\" Which phrase in this premise is deliberately left vague?",
+  "options": [
+   "\"it is in\"",
+   "\"in your power\"",
+   "\"prevent\"",
+   "\"If it is\"",
+   "\"it is wrong\"",
+   "\"not to do so\"",
+   "\"nearly as important\"",
+   "\"from happening\"",
+   "\"something bad\"",
+   "\"without sacrificing\""
+  ],
+  "target": 6,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 10829,
+  "question": " One way to value a patient's autonomy is by aiming to maximize his or her effective options. When we value a patient's autonomy in this way, what, according to Velleman, do we value?",
+  "options": [
+   "the patient's ability to make informed decisions",
+   "the ability to share reasons with the patient",
+   "the ability to understand the patient's needs",
+   "the patient's right to refuse treatment",
+   "the ability to provide the patient with options",
+   "the patient's personal preferences",
+   "the patient's capacity for self-determination",
+   "the patient's opportunities for self-determination",
+   "the patient's understanding of their medical condition",
+   "the ability to communicate effectively with the patient"
+  ],
+  "target": 7,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 10830,
+  "question": " An unborn vertebrate animal that has developed to the point of having the basic structure that is characteristic of its kind is known as",
+  "options": [
+   "a pupa.",
+   "an embryo.",
+   "a gamete.",
+   "a larva.",
+   "a neonate.",
+   "a juvenile.",
+   "a fetus.",
+   "a zygote.",
+   "a blastocyst.",
+   "a hatchling."
+  ],
+  "target": 6,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 10831,
+  "question": " Which of the following claims would Leopold clearly accept?",
+  "options": [
+   "The problems associated with how we should use our natural environment ultimately concern how human beings should treat each other.",
+   "We should think in terms of \"the balance of nature\" to properly appreciate the value of the natural environment.",
+   "The problems associated with how we should use our natural environment are not merely economic problems.",
+   "We should ignore all economic motives in deciding questions about land use."
+  ],
+  "target": 2,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 10856,
+  "question": " Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)\nP ⊃ Q\nQ · R / ~P · R",
+  "options": [
+   "Valid",
+   "Invalid. Counterexample when P is false, R is true and Q is false",
+   "Invalid. Counterexample when P and R are true and Q is false",
+   "Invalid. Counterexample when P is false, Q is true and R is false",
+   "Invalid. Counterexample when P, Q, and R are all false",
+   "Invalid. Counterexample when R and Q are true and P is false",
+   "Invalid. Counterexample when P and Q are true and R is false",
+   "Invalid. Counterexample when P, R, and Q are true",
+   "Invalid. Counterexample when P is true, R is false and Q is true",
+   "Valid. No possible counterexample"
+  ],
+  "target": 7,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 10857,
+  "question": " Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whether the statements are logically equivalent or contradictory. If neither, determine whether they are consistent or inconsistent. Justify your answers.\n~O ⊃ P and O ∨ P",
+  "options": [
+   "Both consistent and inconsistent",
+   "Neither logically equivalent nor contradictory, but inconsistent",
+   "Contradictory",
+   "Both contradictory and inconsistent",
+   "Neither logically equivalent nor contradictory, but consistent",
+   "Both logically equivalent and contradictory",
+   "Both logically equivalent and consistent",
+   "Logically equivalent",
+   "Inconsistent",
+   "Neither logically equivalent, contradictory, consistent, nor inconsistent"
+  ],
+  "target": 7,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 10858,
+  "question": "Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)\n(T · ~U) ⊃ ~W\n~W ⊃ X\n~Z ⊃ W\n~(X · Z) / T ⊃ U",
+  "options": [
+   "Valid",
+   "Invalid. Counterexample when T and X are true and U, W, and Z are false",
+   "Invalid. Counterexample when W, X, and Z are true and T and U are false",
+   "Invalid. Counterexample when T, U, and X are true and W and Z are false",
+   "Invalid. Counterexample when T, U, and W are true and X and Z are false",
+   "Invalid. Counterexample when T, W, and Z are true and U and X are false",
+   "Invalid. Counterexample when T, U, and Z are true and W and X are false",
+   "Invalid. Counterexample when T, W, and X are true and U and Z are false",
+   "Invalid. Counterexample when U, W, and Z are true and T and X are false",
+   "Invalid. Counterexample when T, X, and Z are true and U and W are false"
+  ],
+  "target": 0,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 10859,
+  "question": " Which of the following propositions is an immediate (one-step) consequence in PL of the given premises?\n(N ⊃ ~O) ⊃ (O ∨ Q)\nP ⊃ (N ⊃ ~O)\nN ⊃ P",
+  "options": [
+   "P ⊃ O",
+   "O ∨ Q",
+   "N ⊃ Q",
+   "O ∨ P",
+   "~N",
+   "P",
+   "N ⊃ ~O",
+   "P ⊃ Q",
+   "~O ∨ Q",
+   "~P"
+  ],
+  "target": 5,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 10860,
+  "question": " Select the best English interpretation of the given arguments in predicate logic.\n(∃x)(Cx • Ox)\n(∀x)[(~Cx ⊃ ~Bx) ⊃ ~Og]\t/ ~Og",
+  "options": [
+   "Some cookies have oatmeal. If something's not having chocolate chips entails that it is not a cookie, then it doesn't have oatmeal. So this cookie doesn't have oatmeal.",
+   "Some cookies have oatmeal. If something's not being a cookie entails that it doesn't have oatmeal, then this cookie doesn't have chocolate chips. So this cookie doesn't have oatmeal.",
+   "Some cookies have oatmeal. If something's not being a cookie entails that it doesn't have chocolate chips, then this cookie doesn't have oatmeal. So this cookie doesn't have oatmeal.",
+   "Some cookies have oatmeal. If something's not a cookie, it does not have oatmeal, and it does not have chocolate chips. So this cookie doesn't have oatmeal.",
+   "Some cookies have oatmeal. If something is a cookie, it does not have chocolate chips, and it doesn't have oatmeal. So this cookie doesn't have oatmeal.",
+   "Some cookies have oatmeal. If something's not being a cookie entails that it does have chocolate chips, then this cookie doesn't have oatmeal. So this cookie doesn't have oatmeal.",
+   "Some cookies have oatmeal. If something is not a cookie and does not have chocolate chips, it doesn't have oatmeal. So this cookie doesn't have oatmeal.",
+   "Some cookies have oatmeal. If something doesn't have oatmeal, then it is not a cookie and it doesn't have chocolate chips. So this cookie doesn't have oatmeal.",
+   "Some cookies have oatmeal. If something does not have chocolate chips, then it is not a cookie and therefore, it doesn't have oatmeal. So this cookie doesn't have oatmeal.",
+   "Some cookies have oatmeal. If something's not a cookie, it doesn't have chocolate chips. So this cookie has oatmeal."
+  ],
+  "target": 2,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 10861,
+  "question": " Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)\n~A · ~B\n(A ∨ C) ∨ B / C",
+  "options": [
+   "Invalid. Counterexample when A, B, and C are all true",
+   "Invalid. Counterexample when A, B, and C are all false",
+   "Invalid. Counterexample when A and B are true and C is false",
+   "Invalid. Counterexample when B is true and A and C are false",
+   "Invalid. Counterexample when A and C are true and B is false",
+   "Invalid. Counterexample when A is true and B and C are false",
+   "Invalid. Counterexample when A is false and B and C are true",
+   "Valid",
+   "Invalid. Counterexample when C is true and A and B are false"
+  ],
+  "target": 7,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 10862,
+  "question": " Use the following key to translate the given formula of PL to natural, English sentences.\nA: Marina reads a Percy Jackson book.\nB: Izzy plays Minecraft.\nC: Emily stops working.\nD: Russell makes dinner.\nE: Ashleigh stops by.\n(A ∨ ~E) ≡ (D • ~B)",
+  "options": [
+   "Either Marina reading a Percy Jackson book or Ashleigh not stopping by is a necessary condition for both Russell not making dinner and Izzy not playing Minecraft.",
+   "Either Marina reads a Percy Jackson book or Ashleigh does not stop by just in case both Russell makes dinner and Izzy doesn't play Minecraft.",
+   "Marina reads a Percy Jackson book or Ashleigh doesn't stop by only if Russell doesn't make dinner and Izzy plays Minecraft.",
+   "Marina reads a Percy Jackson book unless Ashleigh stops by if, and only if, both Russell makes dinner and Izzy doesn't play Minecraft.",
+   "Marina reads a Percy Jackson book or Ashleigh does not stop by only when Russell is making dinner and Izzy is not playing Minecraft.",
+   "Either Marina reads a Percy Jackson book or Ashleigh doesn't stop by whenever Russell makes dinner and Izzy doesn't play Minecraft.",
+   "Marina reading a Percy Jackson book or Ashleigh not stopping by is a necessary condition for Russell not making dinner and Izzy playing Minecraft.",
+   "Either Marina reading a Percy Jackson book or Ashleigh not stopping by is a necessary and sufficient condition for Russell making dinner and Izzy playing Minecraft.",
+   "Either Marina reading a Percy Jackson book or Ashleigh not stopping by is a necessary condition for both Russell making dinner and Izzy not playing Minecraft.",
+   "Either Marina reading a Percy Jackson book or Ashleigh not stopping by is a necessary and sufficient condition for Russell not making dinner and Izzy playing Minecraft."
+  ],
+  "target": 1,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 10863,
+  "question": " Select the best English interpretation of the given arguments in predicate logic.\nWn ∨ Wm\n(∀x)[Lx ⊃ (Dx ⊃ ~Wx)]\nLn • Dn\t/ ~(∀x)~Wx",
+  "options": [
+   "Either Nancy or Marvin are at work. All lawyers are not at work if they are out to dinner. Nancy is a lawyer and not out to dinner. So not everything is not at work.",
+   "Either Nancy or Marvin are at work. All lawyers are at work if they are out to dinner. Nancy is a lawyer and out to dinner. So not everything is at work.",
+   "Either Nancy or Marvin are at work. All lawyers are not at work if they are out to dinner. Nancy is not a lawyer and out to dinner. So not everything is not at work.",
+   "Either Nancy or Marvin are at work. All lawyers are not at work if they are out to dinner. Nancy is a lawyer and out to dinner. So not everything is at work.",
+   "Either Nancy or Marvin are at work. All lawyers are out to dinner if they are not at work. Nancy is a lawyer and out to dinner. So not everything is at work.",
+   "Either Nancy or Marvin are not at work. All lawyers are out to dinner if they are at work. Nancy is a lawyer and out to dinner. So not everything is at work.",
+   "Either Nancy or Marvin are at work. All lawyers are not at work if they are out to dinner. Nancy is a lawyer and out to dinner. So not everything is not at work.",
+   "Either Nancy or Marvin are not at work. All lawyers are not at work if they are out to dinner. Nancy is a lawyer and out to dinner. So not everything is at work.",
+   "Either Nancy or Marvin are at work. All lawyers are at work if they are not out to dinner. Nancy is a lawyer and out to dinner. So not everything is not at work.",
+   "Either Nancy or Marvin are at work. All lawyers are out to dinner if they are not at work. Nancy is a lawyer and out to dinner. So not everything is not at work."
+  ],
+  "target": 6,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 10864,
+  "question": "Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)\n(K · L) ⊃ M\nN ⊃ ~M\nN ∨ K / L ⊃ K",
+  "options": [
+   "Valid",
+   "Invalid. Counterexample when L, M, and N are true and K is false",
+   "Invalid. Counterexample when L and M are true and K and N are false",
+   "Invalid. Counterexample when L and N are true and K and M are false"
+  ],
+  "target": 3,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 10865,
+  "question": " Hourdequin argues that one flaw of consequentialist calculation is that",
+  "options": [
+   "it negates the notion that individuals are inherently self-interested actors.",
+   "it can run counter to the idea that persons are atomistic and individually rational actors.",
+   "it overlooks the potential conflict between individual and collective interests.",
+   "it can run counter to a person's being able to integrate her commitments at various levels.",
+   "it fails to reconcile prima facie duties.",
+   "it doesn't consider the potential of individuals to act against their own self-interest.",
+   "it undermines the importance of personal values and beliefs in decision-making.",
+   "it disregards the impact of social norms on individual decision-making.",
+   "it fails to recognize that possibility that the persons are best understood in relation to one another.",
+   "it discredits the notion that individuals can make morally autonomous decisions."
+  ],
+  "target": 3,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 10866,
+  "question": " Biocentrism is the view that",
+  "options": [
+   "the primary bearers of direct moral standing are ecosystems in virtue of their functional integrity.",
+   "the only beings that possess direct moral standing are human beings.",
+   "the primary bearers of direct moral standing are individual species.",
+   "only beings that can feel pain have direct moral standing.",
+   "all beings, because they exist, possess direct moral standing.",
+   "only beings that possess consciousness have direct moral standing.",
+   "only human beings and animals have direct moral standing.",
+   "all and only sentient creatures have direct moral standing.",
+   "all living beings, because they are living, possess direct moral standing.",
+   "all beings, living or non-living, possess direct moral standing."
+  ],
+  "target": 8,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 10867,
+  "question": " Which of the following is not mentioned by Macedo as a duty that societies have toward nonmembers?",
+  "options": [
+   "duties of fair dealing (e.g., nonexploitation)",
+   "cosmopolitan egalitarian duties (e.g., ensuring that everyone has equal wealth)",
+   "duties of rectification and redress (e.g., redressing those who were oppressed)",
+   "humanitarian duties (e.g., preventing systematic violations of human rights)"
+  ],
+  "target": 1,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 10868,
+  "question": " Kamm claims that Sandel's moral distinction between treatment and enhancement assumes that",
+  "options": [
+   "enhancement is always morally superior to treatment.",
+   "enhancement is inherently unnatural.",
+   "human beings have a moral duty to enhance themselves.",
+   "medical treatment is always more morally acceptable than enhancement.",
+   "there is no moral difference between treatment and enhancement.",
+   "Sandel's view is based on a misunderstanding of nature.",
+   "there is a clear moral hierarchy between treatment and enhancement.",
+   "nature in itself has no moral value.",
+   "nature is sacred and should be honored.",
+   "human beings want enhancement more than they want treatment."
+  ],
+  "target": 8,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 10869,
+  "question": " In satisfying Kant's Humanity formulation of the categorical imperative, we are obligated to adopt two very general goals: the goal of promoting the (morally permissible) ends of others and the goal of",
+  "options": [
+   "increasing social status.",
+   "self-perfection.",
+   "achieving inner peace.",
+   "achieving personal goals.",
+   "promoting social harmony.",
+   "self-sacrifice.",
+   "maximizing personal benefits.",
+   "producing happiness.",
+   "attaining moral superiority."
+  ],
+  "target": 1,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 10870,
+  "question": " Norcross agrees that if a being is incapable of moral reasoning, at even the most basic level, then it cannot be",
+  "options": [
+   "an object of moral sympathy.",
+   "a morally autonomous being.",
+   "a moral patient.",
+   "a being of moral integrity.",
+   "a moral agent.",
+   "a subject of moral discourse.",
+   "an ethically responsible entity.",
+   "a being of value.",
+   "a moral observer.",
+   "a morally accountable being."
+  ],
+  "target": 4,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 10871,
+  "question": " Metz argues that dignity is based in",
+  "options": [
+   "a capacity for emotional intelligence",
+   "a capacity for scientific understanding",
+   "a capacity for communal or friendly relationships",
+   "a capacity for certain kinds of feelings or sentiments",
+   "a capacity for independent thinking",
+   "a capacity for moral thought",
+   "a capacity for rational deliberation",
+   "a capacity for physical strength",
+   "a capacity for artistic expression",
+   "a capacity for spiritual enlightenment"
+  ],
+  "target": 2,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 10872,
+  "question": " Singer presents his three-premise argument in addition to appealing to the case of the drowning child because",
+  "options": [
+   "he argues that moral claims can only be justified through logical reasoning and real-life examples.",
+   "he believes that abstract arguments are more likely to convince one to act.",
+   "he believes that using both abstract arguments and emotional appeals provides a balanced perspective.",
+   "he wants to appeal to the reader's reason and not just pull at the reader's heartstrings.",
+   "he wants to show that moral obligations can arise from both rational argument and emotional response.",
+   "he believes arguments are a more efficient way to appeal to one's emotions.",
+   "he believes the case of the drowning child will make his argument more relatable.",
+   "he argues that our emotional reactions have no bearing on which moral claims are true.",
+   "he aims to appeal to both the logical and emotional aspects of the reader's mind.",
+   "he thinks that a combination of argument and emotion is more effective than either alone."
+  ],
+  "target": 3,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 10873,
+  "question": " Kant's Universal Law formulation does not refer to an agent's wants; rather, it represents",
+  "options": [
+   "a kind of consistency test.",
+   "an instruction for determining the legality of an action.",
+   "a way to measure the value of an action's consequences.",
+   "a criterion for social acceptability.",
+   "a protocol for interpersonal communication.",
+   "a method to determine personal desires.",
+   "a tool for assessing an individual's moral character.",
+   "a set of guidelines for achieving happiness.",
+   "an ethical dilemma.",
+   "a system for evaluating societal norms."
+  ],
+  "target": 0,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 10898,
+  "question": "Select the best translation into predicate logic. José introduces Wilma to Kevin. (j: José; k: Kevin; w: Wilma; Ixyz: x introduces y to z)",
+  "options": [
+   "Ijkw",
+   "Iwkj",
+   "Iwjk",
+   "Ijwk",
+   "Ikjw"
+  ],
+  "target": 3,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 10899,
+  "question": "Select the best translation into predicate logic: Cecilia breaks my heart if, and only if, Maria is either a problem or a girl.",
+  "options": [
+   "Bc ⊃ (Pm ⊃ Gm)",
+   "Cb ⊃ (Pm • Gm)",
+   "Bc ≡ (Pm ⊃ Gm)",
+   "Bc ⊃ (Pm ∨ Gm)",
+   "Bc ≡ (Pm • Gm)",
+   "Cb ⊃ (Pm ∨ Gm)",
+   "Bc ≡ (Gm • Pm)",
+   "Cb ⊃ (Gm ∨ Pm)",
+   "Bc ⊃ (Pm • Gm)",
+   "Bc ≡ (Pm ∨ Gm)"
+  ],
+  "target": 9,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 10900,
+  "question": " Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whether the statements are logically equivalent or contradictory. If neither, determine whether they are consistent or inconsistent. Justify your answers.\nI ≡ ~H and ~(~I ≡ H)",
+  "options": [
+   "Neither logically equivalent nor contradictory, but consistent",
+   "Both contradictory and inconsistent",
+   "Neither logically equivalent, contradictory, consistent, nor inconsistent",
+   "Both contradictory and consistent",
+   "Both logically equivalent and consistent",
+   "Logically equivalent",
+   "Contradictory",
+   "Inconsistent",
+   "Neither logically equivalent nor contradictory, but inconsistent",
+   "Both logically equivalent and contradictory"
+  ],
+  "target": 6,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 10901,
+  "question": "Select the best translation into predicate logic. Kevin is introduced to José by Wilma. (j: José; k: Kevin; w: Wilma; Ixyz: x introduces y to z)",
+  "options": [
+   "Ijkw",
+   "Iwjw",
+   "Iwjk",
+   "Ijwk",
+   "Ikkj",
+   "Ijjk",
+   "Iwwk",
+   "Ikjw",
+   "Iwkj"
+  ],
+  "target": 8,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 10902,
+  "question": " Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)\nQ ≡ R\n~(S ∨ Q) / R",
+  "options": [
+   "Invalid. Counterexample when Q, S, and R are false",
+   "Invalid. Counterexample when Q is false and S and R are true",
+   "Invalid. Counterexample when Q is true, S is false, and R is true",
+   "Valid. No counterexample exists",
+   "Invalid. Counterexample when Q and S are true and R is false",
+   "Invalid. Counterexample when S is true and Q and R are false",
+   "Invalid. Counterexample when R is true and Q and S are false",
+   "Invalid. Counterexample when Q and R are true and S is false",
+   "Valid",
+   "Invalid. Counterexample when Q is true and S and R are false"
+  ],
+  "target": 0,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 10903,
+  "question": "Select the best translation into predicate logic: Johnny came late.",
+  "options": [
+   "Lj ∨ Cj",
+   "Lj",
+   "L∧j",
+   "jC",
+   "j ∨ L",
+   "Lj ∧ Cj",
+   "Cj ∨ Lj",
+   "Lx",
+   "jL",
+   "Cx"
+  ],
+  "target": 1,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 10904,
+  "question": " According to Mill, the value of a particular pleasure depends on",
+  "options": [
+   "its rarity or frequency.",
+   "societal norms and values.",
+   "the individual's personal preference.",
+   "the amount of effort required to obtain it.",
+   "the potential pain that might accompany it.",
+   "its quantity alone.",
+   "its quality alone.",
+   "neither its quantity nor its quality.",
+   "both its quantity and its quality.",
+   "the duration of the pleasure."
+  ],
+  "target": 8,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 10905,
+  "question": " Nathanson supports which of the following kinds of retributivism?",
+  "options": [
+   "proportional",
+   "equality",
+   "retaliatory",
+   "punitive",
+   "compensatory",
+   "absolute",
+   "restorative",
+   "corrective",
+   "preventive",
+   "consequential"
+  ],
+  "target": 0,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 10906,
+  "question": " Baxter argues that we should view our treatment of the environment as a matter of various trade-offs whose aim is",
+  "options": [
+   "to minimize damage incurred by all individual living beings.",
+   "to promote the functional integrity of ecosystems.",
+   "to minimize the suffering of all sentient creatures.",
+   "to ensure the survival of endangered species.",
+   "to minimize damage to the ozone layer.",
+   "to achieve a balance between human needs and wildlife preservation.",
+   "to promote sustainable development and renewable energy use.",
+   "to maximize economic benefit.",
+   "to limit greenhouse gas emissions.",
+   "to promote human welfare."
+  ],
+  "target": 9,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 10907,
+  "question": " If it were known that a policy would wipe out several animal species without negatively affecting human beings, Baxter would most likely say that",
+  "options": [
+   "this policy is morally problematic because it disrupts the natural order.",
+   "this policy is morally problematic because it negatively impacts biodiversity.",
+   "this policy is morally acceptable because it does not harm human beings.",
+   "this policy is morally unproblematic.",
+   "this policy is morally obligatory because it prioritizes human beings.",
+   "this policy is morally unacceptable because it eliminates several animal species.",
+   "this policy is morally obligatory because the environment ought not to exist.",
+   "this policy is morally problematic because it damages the integrity of the ecosystem.",
+   "this policy is morally problematic because it harms the environment."
+  ],
+  "target": 3,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 10908,
+  "question": " What is the main reason why Arthur doesn't think that the poor have a right to aid from the affluent?",
+  "options": [
+   "Arthur believes that the provision of aid undermines the principles of free-market capitalism.",
+   "This kind of right would require a contract or agreement, and the affluent haven't entered into a contract or agreement with the poor.",
+   "The consequences of helping the poor would be worse than the consequences of not helping them.",
+   "The right to aid is a negative right.",
+   "Arthur contends that the concept of 'rights' is subjective and can't be universally applied.",
+   "Arthur believes that the affluent have earned their wealth and should not be obligated to share it.",
+   "Arthur believes that aid should only be given voluntarily, not out of obligation.",
+   "Arthur thinks that aid only perpetuates poverty and does not solve the root cause.",
+   "The poor are responsible for their own situation, according to Arthur.",
+   "Persons can never have a right to aid from anyone."
+  ],
+  "target": 1,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 10909,
+  "question": " Which of the following is one of de Marneffe's responses to the objection that drug prohibition would be paternalistic?",
+  "options": [
+   "Paternalism is always justified when the paternalistic practices truly are in the best interest of those affected.",
+   "Drug prohibition would be paternalistic, but its consequences would be good enough to outweigh considerations about paternalism.",
+   "Paternalism is a positive trait when it helps guide individuals away from harmful behaviors like drug use.",
+   "Drug prohibition would be a form of societal control, not paternalism.",
+   "Drug prohibition would be targeted to adults, and one can only be paternalistic toward children.",
+   "Drug prohibition would be paternalistic, but it is a necessary evil to maintain order and protect public health.",
+   "The concept of paternalism doesn't apply to the issue of drug prohibition.",
+   "Drug prohibition is not paternalistic as it does not impose a 'parent-like' authority over individuals.",
+   "Drug prohibition would not be paternalistic because it would protect society from the harmful effects of drugs.",
+   "Drug prohibition would be done for the benefit of others, not the benefit of those who wish to produce/sell drugs, so it is not paternalistic in an objectionable sense."
+  ],
+  "target": 9,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 10910,
+  "question": " Papadaki argues that",
+  "options": [
+   "sexual objectification is not always wrong.",
+   "sexual objectification involves the total reduction of a person to an object.",
+   "sexual objectification is not explainable in Kantian terms.",
+   "sexual objectification involves the denial of a person's humanity."
+  ],
+  "target": 3,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 10911,
+  "question": " According to Nathanson, criminals who commit murder forfeit their right to",
+  "options": [
+   "privacy.",
+   "respect.",
+   "rehabilitation programs.",
+   "dignity.",
+   "free speech.",
+   "humane treatment.",
+   "personal property.",
+   "freedom.",
+   "fair trial.",
+   "life."
+  ],
+  "target": 0,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 10913,
+  "question": " According to some defenders of meat-eating, the suffering of animals counts less than the suffering of humans (if at all) because",
+  "options": [
+   "animals can tolerate more suffering than humans can.",
+   "humans are rational and animals are not.",
+   "humans have a soul, while animals do not.",
+   "animals are rational and humans are not.",
+   "animals lack the capacity for suffering, and humans do not.",
+   "animals are not sentient beings, unlike humans.",
+   "animals do not have emotions, while humans do.",
+   "humans are superior to animals in the food chain.",
+   "animals are designed by nature to endure suffering."
+  ],
+  "target": 1,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 10914,
+  "question": " Carens's main conclusion is that",
+  "options": [
+   "liberal egalitarian objections to anticosmopolitanism do not succeed.",
+   "Carens believes that liberal egalitarianism supports closed borders and strict immigration policies.",
+   "Carens argues that liberal egalitarianism is rooted in anti-immigration sentiments.",
+   "egalitarianism is founded on sentiments of envy and is therefore unjustified.",
+   "Carens concludes that liberal egalitarianism inherently supports anti-cosmopolitanism.",
+   "Carens concludes that egalitarianism is a justifiable sentiment, irrespective of immigration policies.",
+   "Carens asserts that liberal egalitarianism does not have a clear stance on immigration policies.",
+   "liberal egalitarianism should almost always press for more openness toward immigrants and refugees.",
+   "liberal egalitarianism, contrary to appearances, entails that only closed border immigration policies are acceptable.",
+   "Carens suggests that liberal egalitarianism always supports the concept of open borders."
+  ],
+  "target": 7,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 10916,
+  "question": " The idea of \"using someone as a mere means\" is centrally relevant to which of the following moral theories?",
+  "options": [
+   "utilitarianism",
+   "Kantianism",
+   "egoism",
+   "existentialism",
+   "natural law theory",
+   "virtue ethics",
+   "relativism",
+   "divine command theory",
+   "hedonism",
+   "consequentialism"
+  ],
+  "target": 1,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 10917,
+  "question": " Which of the following is not one of the four main excuses for terrorism that Michael Walzer discusses?",
+  "options": [
+   "Terrorism is a form of freedom of speech.",
+   "Terrorism is a necessary evil.",
+   "Terrorism benefits oppressed groups.",
+   "Terrorism is driven by economic factors.",
+   "Terrorism is a legitimate form of self-defense.",
+   "All political activity is terroristic.",
+   "Terrorism is a method of political influence.",
+   "Terrorism is a response to unjust government actions.",
+   "Terrorism is a last resort.",
+   "Terrorism is an expression of religious beliefs."
+  ],
+  "target": 0,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 10918,
+  "question": " Which of the following is not one of the potentially negative consequences of imposing the death penalty?",
+  "options": [
+   "the execution of innocent persons",
+   "the diminishing of state moral authority",
+   "the creation of martyrs",
+   "the inequality of application across social classes",
+   "the incitement effect",
+   "the emotional trauma for the executioners",
+   "the promotion of a culture of violence",
+   "great financial cost",
+   "the prevention of future murders"
+  ],
+  "target": 8,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 10919,
+  "question": " Instead of asking why the act of destroying the environment might be immoral, Hill wants to ask",
+  "options": [
+   "how the decision to preserve the environment benefits the environment.",
+   "how the destruction of the environment affects the economy.",
+   "why people who preserve the environment might be good people.",
+   "how destroying the environment affects future generations.",
+   "why the act of destroying nature might be immoral.",
+   "whether plants have interests.",
+   "why people who destroy the environment might be bad people.",
+   "if destroying the environment is legally punishable.",
+   "whether nature has a right to exist.",
+   "whether animals have rights."
+  ],
+  "target": 6,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 10944,
+  "question": "Which of the following propositions is an immediate (one-step) consequence in PL of the given premises?\nE ⊃ ~F\n~F ⊃ G\n~G",
+  "options": [
+   "~~F",
+   "F ⊃ ~~G",
+   "~E ⊃ F",
+   "E ⊃ G",
+   "G ⊃ F",
+   "E ⊃ F",
+   "F ⊃ G",
+   "G ⊃ E",
+   "~G ⊃ ~F",
+   "F ⊃ E"
+  ],
+  "target": 0,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 10945,
+  "question": " Select the best translation into predicate logic. All planets are smaller than Jupiter. (j: Jupiter; Px: x is a planet; Sxy: x is smaller than y)",
+  "options": [
+   "(∀x)(Px • Sjx)",
+   "(∀x)(Px ⊃ Sxj)",
+   "(∃x)(Px • Sjx)",
+   "(∀x)(Px ⊃ Sjx)",
+   "(∃x)(Px • Sxj)",
+   "(∀x)(Px • Sxj)",
+   "(∀x)(Sxj ⊃ Px)",
+   "(∀x)(Sjx ⊃ Px)",
+   "(∃x)(Px ⊃ Sxj)",
+   "(∃x)(Px ⊃ Sjx)"
+  ],
+  "target": 1,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 10946,
+  "question": "Select the best translation into predicate logic. Marco moves from Italy to Spain. (i: Italy; m: Marco; s: Spain; Mxyz: x moves to y from z)",
+  "options": [
+   "Mism",
+   "Mssi",
+   "Msim",
+   "Mmis",
+   "Mmsi",
+   "Mims"
+  ],
+  "target": 4,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 10947,
+  "question": " Select the best English interpretation of the given proposition, using the following translation key: Ax: x is an apartment Hx: x is a house Lx: x is large Bxy: x is bigger than y (∀x){Ax ⊃ (∀y)[(Hy • Ly) ⊃ ∼Bxy]}",
+  "options": [
+   "No large house is bigger than some apartments.",
+   "All apartments are not bigger than some large house.",
+   "No apartment is bigger than any large house.",
+   "No large house is bigger than all apartments.",
+   "All large houses are bigger than any apartment.",
+   "No apartment is smaller than any large house.",
+   "All large houses are not bigger than some apartment.",
+   "Some apartments are not bigger than all large houses.",
+   "Some large houses are not bigger than all apartments.",
+   "All apartments are bigger than any large house."
+  ],
+  "target": 2,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 10948,
+  "question": "Identify the antecedent of the following conditional proposition: The Bees win their first game only if either the Aardvarks or the Chipmunks do not win their first games.",
+  "options": [
+   "The Bees do not win their first game.",
+   "Both the Aardvarks and the Chipmunks do not win their first games.",
+   "The Chipmunks do not win their first game.",
+   "The Chipmunks win their first game.",
+   "Both the Aardvarks and the Chipmunks win their first games.",
+   "Either the Aardvarks or the Chipmunks do not win their first games.",
+   "The Aardvarks do not win their first game.",
+   "The Bees win their first game.",
+   "The Aardvarks win their first game.",
+   "Either the Aardvarks or the Chipmunks win their first games."
+  ],
+  "target": 7,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 10949,
+  "question": " Which of the given formulas of PL is the best symbolization of the following sentence?\nEither England's importing beef is a sufficient condition for France's subsidizing agriculture, or China doesn't promote human rights when and only when South Africa supplies diamonds.",
+  "options": [
+   "(E ⊃ F) ∨ ~(S ≡ C)",
+   "(E ⊃ F) ∨ (S ⊃ C)",
+   "(E ⊃ F) ∨ (~C ⊃ S)",
+   "(E ⊃ F) ∨ (~S ≡ C)",
+   "(E ⊃ F) ∨ ~(C ≡ ~S)",
+   "(E ⊃ F) ∨ (C ⊃ ~S)",
+   "(F ⊃ E) ∨ (C ≡ S)",
+   "(F ⊃ E) ∨ (S ⊃ ~C",
+   "(E ⊃ F) ∨ (~C ≡ S)",
+   "~(E ⊃ F) ∨ (C ≡ S)"
+  ],
+  "target": 8,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 10950,
+  "question": " Use the following key to translate the given formula of PL to natural, English sentences.\nA: Marina reads a Percy Jackson book.\nB: Izzy plays Minecraft.\nC: Emily stops working.\nD: Russell makes dinner.\nE: Ashleigh stops by.\n(~A ∨ ~B) ⊃ C",
+  "options": [
+   "If Marina doesn't read a Percy Jackson book and Izzy doesn't play Minecraft, then Emily will stop working.",
+   "If Emily stops working, then either Marina doesn't read a Percy Jackson book, or Izzy doesn't play Minecraft.",
+   "Emily will stop working only if Marina doesn't read a Percy Jackson book and Izzy doesn't play Minecraft.",
+   "Emily stopping working is a sufficient condition for either Marina not reading a Percy Jackson book or Izzy not playing Minecraft.",
+   "Unless Marina reads a Percy Jackson book or Izzy plays Minecraft, Emily will stop working.",
+   "If Emily stops working, then neither Marina is reading a Percy Jackson book nor Izzy is playing Minecraft.",
+   "Either Marina not reading a Percy Jackson book or Izzy not playing Minecraft entails that Emily stops working.",
+   "If Marina reads a Percy Jackson book or Izzy plays Minecraft, then Emily won't stop working.",
+   "If neither Marina reads a Percy Jackson book nor Izzy plays Minecraft, then Emily stops working."
+  ],
+  "target": 6,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 10951,
+  "question": "Select the best translation into predicate logic: Abdul and Cleopatra are Egyptian.",
+  "options": [
+   "Ea • Ec",
+   "Ea ∨ c",
+   "Ex • Ey",
+   "Ex • Ec",
+   "Ex ∨ Ey",
+   "Ea • c",
+   "Ae ∨ Ce",
+   "Ey • Ec",
+   "Ae • Ce",
+   "Ea ∨ Ec"
+  ],
+  "target": 0,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 10953,
+  "question": " Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose an option with a consistent valuation. (There may be other consistent valuations.)\n(E ⊃ F) ⊃ G\n(~E ∨ F) ≡ (H ∨ I)\nI ⊃ (J ⊃ ~H)\n~G ⊃ ~J",
+  "options": [
+   "Consistent. Consistent valuation when E, F, G, H, and I are true and J is false",
+   "Consistent. Consistent valuation when E is true and F, G, H, I, and J are false",
+   "Consistent. Consistent valuation when E, F, and I are true and G, H, and J are false",
+   "Inconsistent",
+   "Consistent. Consistent valuation when E, G, and H are true and F, I, and J are false",
+   "Consistent. Consistent valuation when E, F and G are true and H, I, and J are false",
+   "Consistent. Consistent valuation when E and I are true and F, G, H, and J are false",
+   "Consistent. Consistent valuation when E and H are true and F, G, I, and J are false"
+  ],
+  "target": 1,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 10954,
+  "question": " Which of the given formulas of PL is the best symbolization of the following sentence?\nDoctors are helpful unless their patients are rude.",
+  "options": [
+   "H ∨ R",
+   "~H ∧ R",
+   "~H ↔ R",
+   "H • R",
+   "H ∧ ~R",
+   "~H ∨ R",
+   "H ↔ R",
+   "H → R",
+   "H ≡ R",
+   "H ∨ ~R"
+  ],
+  "target": 0,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 10955,
+  "question": " Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whether the statements are logically equivalent or contradictory. If neither, determine whether they are consistent or inconsistent. Justify your answers.\n~(J ∨ K) · L and (L ⊃ J) · K",
+  "options": [
+   "Logically equivalent and inconsistent",
+   "Neither logically equivalent nor contradictory, but consistent",
+   "Logically equivalent",
+   "Inconsistent",
+   "Contradictory",
+   "Both contradictory and inconsistent",
+   "Neither contradictory nor consistent, but logically equivalent",
+   "Both logically equivalent and contradictory",
+   "Contradictory and consistent"
+  ],
+  "target": 3,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 10957,
+  "question": " Thomson discusses a different version of the violinist case wherein the violinist only needs to use your kidneys for one hour to survive. Her own view about this case is that",
+  "options": [
+   "because the violinist's life is in danger, you have an absolute moral obligation to let them use your kidneys, regardless of the duration.",
+   "you have no obligation to let the violinist use your kidneys, but if you choose to do so, the violinist has the right to use them for that hour.",
+   "you have the right to disconnect the violinist at any point, regardless of the consequences for the violinist.",
+   "because you ought to let the violinist use your kidneys for that hour, we should conclude that he or she has a right to use your kidneys for that hour.",
+   "even though you ought to let the violinist use your kidneys for that hour, we should not conclude that he or she has a right to use your kidneys for that hour.",
+   "you have no obligation to let the violinist use your kidneys for that hour.",
+   "you have an obligation to let the violinist use your kidneys for that hour, but the violinist does not have a right to use your kidneys.",
+   "the violinist has an obligation to disconnect him- or herself before that hour is over.",
+   "you have an obligation to let the violinist use your kidneys for that hour, and the violinist also has a right to use your kidneys."
+  ],
+  "target": 4,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 10962,
+  "question": " Which of the following capacities does Carruther's assume that animals lack?",
+  "options": [
+   "the capacity for suffering",
+   "the capacity for practical reasoning",
+   "the capacity for rational agency",
+   "the capacity for conscious experience"
+  ],
+  "target": 2,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 10963,
+  "question": " Which of the following is not an objection Pence gives to the argument that SCNT is not best for the child?",
+  "options": [
+   "The potential for genetic abnormalities is not a valid argument against SCNT.",
+   "The expectations people will place on SCNT individuals could be no worse than normal expectations of children created sexually.",
+   "The argument falsely assumes that SCNT individuals would have a lesser quality of life.",
+   "The argument assumes genetic determinism or genetic reductionism.",
+   "The argument fails to take into account the rights and autonomy of the parents.",
+   "The argument neglects the emotional and psychological well-being of the child.",
+   "People's prejudicial attitudes are likely to change.",
+   "SCNT could potentially lead to advancements in medical research and treatment.",
+   "The argument ignores the potential benefits of SCNT to society.",
+   "If people's prejudicial attitudes do not change, then we should not allow SCNT."
+  ],
+  "target": 9,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 10964,
+  "question": " Carens defends a form of",
+  "options": [
+   "Kantian distributionism.",
+   "libertarian cosmopolitanism.",
+   "Rawlsian justice.",
+   "Communitarianism.",
+   "Anarchist cosmopolitanism.",
+   "Social contract theory.",
+   "Libertarian distributionism.",
+   "egalitarian cosmopolitanism.",
+   "anticosmopolitanism.",
+   "Utilitarianism."
+  ],
+  "target": 7,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 10965,
+  "question": " Van den Haag thinks that we can't know whether a murderer who receives the death penalty",
+  "options": [
+   "is morally degraded.",
+   "is remorseful for his actions.",
+   "is a threat to society.",
+   "is justly punished.",
+   "is mentally stable.",
+   "is a repeat offender.",
+   "is punished in a humane manner.",
+   "suffers more than the victim.",
+   "is punished excessively.",
+   "is capable of rehabilitation."
+  ],
+  "target": 7,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 10985,
+  "question": " Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose an option with a consistent valuation. (There may be other consistent valuations.)\nA ⊃ (~B ∨ C)\nC ⊃ D\nA ∨ (B · ~D)\nA ≡ (B ⊃ D)",
+  "options": [
+   "Inconsistent. Inconsistent valuation when B and D are true and A and C are false",
+   "Consistent. Consistent valuation when A, B, C, and D are all false",
+   "Consistent. Consistent valuation when A and D are true and B and C are false",
+   "Inconsistent. Inconsistent valuation when A, B, C, and D are all true",
+   "Consistent. Consistent valuation when B, C, and D are true and A is false",
+   "Consistent. Consistent valuation when C and D are true and A and B are false",
+   "Consistent. Consistent valuation when A, B, and D are true and C is false",
+   "Consistent. Consistent valuation when A, B and C are true and D is false",
+   "Inconsistent. Inconsistent valuation when A, C and D are true and B is false",
+   "Inconsistent"
+  ],
+  "target": 2,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 10986,
+  "question": "Select the best translation into predicate logic. Leo is taller than Cathy. (c: Cathy; l: Leo; Txy: x is taller than y)",
+  "options": [
+   "TlcL",
+   "cTL",
+   "lTc",
+   "Tll",
+   "cTl",
+   "TclC",
+   "Tlc",
+   "Tcl",
+   "Tcc",
+   "lCT"
+  ],
+  "target": 6,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 10987,
+  "question": " Which of the given formulas of PL is the best symbolization of the following sentence?\nA person is considered to have lived with you for all of the present year if the person was born or died in the present year and your home was this person's home for the entire time this person was alive.",
+  "options": [
+   "H ⊃ [(B ∨ D) • L]",
+   "(L ∨ B) • (D ⊃ H)",
+   "[L ⊃ (B ∨ D)] • H",
+   "(B ∨ D) ⊃ (H • L)",
+   "L ⊃ (B ∨ D • H)",
+   "[(B ∨ D) • H] ⊃ L",
+   "L ⊃ [(B ∨ D) • H]",
+   "L ⊃ [(H • B) ∨ D]",
+   "[(B ∨ D) ∨ H] ⊃ L",
+   "(B ∨ D • H) ⊃ L"
+  ],
+  "target": 5,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 10988,
+  "question": "Identify the antecedent of the following conditional proposition: When the university raises tuition, then either the governor approves of it or the board of trustees doesn't prevent it.",
+  "options": [
+   "The board of trustees prevents it.",
+   "The university raises tuition.",
+   "The board of trustees approves it.",
+   "The governor and the board of trustees don't prevent it.",
+   "The governor approves of it.",
+   "The board of trustees doesn't prevent it.",
+   "The governor and the board of trustees prevent it.",
+   "The governor disapproves of it.",
+   "The university doesn't raise tuition.",
+   "The university lowers tuition."
+  ],
+  "target": 1,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 10989,
+  "question": "Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)\nH ≡ (I · ~J)\nK ≡ ~H\n~(K ⊃ J) / I ≡ J",
+  "options": [
+   "Valid",
+   "Invalid. Counterexample when I, J, and K are true and H is false",
+   "Invalid. Counterexample when K is true and I, H, and J are false",
+   "Invalid. Counterexample when H, I, and J are true and K is false",
+   "Invalid. Counterexample when K and J are true and I and H are false",
+   "Invalid. Counterexample when H and J are true and I and K are false",
+   "Invalid. Counterexample when I and J are true and H and K are false",
+   "Invalid. Counterexample when I and H are true and J and K are false",
+   "Invalid. Counterexample when J is true and I, H, and K are false",
+   "Invalid. Counterexample when I, H, and K are true and J is false"
+  ],
+  "target": 0,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 10990,
+  "question": " Which of the given formulas of PL is the best symbolization of the following sentence?\nEither England's importing beef is a sufficient condition for France's subsidizing agriculture or China's promoting human rights is a necessary condition for South Africa's supplying diamonds.",
+  "options": [
+   "(F ⊃ E) ∨ (S ⊃ C)",
+   "(F ⊃ E) ∨ (C ⊃ S)",
+   "(F ⊃ C) ∨ (E ⊃ S)",
+   "(S ⊃ E) ∨ (F ⊃ C)",
+   "(E ⊃ F) ∨ (C ⊃ S)",
+   "(E ⊃ S) ∨ (C ⊃ F)",
+   "(E ⊃ F) ∨ (S ⊃ C)",
+   "(C ⊃ F) ∨ (S ⊃ E)",
+   "(S ⊃ F) ∨ (E ⊃ C)",
+   "(C ⊃ S) ∨ (F ⊃ E)"
+  ],
+  "target": 6,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 10991,
+  "question": " Select the best translation into predicate logic. Some CEO is wealthier than everyone. (Cx: x is a CEO; Px: x is a person; Wxy: x is wealthier than y)",
+  "options": [
+   "(∀x)[Px • (∃y)(Cy • Wxy)]",
+   "(∃x)[Px • (∀y)(Cy • Wxy)]",
+   "(∃x)[Cx • (∀y)(Py ⊃ Wxy)]",
+   "(∀x)[Cx • (∃y)(Py ⊃ Wxy)]",
+   "(∃x)[Px ⊃ (∀y)(Cy ⊃ Wxy)]",
+   "(∃x)[Cx ⊃ (∀y)(Py • Wxy)]",
+   "(∃x)[Cx ⊃ (∀y)(Py ⊃ Wxy)]",
+   "(∀x)[Cx ⊃ (∃y)(Py ⊃ Wxy)]",
+   "(∀x)[Px ⊃ (∃y)(Cy ⊃ Wxy)]",
+   "(∃x)[Cx • (∀y)(Py • Wxy)]"
+  ],
+  "target": 2,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 10993,
+  "question": " The view that moral considerations do not apply to war is known as",
+  "options": [
+   "moral absolutism.",
+   "antiwar pacifism.",
+   "just war theory.",
+   "war pragmatism.",
+   "moral nihilism.",
+   "jus ad bellum.",
+   "moral relativism.",
+   "utilitarianism.",
+   "consequentialism.",
+   "war realism."
+  ],
+  "target": 4,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 10994,
+  "question": " Little argues that we should accept a prerogative on the part of mothers to end a pregnancy until the fetus is a person because",
+  "options": [
+   "abortion is presumptively morally wrong but can become permissible in certain extreme cases.",
+   "the fetus is not a person until it is capable of independent life.",
+   "the decision ultimately rests with the mother.",
+   "the moral status of the fetus is irrelevant.",
+   "we should accept a prerogative to decline radical changes to one's practical identity.",
+   "it is ethically permissible to abort a fetus before it becomes a person.",
+   "a woman has a right to control her own body.",
+   "there is no clear answer about the moral status of abortion.",
+   "abortion is absolutely morally wrong.",
+   "there is a legal right to abortion."
+  ],
+  "target": 4,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 10995,
+  "question": " Shapiro claims that surveys have been confirmed by longitudinal studies that indicate that",
+  "options": [
+   "the use of illegal drugs is usually a temporary phase in adolescence.",
+   "most individuals experiment with illegal drugs but do not continue use.",
+   "excessive use of legal drugs is the norm.",
+   "an individual's illegal drug use inevitably diminishes over time.",
+   "those who begin using illegal drugs typically stop before addiction sets in.",
+   "longitudinal studies have shown no consistent patterns in illegal drug use.",
+   "illegal drug users typically transition to legal substances over time.",
+   "moderate and/or controlled use of illegal drugs is the norm.",
+   "those who begin using illegal drugs typically do not stop until they become addicted.",
+   "excessive use of illegal drugs is the norm."
+  ],
+  "target": 7,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 10996,
+  "question": " Singer argues that developing nations are harming poor nations by",
+  "options": [
+   "exploiting their natural resources without adequate compensation.",
+   "indoctrinating them with Western values.",
+   "forcing them to adopt Western educational systems.",
+   "imposing their political systems on them.",
+   "promoting consumerism and materialistic values.",
+   "causing global warming.",
+   "ignoring important aspects of their culture.",
+   "refusing to help with debt relief.",
+   "imposing trade restrictions and tariffs.",
+   "handing out too much foreign aid, which increases need."
+  ],
+  "target": 5,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 10999,
+  "question": " In responding to terrorism, says Walzer, it is particularly important that",
+  "options": [
+   "we isolate the terrorists and cut off their resources.",
+   "we focus on increasing security measures rather than retaliation.",
+   "we use the same tactics as terrorists to understand their methods.",
+   "we attack the lower-ranking terrorists first.",
+   "we take immediate military action against the terrorists.",
+   "we make an effort to convince the terrorists that they are acting wrongly.",
+   "we publicly condemn the terrorists' actions.",
+   "we avoid harming terrorists to the same extent that we would avoid harming innocent civilians.",
+   "we negotiate with the terrorists to reach a peaceful resolution.",
+   "we do not repeat the wrongs of terrorism in the process."
+  ],
+  "target": 9,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 11000,
+  "question": " In response to the argument that embryos are not persons because they do not exercise higher mental capacities, Lee and George argue that",
+  "options": [
+   "it doesn't make sense to say that a person exercises higher mental capacities.",
+   "mental capacities should not be a factor in determining personhood.",
+   "the ability to exercise higher mental capacities could be considered a potential, not an actuality.",
+   "to have killed a human embryos that developed into you would have been the same thing as killing you.",
+   "embryos actually do exercise higher mental capacities.",
+   "higher mental capacities are not the only defining characteristics of a person.",
+   "they dispute the notion that higher mental capacities are a requirement for personhood.",
+   "the argument is irrelevant as they believe life begins at conception.",
+   "embryos are potential persons and therefore should have the same rights.",
+   "the argument is sound, but its validity fails due to a common logical fallacy."
+  ],
+  "target": 3,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 11001,
+  "question": " According to Velleman, who, if anyone, should decide whether a patient receives euthanasia?",
+  "options": [
+   "a court of law",
+   "the hospital administration",
+   "no one, it should not be allowed under any circumstance",
+   "the patient's caregiver",
+   "a medical ethics committee",
+   "the patient's family",
+   "the patient's physician",
+   "the patient's legal representative",
+   "legislators",
+   "the patient"
+  ],
+  "target": 3,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 11002,
+  "question": " Of the following social problems that could result from a genetic supermarket, which does Singer think is the least serious?",
+  "options": [
+   "loss of human diversity",
+   "the effects of engineering children to have positional goods",
+   "loss of equality of opportunity",
+   "increased disparity between the rich and the poor"
+  ],
+  "target": 0,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 11003,
+  "question": " The question of whether the killing/letting die distinction is morally relevant can be posed by asking whether we are equally to blame for allowing people in Third World countries to starve as we would be for",
+  "options": [
+   "killing them by blocking access to clean water.",
+   "killing them by sending poisoned food.",
+   "refusing to share agricultural technology with them.",
+   "withholding medicine that they need to survive.",
+   "exploiting their resources without fair compensation.",
+   "denying them the opportunity to trade fairly in global markets.",
+   "depriving them of knowledge they need to produce food.",
+   "imposing economic sanctions that lead to food shortages.",
+   "depriving them of their land for farming.",
+   "refusing to give them the money they need to purchase food."
+  ],
+  "target": 1,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 11004,
+  "question": " Which of the following is an example of a duty that corresponds to a right to goods and service?",
+  "options": [
+   "John's duty to return to Mary that car that he borrowed from her",
+   "John's duty to allow Mary to pursue goals that she values",
+   "John's duty to not harm Mary",
+   "John's duty to not commit suicide"
+  ],
+  "target": 0,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 11005,
+  "question": " Critics of speech codes adopted in the 1980s and early 1990s argued that these codes violated which of the following principles?",
+  "options": [
+   "freedom of speech",
+   "freedom of the press",
+   "right to bear arms",
+   "right to privacy"
+  ],
+  "target": 1,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 11031,
+  "question": " Select the best English interpretation of the given proposition, using the following translation key: Ax: x is an apartment Hx: x is a house Lx: x is large Bxy: x is bigger than y (∃x)[(Ax • Lx) • (∃y)(Hy • Bxy)]",
+  "options": [
+   "All large apartments are bigger than some houses.",
+   "Some small houses are smaller than some large apartments.",
+   "All houses are smaller than some large apartments.",
+   "Some houses are bigger than all large apartments.",
+   "Some large apartments are bigger than some houses.",
+   "Some houses are the same size as some large apartments.",
+   "No large apartments are bigger than houses.",
+   "Some houses are bigger thatn some large apartments.",
+   "Some large houses are bigger than some apartments.",
+   "Some large apartments are smaller than some houses."
+  ],
+  "target": 4,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 11032,
+  "question": " Select the best translation into predicate logic. All jellybeans are sweeter than all fruit. (Fx: x is a fruit; Jx: x is a jellybean; Sxy: x is sweeter than y)",
+  "options": [
+   "(∀x)[Jx ⊃ (∀y)(Jy ⊃ Sxy)]",
+   "(∀x)(∀y)[(Fx • Jy) • Sxy]",
+   "(∀x)(∀y)[Sxy ⊃ (Jx • Fy)]",
+   "(∀x)(∀y)[Sxy ⊃ (Fy • Jx)]",
+   "(∀x)[Jx ⊃ (∀y)(Fy ⊃ Sxy)]",
+   "(∀x)(∀y)[(Jx • Fy) ⊃ Sxy]",
+   "(∀x)(∀y)[(Fx • Jy) ⊃ Sxy]",
+   "(∀x)[Fx ⊃ (∀y)(Jy ⊃ Sxy)]",
+   "(∀x)[Fx ⊃ (∀y)(Sxy ⊃ Jy)]",
+   "(∀x)[Jx ⊃ (∀y)(Sxy ⊃ Fy)]"
+  ],
+  "target": 4,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 11034,
+  "question": "Select the best translation into predicate logic: Caroline is sweet if, and only if, Janet is engaged to Brad.",
+  "options": [
+   "Sx ≡ Jy",
+   "Ej ≡ Cs",
+   "Sc ≡ Ej",
+   "Cs ⊃ Ej",
+   "Se ≡ Cj",
+   "Sj ≡ Ce",
+   "Cj ⊃ Es",
+   "sC ≡ eJ",
+   "Cs ≡ Bj",
+   "Cb ≡ Je"
+  ],
+  "target": 2,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 11035,
+  "question": " Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)\n~X ⊃ Y\nY ⊃ Z\n~Z / ~X",
+  "options": [
+   "Valid. All combinations of X, Y, and Z are true",
+   "Valid. No counterexamples exist",
+   "Valid",
+   "Invalid. Counterexample when Y and Z are true and Z is false",
+   "Invalid. Counterexample when X, Y, and Z are true",
+   "Invalid. Counterexample when X is false and Y and Z are true",
+   "Invalid. Counterexample when Y is true and X and Z are false",
+   "Invalid. Counterexample when X is true and Y and Z are false",
+   "Invalid. Counterexample when X, Y, and Z are false",
+   "Invalid. Counterexample when X and Z are true and Y is false"
+  ],
+  "target": 7,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 11036,
+  "question": " S Select the best translation into predicate logic. Some kind people help some endangered species. (Ex: x is endangered; Kx: x is kind; Px: x is a person; Sx: x is a species; Hxy: x helps y)",
+  "options": [
+   "(∃x)(∃y){[(Kx • Sx) • (Ey • Py)] • Hxy}",
+   "(∃x){(Kx • Px) • (∃y)[(Ey • Sy) • Hxy]}",
+   "(∃x)(∃y){[(Kx • Px) • (Ey • Sy)] • Hxy}",
+   "(∃x)(∃y){[(Kx • Px) • (Ey • Sy)] ⊃ Hyx}",
+   "(∃x)(∃y){[(Kx • Px) • (Ey • Sy)] ⊃ Hxy}",
+   "(∃x)(∃y){[(Kx • Sx) • (Ey • Py)] • Hyx}"
+  ],
+  "target": 1,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 11037,
+  "question": " Select the best translation into predicate logic: All first-year students take a swim test.",
+  "options": [
+   "(∀x)(Sx ⊃ Fx)",
+   "(∀x)(Fx ≡ Sx)",
+   "(∀x)(Sx ∨ Fx)",
+   "(∀x)(Sx ≡ Fx)",
+   "(∀x)(Sx ∧ Fx)",
+   "(∀x)(Fx ∨ Sx)",
+   "(∀x)(~Sx ⊃ Fx)",
+   "(∀x)(Fx ∧ Sx)",
+   "(∀x)(Fx ⊃ ~Sx)",
+   "(∀x)(Fx ⊃ Sx)"
+  ],
+  "target": 9,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 11038,
+  "question": " Which of the given formulas of PL is the best symbolization of the following sentence?\nDylan likes neither math nor science.",
+  "options": [
+   "M ∨ ~S",
+   "~M ∨ S",
+   "~M ∧ ~S",
+   "M ∨ S",
+   "M ∧ S",
+   "~(~M ∨ S)",
+   "~(M • S)",
+   "~(M ∨ S)",
+   "~(M ∧ ~S)",
+   "~M ∨ ~S"
+  ],
+  "target": 7,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 11040,
+  "question": " Ashford thinks that the right test of whether or not legal and economic structures are minimally just is to see whether or not",
+  "options": [
+   "they are accepted by the majority of people.",
+   "they provide equal opportunities for all.",
+   "they help develop human capabilities.",
+   "they recognize, enforce, and implement duties not to violate human rights.",
+   "they maximize the amount of happiness in the world.",
+   "they are universalizable.",
+   "they minimize the amount of suffering in the world.",
+   "they prioritize the needs of the marginalized.",
+   "they uphold the principles of democratic governance.",
+   "they ensure a fair distribution of wealth."
+  ],
+  "target": 3,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 11042,
+  "question": " Richardson-Self argues that sexist speech",
+  "options": [
+   "Can never be considered hate speech regardless of context",
+   "Is never hate speech because it is a form of free expression.",
+   "is always hate speech, because it does not involves violence.",
+   "is not always hate speech, because it does not involve violence",
+   "is always hate speech, because it involves violence.",
+   "Is not hate speech because it is protected under freedom of speech",
+   "Is always hate speech because it promotes gender inequality",
+   "Is only hate speech when it directly incites violence",
+   "Can be considered hate speech when it promotes discrimination",
+   "I s not always hate speech, because it always involves violence."
+  ],
+  "target": 3,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 11043,
+  "question": " According to Singer, which of the following historical defenders of the principle of equal consideration of interests was one of the few to recognize that the principle applies to members of other species as well as to our own?",
+  "options": [
+   "Aristotle",
+   "Friedrich Nietzsche",
+   "David Hume",
+   "Jeremy Bentham",
+   "John Stuart Mill",
+   "Thomas Hobbes",
+   "Immanuel Kant",
+   "Jean-Jacques Rousseau",
+   "Socrates",
+   "Rene Descartes"
+  ],
+  "target": 3,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 11046,
+  "question": " According to the Humanity formulation of Kant's principle, we must treat persons",
+  "options": [
+   "never as a mere means.",
+   "always as a means to an end.",
+   "in ways that serve the best interests of the majority.",
+   "in ways that promote universal happiness.",
+   "in ways that produce the most good for everyone concerned.",
+   "in ways that serve one's own best interests.",
+   "never as a means.",
+   "never as an end in itself."
+  ],
+  "target": 0,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 11047,
+  "question": " Marcia Baron argues that the artificiality of ticking bomb cases is problematic because",
+  "options": [
+   "the artificial assumptions are, in fact, empirical claims that are central to the debate.",
+   "it leads us to believe that torture is always permissible.",
+   "all artificial thought experiments are philosophically useless."
+  ],
+  "target": 0,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 11048,
+  "question": " Which of the following is not an example Aquinas gives of a self-evident proposition?",
+  "options": [
+   "\"Man is a rational being.\"",
+   "\"All bachelors are unmarried.\"",
+   "\"Night follows day.\"",
+   "\"The sum of the angles of a triangle is 180 degrees.\"",
+   "\"The same thing cannot be affirmed and denied at the same time.\"",
+   "\"The light of Thy countenance, O Lord, is signed upon us.\"",
+   "\"A square has four sides.\"",
+   "\"Every whole is greater than its part.\"",
+   "\"Things equal to one and the same are equal to one another.\"",
+   "\"An effect depends on its cause.\""
+  ],
+  "target": 5,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 11049,
+  "question": " According to Carruthers, our duties to animals are",
+  "options": [
+   "conditional and complex.",
+   "absolute and fundamental.",
+   "direct and secondary.",
+   "negotiable and fluctuating.",
+   "indirect but fundamental.",
+   "direct and basic.",
+   "perfect (rather than imperfect).",
+   "primary but not imperative.",
+   "indirect and derivative.",
+   "nonexistent."
+  ],
+  "target": 8,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 11050,
+  "question": " According to rule consequentialism, the rightness or wrongness of an action depends on",
+  "options": [
+   "the individual's personal beliefs and morals at the time of the action.",
+   "whether a virtuous person would endorse a rule requiring, permitting, or prohibiting that action.",
+   "that action's relationship to the operative rules of law.",
+   "the action's alignment with universally accepted human rights.",
+   "the immediate consequences of the action, regardless of any established rules.",
+   "the logical consistency behind the motive of actions of the same type.",
+   "whether a religious doctrine approves or disapproves of the action.",
+   "whether the action aligns with the principles of utilitarianism.",
+   "the societal norms and customs relevant to the action.",
+   "whether that action is required, permitted, or prohibited by a rule the consequences of which are best."
+  ],
+  "target": 9,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 11076,
+  "question": " Which of the following propositions is an immediate (one-step) consequence in PL of the given premises?\n~E ⊃ ~F\nG ⊃ F\nH ∨ ~E\nH ⊃ I\n~I",
+  "options": [
+   "~H ⊃ I",
+   "G ⊃ ~F",
+   "H ⊃ ~E",
+   "I ⊃ H",
+   "~H",
+   "H ⊃ F",
+   "~G",
+   "F ⊃ ~E",
+   "E ⊃ F",
+   "F ⊃ G"
+  ],
+  "target": 4,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 11077,
+  "question": " Select the best translation into predicate logic: Some students work hard.",
+  "options": [
+   "(∃x)(Sx ⊃ Wx)",
+   "(∃x)(Wx ⊃ Sx)",
+   "(∀x)(Sx • Wx)",
+   "(∃x)(Sx • Wx)",
+   "(∀x)(Sx ∨ Wx)",
+   "(∀x)(Wx • Sx)",
+   "(∃x)(Sx ∨ Wx)",
+   "(∃x)(Wx • Sx)",
+   "(∀x)(Sx ⊃ Wx)",
+   "(∃x)(Wx ∨ Sx)"
+  ],
+  "target": 3,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 11078,
+  "question": "Which of the following propositions is an immediate (one-step) consequence in PL of the given premises?\n(A ∨ B) ⊃ (C ∨ D)\nA ∨ B\n~C",
+  "options": [
+   "C ∨ D",
+   "(A ∨ B) ⊃ ~D",
+   "(A ∨ B) ⊃ ~~C",
+   "D ∨ ~C",
+   "~~D",
+   "~A ∨ ~B",
+   "B ∨ ~A",
+   "~D ∨ C",
+   "~~C"
+  ],
+  "target": 0,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 11079,
+  "question": " Select the best translation into predicate logic. Marco doesn't move from Spain to Italy. (i: Italy; m: Marco; s: Spain; Mxyz: x moves to y from z)",
+  "options": [
+   "~Mis",
+   "Msi~",
+   "M~ism",
+   "~Mmis",
+   "M~mis",
+   "~Mmsi",
+   "M~si",
+   "M~msi",
+   "Mims~"
+  ],
+  "target": 3,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 11080,
+  "question": " Which of the given formulas of PL is the best symbolization of the following sentence?\nEither England's not importing beef is a necessary condition for France's subsidizing agriculture, or China promotes human rights if and only if South Africa doesn't supply diamonds.",
+  "options": [
+   "(E ⊃ ~F) ∨ (S ≡ ~C)",
+   "(F ⊃ E) ∨ (C ≡ ~S)",
+   "(~E ⊃ ~F) ∨ (C ⊃ S)",
+   "(~F ⊃ E) ∨ (~C ≡ S)",
+   "(~F ⊃ ~E) ∨ (S ≡ ~C)",
+   "(~E ⊃ F) ∨ (C ⊃ ~S)",
+   "(F ⊃ ~E) ∨ (C ≡ ~S)",
+   "(E ⊃ F) ∨ (C ≡ S)",
+   "~(F ⊃ E) ∨ (~S ⊃ C)",
+   "(F ⊃ E) ∨ (S ≡ C)"
+  ],
+  "target": 6,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 11081,
+  "question": "Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)\n~(M ≡ ~N)\nM / N",
+  "options": [
+   "Invalid. Counterexample when M is false and N is false",
+   "Invalid. Counterexample when M and N are true",
+   "Invalid. Counterexample when N is false and M is true",
+   "Invalid. Counterexample when N is true and M is false",
+   "Valid",
+   "Invalid. Counterexample when M is false and N is true",
+   "Invalid. Counterexample when both M and N are false",
+   "Invalid. Counterexample when M and N alternate in truth value",
+   "Invalid. Counterexample when M is true and N is false"
+  ],
+  "target": 4,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 11082,
+  "question": " What is the \"intergenerational storm\" of climate change?",
+  "options": [
+   "the problem of massive world overpopulation over generations.",
+   "the problem that the pace of climate change is too fast for future generations to adapt.",
+   "the problem of greenhouse gas emissions increasing over generations due to technological advancements.",
+   "the problem that current generations are not doing enough to prevent climate change, thus leaving future generations to deal with the consequences.",
+   "the problem that the compounding effects of greenhouse gas emissions require the current generation to, in effect, cooperate with future generations.",
+   "the problem of a lack of education among current generations about the long-term effects of climate change.",
+   "the problem that future generations may not be able to afford the costs of reversing the effects of climate change.",
+   "the problem that the negative effects of climate change disproportionately affect the younger generation.",
+   "the problem that the bad effects of current carbon dioxide emissions will fall largely on future generations.",
+   "the problem that countries are possibly biased toward the interests of the current generation, which largely benefits from carbon dioxide emissions."
+  ],
+  "target": 9,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 11083,
+  "question": " Why, according to Gill, does Leon Kass think the notion of being \"better off dead\" is incoherent?",
+  "options": [
+   "because Kass thinks that death is not a state of being and therefore cannot be evaluated.",
+   "because Kass believes in the sanctity of life and opposes euthanasia.",
+   "because Kass maintains that the concept of death is inherently negative and cannot be considered as \"better\".",
+   "because there has yet to be a satisfactory philosophical explanation of why death is bad.",
+   "because dead people no longer exist, and thus cannot benefit from choosing to die.",
+   "because Kass believes suffering in life can lead to personal growth, making death not a better option.",
+   "because some things (e.g., long-term torture) are worse than death.",
+   "because Kass believes that one cannot compare being alive and being dead.",
+   "because death is, by definition, undesirable.",
+   "because death cannot be considered as a better option when life is valuable."
+  ],
+  "target": 4,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 11085,
+  "question": " Against Kant's view of sexual objectification, Papadaki argues that",
+  "options": [
+   "Papadaki actually agrees with Kant's view",
+   "Papadaki suggests that Kant's view of sexual objectification is too subjective.",
+   "Papadaki argues that sexual objectification is an outdated concept.",
+   "sexual objectification actually enhances humanity.",
+   "Papadaki believes that sexual objectification is a necessary part of human relationships.",
+   "Papadaki argues that Kant's view of sexual objectification is too moralistic.",
+   "According to Papadaki, Kant's views on sexual objectification are too black and white.",
+   "Papadaki holds that sexual objectification can be justified in certain contexts.",
+   "Kant is wrong to think about the wrong of sexual objectification in terms of humanity.",
+   "it is not clear how sexual use sacrifices humanity."
+  ],
+  "target": 9,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 11088,
+  "question": " In accordance with the theory of justice proposed by John Rawls, Stephen Macedo argues,\"We must consider the justifiability of policies from the standpoint of the _____ well-off among our fellow citizens.\"",
+  "options": [
+   "most",
+   "educationally",
+   "financially",
+   "most disadvantaged",
+   "least",
+   "physically",
+   "historically",
+   "permanently",
+   "historically disadvantaged",
+   "mentally"
+  ],
+  "target": 4,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 11089,
+  "question": " Which of the following statements best describes Gill's response to the argument that the Oregon physician-assisted law falsely assumes that doctors are qualified to judge whether a life is worth living?",
+  "options": [
+   "Doctors are normally required to make life-and-death decisions, and this is no exception.",
+   "The law is in line with the doctors' Hippocratic oath of doing no harm.",
+   "Doctors are as qualified as any other mature adult to decide whether a life is worth living.",
+   "The law doesn't require doctors to judge the worth of a life, but rather to provide a professional opinion on the patient's condition.",
+   "The argument is valid because doctors should not be the ones to decide whether a life is worth living.",
+   "The law is justified as doctors are inherently equipped to make such judgements due to their profession.",
+   "The law only requires doctors to make medical decisions about the patient's life expectancy and prognosis.",
+   "The argument is self-defeating because it was proposed by medical doctors.",
+   "The argument is irrelevant as the law is about patient autonomy and not about doctors' judgement on life's worth.",
+   "The law is flawed because it puts too much pressure on the doctors to make such decisions."
+  ],
+  "target": 6,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 11090,
+  "question": " In Carruther's view, the justification for moral criticism for things that we do (or don't to do) to an animal derives from",
+  "options": [
+   "the animal's lifespan.",
+   "the animal's direct moral standing.",
+   "societal norms and expectations.",
+   "the animal's role in the ecosystem.",
+   "the animal's inability to defend itself.",
+   "the bad qualities of character that our actions evince.",
+   "the animal's intelligence level.",
+   "the animal's capacity for emotion."
+  ],
+  "target": 5,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 11092,
+  "question": " Lukianoff and Haidt argue that trigger warnings involve which kind of pathological thinking?",
+  "options": [
+   "fortune-telling",
+   "blaming",
+   "dichotomous thinking",
+   "resentment"
+  ],
+  "target": 1,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 11093,
+  "question": " In his discussion of discrimination in war, Valls suggests that",
+  "options": [
+   "the concept of combatants and noncombatants is outdated and irrelevant.",
+   "\"terrorism\" should be defined as violence against noncombatants.",
+   "there is no difference between combatants and noncombatants.",
+   "the difference between combatants and noncombatants is largely ambiguous.",
+   "the difference between combatants and noncombatants is categorical and clear.",
+   "\"terrorism\" should be defined as indiscriminate violence.",
+   "there is a fine line between combatants and noncombatants.",
+   "\"terrorism\" should be defined as violence excluding war.",
+   "the difference between combatants and noncombatants is subjective and varies with perspective.",
+   "the difference between combatants and noncombatants is a matter of degree."
+  ],
+  "target": 9,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 11094,
+  "question": " Nagel thinks that the core of the absolutist position is that",
+  "options": [
+   "all actions are morally equivalent.",
+   "it is permissible to harm as a foreseen but unintended consequence of action.",
+   "the ends justify the means.",
+   "individuals should always act in their own best interest.",
+   "the moral worth of an action is determined by its outcome.",
+   "no action can be morally justified.",
+   "morality is subjective and varies from person to person.",
+   "the hostility should be directed at its true object.",
+   "human persons have a right to life.",
+   "each person should pursue his or her own happiness."
+  ],
+  "target": 7,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 11117,
+  "question": " Which of the given formulas of PL is the best symbolization of the following sentence?\nEverybody loves Raymond, or not.",
+  "options": [
+   "L → ~L",
+   "~L • L",
+   "L ∨ ~L",
+   "L",
+   "L ∧ L",
+   "L • ~L",
+   "~L → L",
+   "~L ∧ ~L",
+   "~L"
+  ],
+  "target": 2,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 11118,
+  "question": "Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)\nE ⊃ (F ∨ ~G)\nF ⊃ (~E ∨ ~G) / ~(E ≡ F)",
+  "options": [
+   "Invalid. Counterexample when E is true, F is false and G is true",
+   "Valid",
+   "Invalid. Counterexample when E and G are true and F is false",
+   "Valid. No counterexample found",
+   "Invalid. Counterexample when E is false, F is true and G is false",
+   "Invalid. Counterexample when F and G are true and E is false",
+   "Invalid. Counterexample when E and F are true and G is false"
+  ],
+  "target": 6,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 11120,
+  "question": " Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose an option with a consistent valuation. (There may be other consistent valuations.)\nD ≡ E\nF ∨ D\n~E · ~F",
+  "options": [
+   "Consistent. Consistent valuation when D and E are true and F is true",
+   "Inconsistent",
+   "Consistent. Consistent valuation when D is true, E and F are false",
+   "Consistent. Consistent valuation when E is true, D and F are false",
+   "Consistent. Consistent valuation when D and E are true and F is false",
+   "Consistent. Consistent valuation when D, E are false and F is true",
+   "Consistent. Consistent valuation when D and F are true and E is false",
+   "Consistent. Consistent valuation when D, E, and F are true",
+   "Consistent. Consistent valuation when F is true, D and E are false",
+   "Consistent. Consistent valuation when D, E and F are false"
+  ],
+  "target": 1,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 11121,
+  "question": " Which of the following propositions is an immediate (one-step) consequence in PL of the given premises?\nA ⊃ (B • C)\n~(B • C)\nA ∨ (D ∨ B)",
+  "options": [
+   "~(B • C)",
+   "D ∨ B",
+   "~A",
+   "D",
+   "A",
+   "~D",
+   "B",
+   "B • C",
+   "~B",
+   "~(A ∨ D)"
+  ],
+  "target": 2,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 11122,
+  "question": " Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose an option with a consistent valuation. (There may be other consistent valuations.)\n(T ⊃ U) ⊃ (W ⊃ U)\nT ⊃ ~(U ⊃ X)\n(T ⊃ ~X) ⊃ W",
+  "options": [
+   "Inconsistent. Inconsistent valuation when T, U, W and X are all false",
+   "Inconsistent. Inconsistent valuation when T, U, W and X are all true",
+   "Consistent. Consistent valuation when T, U and X are true and W is false",
+   "Consistent. Consistent valuation when U, W, and X are true and T is false",
+   "Inconsistent"
+  ],
+  "target": 3,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 11123,
+  "question": " Use the following key to translate the given formula of PL to natural, English sentences.\nA: Marina reads a Percy Jackson book.\nB: Izzy plays Minecraft.\nC: Emily stops working.\nD: Russell makes dinner.\nE: Ashleigh stops by.\n~C ∨ D",
+  "options": [
+   "Emily doesn't stop working unless Russell makes dinner.",
+   "If Emily doesn't stop working then Russell makes dinner.",
+   "Emily stops working if Russell doesn't make dinner.",
+   "Russell doesn't make dinner if Emily stops working.",
+   "If Emily stops working then Russell doesn't make dinner.",
+   "If Russell makes dinner then Emily doesn't stop working.",
+   "Russell doesn't make dinner unless Emily stops working.",
+   "Emily stops working unless Russell doesn't make dinner.",
+   "Russell makes dinner if Emily doesn't stop working."
+  ],
+  "target": 0,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 11124,
+  "question": "Select the best translation into predicate logic: Sheena is a punk rocker.",
+  "options": [
+   "xPs",
+   "SPx",
+   "sP",
+   "Pxs",
+   "Spx",
+   "Sx",
+   "Ps",
+   "xSP",
+   "xS",
+   "PxS"
+  ],
+  "target": 6,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 11125,
+  "question": "Select the best translation into predicate logic: Leroy is bad only if DJ Khaled shouts his name.",
+  "options": [
+   "Sy ≡ Bl",
+   "Sy ⊃ Bl",
+   "Bx ⊃ Sy",
+   "Bl ⊃ Sk",
+   "Bx ≡ Sy",
+   "Sk ⊃ By",
+   "Sk ⊃ Bx",
+   "Sk ≡ Bl",
+   "By ≡ Sk",
+   "Bl ≡ Sk"
+  ],
+  "target": 3,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 11126,
+  "question": "Select the best translation into predicate logic. Alexis is greeted by Ben. (a: Alexis; b: Ben; Gxy: x greets y)",
+  "options": [
+   "G(ab)",
+   "aGb",
+   "aGba",
+   "~Gba",
+   "Gba",
+   "Gaa",
+   "Gab",
+   "Gb~a",
+   "Gbb",
+   "Ga/b"
+  ],
+  "target": 4,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 11127,
+  "question": " Which of the given formulas of PL is the best symbolization of the following sentence?\nEither England's importing beef is a necessary condition for France's subsidizing agriculture or China promotes human rights given that South Africa doesn't supply diamonds.",
+  "options": [
+   "(F ⊃ E) ∨ (~S ⊃ C)",
+   "(E ≡ F) ∨ (C ⊃ ~S)",
+   "(F ≡ E) ∨ (S ≡ ~C)",
+   "(F ⊃ E) ∨ (S ≡ C)",
+   "(E ⊃ F) ∨ (S ⊃~C)",
+   "(F ⊃ E) ∨ (~S ≡ C)",
+   "(E ⊃ F) ∨ (C ⊃ S)",
+   "(E ⊃ F) ∨ (~C ⊃ S)",
+   "(E ⊃ F) ∨ (~S ≡ ~C)",
+   "(E ⊃ F) ∨ (C ≡ ~S)"
+  ],
+  "target": 0,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 11128,
+  "question": " According to Mill, censoring speech that is possibly true",
+  "options": [
+   "is a good way to maintain public order.",
+   "is a risk worth taking of the speech is dangerous enough.",
+   "diminishes intellectual growth.",
+   "is acceptable if the speech is offensive.",
+   "is a violation of the speaker's freedom of expression.",
+   "is a fundamental right of society.",
+   "fails a prima facie duty of honesty.",
+   "violates human dignity.",
+   "is tantamount to asserting that you are infallible.",
+   "is necessary to maintain societal harmony."
+  ],
+  "target": 8,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 11130,
+  "question": " In contrast to Garrett Hardin's approach, the Confucian model rejects coercion because",
+  "options": [
+   "it views coercion as a violation of human rights",
+   "it believes in the power of persuasion over coercion",
+   "the Confucian model believes in voluntary compliance based on mutual respect and understanding.",
+   "it affirms the autonomy of individuals apart from others.",
+   "The Confucian model actually accepts coercion.",
+   "the costs of eliminating a collective action problem are not irrelevant to its solution",
+   "coercion is seen as a last resort, only to be used in extreme circumstances",
+   "the Confucian model prioritizes collective action over individual action",
+   "it cannot lead to real social change, which involves changes of mind as well as action",
+   "it believes in the intrinsic goodness and perfectibility of human beings"
+  ],
+  "target": 3,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 11132,
+  "question": " Since we who live in wealthy countries have directly caused harm, Pogge argues that we have very stringent",
+  "options": [
+   "libertarian duties towards the global poor",
+   "positive duties towards the global poor",
+   "duty-free towards the global poor",
+   "liberal duties towards the global poor",
+   "consequentialist duties towards the global poor",
+   "conservative duties towards the global poor",
+   "negative dutiestowards the global poor",
+   "utilitarian duties towards the global poor",
+   "human rights duties towards the global poor",
+   "egalitarian duties towards the global poor."
+  ],
+  "target": 6,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 11135,
+  "question": " Nagel clarifies that absolutism is the view that we should",
+  "options": [
+   "only sometimes prevent murder",
+   "never prevent murder",
+   "only sometimes avoid murder",
+   "always encourage murder",
+   "consider murder as a last resort",
+   "encourage murder under certain circumstances",
+   "only sometimes encourage murder",
+   "avoid murder except in self-defense situations",
+   "avoid murder at all costs"
+  ],
+  "target": 8,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 11161,
+  "question": " Select the best translation into predicate logic. Some firefighters rescue victims from danger. (Dx: x is danger; Fx: x is a firefighter; Vx: x is a victim; Rxyz: x rescues y from z)",
+  "options": [
+   "(∀x){Fx ⊃ (∃y)[Vy . (∃z)(Dz • Rxyz)]}",
+   "(∃x){Fx • (∀y)[Dy ⊃ (∃z)(Vz • Rxyz)]}",
+   "(∀x){Fx ⊃ (∃y)[Dy . (∃z)(Vz • Rxyz)]}",
+   "(∃x){Fx • (∀y)[Vy ⊃ (∀z)(Dz • Rxyz)]}",
+   "(∃x){Fx • (∀y)[Vy ⊃ (∃z)(Dz • Rxyz)]}",
+   "(∀x){Fx ⊃ (∀y)[Vy ⊃ (∃z)(Dz • Rxyz)]}",
+   "(∃x){Fx • (∃y)[Dy • (∃z)(Vz • Rzxy)]}",
+   "(∃x){Fx • (∃y)[Vy • (∃z)(Dz • Rxyz)]}",
+   "(∃x){Fx • (∃y)[Dy • (∃z)(Vz • Rxyz)]}",
+   "(∃x){Fx • (∃y)(∃z)[(Vy • Dz) • Rxzy]}"
+  ],
+  "target": 7,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 11162,
+  "question": " Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose an option with a consistent valuation. (There may be other consistent valuations.)\n~N ≡ (O · P)\n~O ⊃ Q\nN · ~Q",
+  "options": [
+   "Inconsistent. Inconsistent valuation when N, O, P, and Q are all false",
+   "Inconsistent",
+   "Consistent. Consistent valuation when N, O, and P are true and Q is false",
+   "Inconsistent. Inconsistent valuation when N and P are true and O and Q are false",
+   "Consistent. Consistent valuation when N and P are true and O and Q are false",
+   "Inconsistent. Inconsistent valuation when N, O, P, and Q are all true",
+   "Consistent. Consistent valuation when N and O are true and P and Q are false",
+   "Consistent. Consistent valuation when O, P, and Q are true and N is false"
+  ],
+  "target": 6,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 11163,
+  "question": " Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)\n~S ∨ T\n~S · U\n~T ∨ U / T · U",
+  "options": [
+   "Invalid. Counterexample when T is true, and S and U are false",
+   "Invalid. Counterexample when U is true and S and T are false",
+   "Valid",
+   "Valid. No counterexample exists.",
+   "Invalid. Counterexample when S and U are true and T is false",
+   "Invalid. Counterexample when S is true, T and U are false",
+   "Invalid. Counterexample when S, T, and U are true",
+   "Invalid. Counterexample when S is false, T is true, and U is false",
+   "Invalid. Counterexample when S is true, T is false, and U is true",
+   "Invalid. Counterexample when S, T, and U are false"
+  ],
+  "target": 1,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 11165,
+  "question": " Sinnott-Armstrong is most interested in examining issues about the moral obligations of",
+  "options": [
+   "educational institutions.",
+   "environmental entities.",
+   "animals.",
+   "governments.",
+   "corporations.",
+   "families.",
+   "religious groups.",
+   "technology companies.",
+   "societies.",
+   "individuals."
+  ],
+  "target": 9,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 11166,
+  "question": " Wellman argues that insisting on unlimited property rights commits one to",
+  "options": [
+   "anarchy.",
+   "deontological theory.",
+   "libertarianism.",
+   "communitarianism.",
+   "socialism.",
+   "egalitarianism.",
+   "utilitarianism.",
+   "consequentialism.",
+   "capitalism.",
+   "authoritarianism."
+  ],
+  "target": 0,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 11167,
+  "question": " Sandel's case against moral engineering can best be considered",
+  "options": [
+   "an expression of the ethics of care.",
+   "a natural law theory approach.",
+   "an application of the ethics of prima facie duty.",
+   "a deontological approach.",
+   "an existentialist approach.",
+   "a virtue ethics approach.",
+   "a relativist approach.",
+   "a Kantian approach.",
+   "a consequentialist approach.",
+   "a utilitarian approach."
+  ],
+  "target": 5,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 11188,
+  "question": "Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)\n~K ≡ L / (K · L) ∨ (K · ~L)",
+  "options": [
+   "Invalid. Counterexample when K is true and L is false",
+   "Valid. Counterexample when K is true and L is false",
+   "Valid. No counterexamples exist",
+   "Invalid. Counterexample when L is true and K is false",
+   "Invalid. Counterexample when K and L are true",
+   "Invalid. Multiple counterexamples exist",
+   "Valid",
+   "Invalid. Counterexample when L is false and K is true",
+   "Invalid. Counterexample when both K and L are false"
+  ],
+  "target": 3,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 11189,
+  "question": "Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)\nP ⊃ (Q ∨ R)\n(Q · S) ⊃ ~P\n~(~Q ∨ R) / ~P",
+  "options": [
+   "Invalid. Counterexample when P, Q, R, and S are true",
+   "Valid",
+   "Valid. No counterexamples exist",
+   "Invalid. Counterexample when P and R are true and Q and S are false",
+   "Invalid. Counterexample when P is true, Q, R, and S are false",
+   "Invalid. Counterexample when P and Q are true and R and S are false",
+   "Invalid. Counterexample when P is false, Q, R, and S are true",
+   "Invalid. Counterexample when P, R, and S are true and Q is false",
+   "Invalid. Counterexample when P and S are true and Q and R are false"
+  ],
+  "target": 5,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 11190,
+  "question": " Which of the given formulas of PL is the best symbolization of the following sentence?\nIf either George enrolls or Harry enrolls, then Ira does not enroll.",
+  "options": [
+   "(G ∨ H) ∨ ~I",
+   "(G ⊃ H) ∨ ~I",
+   "(G ⊃ ~H) ∨ I",
+   "(G ∨ H) ∨ I",
+   "(G ⊃ H) ∨ I",
+   "(G ∨ I) ⊃ ~H",
+   "(G ∨ H) ⊃ ~I",
+   "(G ⊃ I) ∨ H",
+   "(G ∨ H) ⊃ I",
+   "(G ∨ ~H) ⊃ I"
+  ],
+  "target": 6,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 11191,
+  "question": " Select the best translation into predicate logic. Some animals are neglected by cruel people. (Ax: x is an animal; Cx: x is cruel; Px: x is a person; Nxy: x neglects y)",
+  "options": [
+   "(∃x)[(Cx • Py) • (∃y)(Ay • Nyx)]",
+   "(∃x)[(Px • Ax) • (∃y)(Cy • Nyx)]",
+   "(∃x)[(Ax • Cx) • (∃y)(Py • Nyx)]",
+   "(∃x)[(Cx • Px) • (∃y)(Ay • Nxy)]",
+   "(∃x)[(Ax • Px) • (∃y)(Cy • Nxy)]",
+   "(∃x)[(Px • Cx) • (∃y)(Ay • Nyx)]",
+   "(∃x)(∃y){[(Ax • Px) • Cy] • Nyx)}",
+   "(∃x)[(Ax • Px) • (∃y)(Cy • Nyx)]",
+   "(∃x)(∃y){[(Ax • Cy) • Py] • Nxy)]}"
+  ],
+  "target": 3,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 11192,
+  "question": " Select the best translation into predicate logic: All robots are artifacts.",
+  "options": [
+   "(∀x)(Rx ⊂ Ax)",
+   "(∀x)(Ax ⊃ Rx)",
+   "(∀x)(Ax ⊂ Rx)",
+   "(∀x)(Ax ∨ Rx)",
+   "(∀x)(Ax • Rx)",
+   "(∀x)(Rx ⊃ Ax)",
+   "(∀x)(Rx • Ax)",
+   "(∀x)(Rx ∨ Ax)"
+  ],
+  "target": 5,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 11193,
+  "question": " Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)\n(G ≡ H) · ~I\n~G ∨ (~H ∨ I) / G",
+  "options": [
+   "Invalid. Counterexample when H and G are true and I is false",
+   "Invalid. Counterexample when H and I are true and G is false",
+   "Invalid. Counterexample when H, I, and G are false",
+   "Valid. No counterexample exists.",
+   "Valid",
+   "Invalid. Counterexample when I is true and H and G are false",
+   "Invalid. Counterexample when G is true and H and I are false",
+   "Invalid. Counterexample when H is true and I and G are false",
+   "Invalid. Counterexample when H is false and I and G are true",
+   "Invalid. Counterexample when I is false and H and G are true"
+  ],
+  "target": 2,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 11194,
+  "question": " Velleman worries that, by offering a patient the option of euthanasia,",
+  "options": [
+   "we encourage a culture of euthanasia.",
+   "we violate medical ethics.",
+   "we disregard the patient's will to live.",
+   "we limit the patient's treatment options.",
+   "we harm the patient's family.",
+   "we harm the patient.",
+   "we infringe on the patient's religious beliefs.",
+   "we risk legal complications.",
+   "we allow the patient to harm him- or herself.",
+   "we force doctors to harm the patient."
+  ],
+  "target": 5,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 11195,
+  "question": " Ashford argues that worries about causing dependency on aid agencies among those in extreme poverty does not mean that we should",
+  "options": [
+   "suggest that aid agencies are the only solution to global poverty.",
+   "abandon the world's poor to their unjust predicament.",
+   "argue that aid agencies are inherently unjust.",
+   "increase the amount of aid given to the world's poor.",
+   "ignore the issue of global economic justice.",
+   "force the world's poor to be self-sufficient.",
+   "stop all forms of international aid.",
+   "accept the view that we have no negative duties to the poor.",
+   "adopt a social contract approach to the problem of global economic justice.",
+   "legally abolish aid agencies."
+  ],
+  "target": 8,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 11196,
+  "question": " The retributive theory of punishment does not claim that",
+  "options": [
+   "specific punishments are justified based on the overall intrinsic value that they produce",
+   "wrongdoers deserve to be punished.",
+   "the punishment should fit the crime.",
+   "the punishment should be as severe as the crime.",
+   "wrongdoers should be punished regardless of their personal circumstances.",
+   "the death penalty might be morally justified in some cases of murder."
+  ],
+  "target": 0,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 11198,
+  "question": " Nathanson proposes a form of retributivism that requires all of the following except",
+  "options": [
+   "a list of crimes ranked according to their seriousness.",
+   "a scale of punishments that correspond to the seriousness of certain crimes.",
+   "treating criminals humanely.",
+   "the death penalty for the most serious crimes."
+  ],
+  "target": 3,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 11199,
+  "question": " According to Lukianoff and Haidt, the recent trend to uncover microaggressions encourages",
+  "options": [
+   "students to confabulate reasons.",
+   "the pursuit of justice by marking out racism, sexism, and classism.",
+   "labeling, by assigning global negative traits to persons.",
+   "universities to bear overly burdensome legal obligations."
+  ],
+  "target": 2,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 11200,
+  "question": " Which of the following best characterizes de Marneffe's view?",
+  "options": [
+   "The use, sale, and manufacturing of drugs should be legal.",
+   "The use, sale, and manufacturing of drugs should be illegal.",
+   "The use of drugs should be legal, but the sale and manufacturing of them should be illegal.",
+   "The use of drugs should be illegal, but the sale and manufacturing of them should be legal."
+  ],
+  "target": 3,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 11201,
+  "question": " With respect to the issue of world hunger and poverty, Arthur points out that Singer ignores",
+  "options": [
+   "the principles of sacrifice and reward.",
+   "the principles of the right and the good.",
+   "the principles of contribution and entitlement.",
+   "the principles of equality and harm.",
+   "the principles of rights and desert.",
+   "the principles of need and capacity.",
+   "the principles of duty and benefit.",
+   "the principles of ability to help and desires.",
+   "the principles of obligation and privilege.",
+   "the principles of justice and fairness."
+  ],
+  "target": 4,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 11202,
+  "question": " According to Altman, justifications of speech codes that take account of which of the following kinds of harm have the best prospects for success?",
+  "options": [
+   "causal harm",
+   "expressive harm",
+   "both causal and expressive harm",
+   "auxiliary harm"
+  ],
+  "target": 3,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 11220,
+  "question": " Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)\nJ ≡ ~K\nJ ∨ L\n~K / L",
+  "options": [
+   "Invalid. Counterexample when J is true and K and L are false",
+   "Valid. No counterexample exists.",
+   "Valid",
+   "Invalid. Counterexample when J and K are true and L is false",
+   "Invalid. Counterexample when J and K are false and L is true",
+   "Invalid. Counterexample when J and L are true and K is false",
+   "Invalid. Counterexample when all are false.",
+   "Invalid. Counterexample when L is true and J and K are false",
+   "Invalid. Counterexample when K and L are true and J is false",
+   "Invalid. Counterexample when K is true and J and L are false"
+  ],
+  "target": 0,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 11221,
+  "question": " Use the following key to translate the given formula of PL to natural, English sentences.\nA: Marina reads a Percy Jackson book.\nB: Izzy plays Minecraft.\nC: Emily stops working.\nD: Russell makes dinner.\nE: Ashleigh stops by.\n~(A ⊃ B) • (B ⊃ ~E)",
+  "options": [
+   "It's not true that Marina reading a Percy Jackson book causes Izzy to play Minecraft, but it is true that if Izzy plays Minecraft, Ashleigh won't stop by.",
+   "It's not true that Marina reads a Percy Jackson book only when Izzy plays Minecraft, but Izzy plays Minecraft only when Ashleigh stops by.",
+   "Marina's reading a Percy Jackson book has no effect on whether Izzy plays Minecraft, but if Izzy does play Minecraft, Ashleigh will not stop by.",
+   "If Marina reads a Percy Jackson book, then Izzy doesn't play Minecraft, but if Izzy does play Minecraft, Ashleigh won't stop by.",
+   "It's not the case that Marina's reading a Percy Jackson book entails that Izzy plays Minecraft, but Izzy's playing Minecraft does entail that Ashleigh doesn't stop by.",
+   "Marina's reading a Percy Jackson book does not entail that Izzy plays Minecraft, but Izzy plays Minecraft provided that Ashleigh doesn't stop by.",
+   "If Marina doesn't read a Percy Jackson book, then Izzy doesn't play Minecraft, and Izzy's playing Minecraft means Ashleigh does stop by.",
+   "Marina reading a Percy Jackson book doesn't entail Izzy playing Minecraft, but if Izzy doesn't play Minecraft, Ashleigh stops by.",
+   "Marina's reading a Percy Jackson book entails that Izzy plays Minecraft, and if Izzy plays Minecraft, Ashleigh stops by.",
+   "If Marina doesn't read a Percy Jackson book, then Izzy plays Minecraft, which entails that Ashleigh doesn't stop by."
+  ],
+  "target": 4,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 11222,
+  "question": " Select the best English interpretation of the given arguments in predicate logic.\nDh ⊃ ~Pt\n(∀x)Px ∨ (∀x)Mx\n~Mb\t/ ~Dh",
+  "options": [
+   "If my headache is dualist state, then your tickle is not a physical state. Either everything is physical or everything is mental. But my broken toe is not a mental state. So my headache is not a dualist state.",
+   "If my headache is a physical state, then your tickle is not a physical state. Either everything is physical or everything is mental. But my broken toe is not a mental state. So my headache is not a dualist state.",
+   "If my headache is dualist state, then your tickle is not a physical state. Either everything is physical or everything is not mental. But my broken toe is not a mental state. So my headache is not a dualist state.",
+   "If my headache is dualist state, then your tickle is a physical state. Either everything is physical or everything is mental. But my broken toe is not a mental state. So my headache is not a dualist state.",
+   "If my headache is dualist state, then your tickle is not a physical state. Everything is either physical or mental. But my broken toe is not a mental state. So my headache is not a dualist state.",
+   "If my headache is dualist state, then your tickle is not a physical state. If everything is physical then everything is mental. But my broken toe is not a mental state. So my headache is not a dualist state.",
+   "If my headache is a dualist state, then your tickle is a mental state. Either everything is physical or everything is mental. But my broken toe is not a mental state. So my headache is not a dualist state.",
+   "If my headache is in a dualist state, then your tickle is not a physical state. Everything is either physical or mental. But my broken toe is not a physical state. So my headache is not a dualist state.",
+   "If my headache is dualist state, then your tickle is a physical state. Either everything is physical or everything is mental. But my broken toe is a mental state. So my headache is not a dualist state."
+  ],
+  "target": 0,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 11223,
+  "question": " Select the best translation into predicate logic:: Some blue herons migrate.",
+  "options": [
+   "(∀x)[(Mx • Bx) ⊃ Hx]",
+   "(∀x)[(Hx • Bx) • Mx]",
+   "(∀x)[(Hx • Mx) • Bx]",
+   "(∃x)[(Hx • Bx) • Mx]",
+   "(∃x)[(Hx • Bx) ⊃ Mx]",
+   "(∃x)[(Bx • Hx) ⊃ Mx]",
+   "(∀x)[(Hx • Bx) ⊃ Mx]",
+   "(∃x)[(Bx • Mx) ⊃ Hx]",
+   "(∀x)[(Hx • Mx) ⊃ Bx]"
+  ],
+  "target": 3,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 11224,
+  "question": " Select the best English interpretation of the given proposition, using the following translation key: Ax: x is an apartment Hx: x is a house Lx: x is large Bxy: x is bigger than y (∀x)[Ax ⊃ (∃y)(Hy • Bxy)]",
+  "options": [
+   "Some house is smaller than every apartment.",
+   "Every house is bigger than some apartment.",
+   "Some apartments are bigger than all houses.",
+   "Some apartments are smaller than all houses.",
+   "Some house is bigger than every apartment.",
+   "Every apartment is bigger than some house.",
+   "All apartments are smaller than some house.",
+   "Every apartment is smaller than some house.",
+   "All houses are smaller than some apartment.",
+   "Every house is bigger than all apartments."
+  ],
+  "target": 5,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 11225,
+  "question": "Identify the antecedent of the following conditional proposition: The university raises tuition only if both the governor approves of it and the board of trustees recommends it.",
+  "options": [
+   "The board of trustees does not recommend it.",
+   "The governor approves of it.",
+   "The board of trustees recommends it.",
+   "The governor disapproves of it and the board of trustees does not recommend it.",
+   "The governor approves of it and the board of trustees recommends it.",
+   "The university does not raise tuition.",
+   "Both the governor and the board of trustees do not approve of it.",
+   "The university raises tuition.",
+   "The governor disapproves of it.",
+   "The governor approves of it or the board of trustees recommends it."
+  ],
+  "target": 7,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 11226,
+  "question": " Which of the given formulas of PL is the best symbolization of the following sentence?\nEither England's importing beef is a necessary condition for France's subsidizing agriculture or China's promoting human rights is not a sufficient condition for South Africa's supplying diamonds.",
+  "options": [
+   "(E ⊃ F) ∨ ~(S ⊃ C)",
+   "(F ≡ E) ∨ ~(C ⊃ S)",
+   "(F ⊃ E) ∨ ~(C ⊃ S)",
+   "(E ≡ F) ∨ (C ⊃ S)",
+   "(E ≡ F) ∨ ~(C ≡ S)",
+   "(F ⊃ E) ∨ (C ≡ S)",
+   "(E ⊃ F) ∨ (C ≡ S)",
+   "(~E ⊃ F) ∨ ~(C ⊃ S)",
+   "(E ≡ F) ∨ (~C ⊃ S)",
+   "(E ⊃ F) ∨ ~(C ⊃ S)"
+  ],
+  "target": 2,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 11227,
+  "question": " Select the best translation into predicate logic: Not all lobsters are red.",
+  "options": [
+   "~(∀x)(Lx ⊃ Rx)",
+   "(∀x)(~Lx • Rx)",
+   "(∀x)(Lx ⊃ ~Rx)",
+   "(∃x)(~Lx • Rx)",
+   "~(∀x)(Lx • Rx)",
+   "(∃x)(Lx • ~Rx)",
+   "~(∃x)(Lx • Rx)",
+   "(∃x)(Lx ⊃ ~Rx)",
+   "~(∀x)(~Lx ⊃ Rx)",
+   "~(∃x)(Lx ⊃ Rx)"
+  ],
+  "target": 0,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 11229,
+  "question": " According to Singer, the principle of equality requires",
+  "options": [
+   "differential indifference.",
+   "unequal consideration.",
+   "identical consideration.",
+   "identical indifference.",
+   "unequal treatment.",
+   "equal consideration.",
+   "equal treatment.",
+   "identical treatment.",
+   "differential treatment.",
+   "differential consideration."
+  ],
+  "target": 8,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 11230,
+  "question": " Van den Haag is",
+  "options": [
+   "a capitalist.",
+   "a feminist.",
+   "an anarchist.",
+   "a socialist.",
+   "a distributionist.",
+   "a minimalist.",
+   "an abolitionist.",
+   "a retentionist.",
+   "a pacifist.",
+   "a humanitarian."
+  ],
+  "target": 7,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 11231,
+  "question": " In Corvino's reading of Aquinas, \"unnatural\" sexual acts are those that are",
+  "options": [
+   "performed outside of marriage",
+   "non-consensual.",
+   "practiced among adolescents",
+   "not leading to emotional fulfillment",
+   "not accepted by societal norms",
+   "deliberately pro-creative.",
+   "involving multiple partners",
+   "uncommonly practiced among adults.",
+   "deliberately non-procreative.",
+   "not endorsed by religious institutions"
+  ],
+  "target": 1,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 11232,
+  "question": " In Singer's view, the question of when it's wrong to painlessly kill an animal is one",
+  "options": [
+   "that is irrelevant as it is never wrong to painlessly kill an animal.",
+   "that is only wrong if the animal is a pet.",
+   "that is entirely dependent on the species of the animal.",
+   "that is dependent on the cultural norms of a society.",
+   "that is ethically unimportant.",
+   "that is only applicable to endangered species.",
+   "to which we need give no precise answer.",
+   "that cannot be answered, vaguely or precisely.",
+   "to which we need to give a precise answer.",
+   "that should be answered on a case-by-case basis."
+  ],
+  "target": 6,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 11233,
+  "question": " In the context of Gardiner's article, \"the fragmentation of agency\" refers to what?",
+  "options": [
+   "an agent's inability to acknowledge his or her contribution to climate change",
+   "the fragmentation of the effects of greenhouse gas emissions across generations",
+   "the vast number of individuals and agents who contribute to climate change",
+   "the idea that it's not rational for each individual to restrict his or her own pollution"
+  ],
+  "target": 2,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 11234,
+  "question": " In Baxter's view, the first and foremost step toward a solution of our environmental problems is a clear recognition that our objective is not pure air or water but rather",
+  "options": [
+   "the introduction of new species to balance the ecosystem.",
+   "maintaining current levels of pollution.",
+   "an overall maximally clean environment.",
+   "the total elimination of harmful species.",
+   "some maximal state of pollution.",
+   "the eradication of all pollution.",
+   "an environment free from human interference.",
+   "a state of pollution that supports human health and well-being.",
+   "some optimal state of pollution.",
+   "the preservation of all living species."
+  ],
+  "target": 8,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 11235,
+  "question": " Locke can be thought of as accepting a",
+  "options": [
+   "theory of existentialism.",
+   "version of utilitarianism.",
+   "theory of subjectivism.",
+   "Kantian theory.",
+   "version of virtue ethics.",
+   "version of consequentialism.",
+   "Hegelian philosophy.",
+   "Nietzschean perspective.",
+   "concept of moral relativism.",
+   "natural law conception of morality."
+  ],
+  "target": 9,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 11236,
+  "question": " In Singer's understanding, the principle of the equality of human beings is",
+  "options": [
+   "a description of an alleged actual equality among humans.",
+   "a description of an alleged equality among all living beings.",
+   "a prescription of how we should treat nonhuman animals.",
+   "a description of an alleged inequality among all living beings.",
+   "a prescription of how we should treat humans.",
+   "a description of an alleged actual inequality among humans.",
+   "a description of an alleged actual superiority of humans over nonhuman animals.",
+   "a prescription of how we should treat both human and nonhuman animals equally.",
+   "a prescription of how we should treat nonhuman animals differently.",
+   "a prescription of how we should treat the environment."
+  ],
+  "target": 4,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 11237,
+  "question": " According to Sinnott-Armstrong, the fact your government morally ought to do something",
+  "options": [
+   "does not prove that government officials ought to promote it.",
+   "does not prove that you ought to do it.",
+   "proves that you ought not to do it.",
+   "proves that you ought to do it, too."
+  ],
+  "target": 1,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 11238,
+  "question": " Callahan cites the Oregon Death with Dignity Legal Defense and the Education Center's finding that \"after four full years .. there have been no missteps, abuses or coercive tendencies\" regarding laws permitting euthanasia. In response he argues that",
+  "options": [
+   "the findings are suspect because the study was performed by advocates of euthanasia.",
+   "other studies have found contrary results.",
+   "the study is biased as it was conducted in Oregon, a state with legalized euthanasia.",
+   "they can't know this to be true without an anonymous survey.",
+   "even if the finding is true, it is irrelevant to the moral status of euthanasia.",
+   "the results are irrelevant as they do not consider the psychological impact on the families involved.",
+   "the findings are inaccurate as the study only covers a short period.",
+   "the findings are misleading as they do not reflect the global perspective on euthanasia.",
+   "the study lacks credibility as it was not peer-reviewed."
+  ],
+  "target": 3,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 11257,
+  "question": " Use the following key to translate the given formula of PL to natural, English sentences.\nA: Marina reads a Percy Jackson book.\nB: Izzy plays Minecraft.\nC: Emily stops working.\nD: Russell makes dinner.\nE: Ashleigh stops by.\n(~B • E) ⊃ D",
+  "options": [
+   "If it's not the case that both Izzy plays Minecraft and Ashleigh stops by then Russell makes dinner.",
+   "If it's both not the case that Izzy plays Minecraft and Ashleigh stops by then Russell makes dinner.",
+   "Izzy playing Minecraft and Ashleigh stopping by entails that Russell makes dinner.",
+   "Russell's making dinner is a sufficient condition for Izzy not playing Minecraft and Ashleigh stopping by."
+  ],
+  "target": 1,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 11258,
+  "question": " Select the best translation into predicate logic: No artifacts are people.",
+  "options": [
+   "(∀x)(~Ax ⊃ Px)",
+   "(∀x)(Px ⊃ ~Ax)",
+   "(∀x)(~Ax • Px)",
+   "~Aa",
+   "(∀x)(Px ⊃ Ax)",
+   "(∀x)(Ax ⊃ ~Px)",
+   "~Pa",
+   "(∀x)(Px • Ax)",
+   "~Ap",
+   "(∀x)(Ax • ~Px)"
+  ],
+  "target": 5,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 11259,
+  "question": " Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)\nM ∨ N\n~M · O / N",
+  "options": [
+   "Valid",
+   "Invalid. Counterexample when M and O are true and N is false",
+   "Invalid. Counterexample when M is true and O and N are false",
+   "Invalid. Counterexample when O is true and M and N are false"
+  ],
+  "target": 0,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 11260,
+  "question": "Select the best translation into predicate logic: If Eileen plays fiddle then Sherri sings.",
+  "options": [
+   "Ss ∨ Fe",
+   "Fe ∨ Ss",
+   "Fe ∧ Ss",
+   "eF ⊃ Ss",
+   "Ss ∨ eF",
+   "Fe ⊃ Ss",
+   "Fe ∨ Es",
+   "eF ∧ Ss",
+   "eS ⊃ Fe"
+  ],
+  "target": 5,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 11261,
+  "question": "Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)\n(O ≡ P) ∨ P / P ∨ ~O",
+  "options": [
+   "Invalid. Counterexample when O is true and P is true",
+   "Invalid. Counterexample when O and P are false",
+   "Invalid. Counterexample when P is false and O is false",
+   "Invalid. Counterexample when both O and P are simultaneously true and false",
+   "Invalid. Counterexample when O and P are true",
+   "Invalid. Counterexample when O is true and P is false",
+   "Invalid. Counterexample when P is false and O is true",
+   "Invalid. Counterexample when P is true and O is false",
+   "Valid"
+  ],
+  "target": 8,
+  "kind": "philosophy | ori_mmlu-formal_logic"
+ },
+ {
+  "id": 11263,
+  "question": " What does Hursthouse say about the claim that any adequate action-guiding (i.e., moral) theory must provide clear guidance about what ought and ought not to be done that any intelligent person could follow?",
+  "options": [
+   "She says the claim is controversial.",
+   "She says the claim is true.",
+   "She says the claim is self-contradictory.",
+   "She says the claim is irrelevant.",
+   "She says the claim is self-evident.",
+   "She says the claim is partially true.",
+   "She says the claim is very plausible.",
+   "She says the claim is generally accepted.",
+   "She says the claim is implausible."
+  ],
+  "target": 8,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 11265,
+  "question": " Which of the following is, according to the introduction to chapter 8, typically defined as the act or practice of killing or allowing someone to die?",
+  "options": [
+   "murder",
+   "ethical killing",
+   "suicide",
+   "euthanasia"
+  ],
+  "target": 3,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 11266,
+  "question": " According to Singer, the conclusions argued for in \"all animals are equal\" flow from which of the following principles alone?",
+  "options": [
+   "the principal principle",
+   "the principle of equal consideration",
+   "the principle of utilitarianism",
+   "the principle of speciesism",
+   "the principle of animal rights",
+   "the principle of double effect",
+   "the principle of non-violence",
+   "the principle of moral equality",
+   "the principle of minimizing suffering",
+   "the principle of maximizing happiness"
+  ],
+  "target": 8,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 11267,
+  "question": " Velleman believes that the option of euthanasia may harm some patients. What does he think is the most significant way in which this might happen?",
+  "options": [
+   "by leading to premature termination of life before exploring all treatment options",
+   "by burdening a patient with having to justify his or her continued existence",
+   "by eliminating the patient's capacity for self-determination",
+   "by tempting a patient to undergo a painful procedure",
+   "by eliminating a patient's opportunities for self-determination",
+   "by causing psychological distress to a patient's loved ones",
+   "by potentially causing unnecessary physical pain to the patient",
+   "by undermining a patient's trust in medical professionals",
+   "by reducing a patient's chances of recovery",
+   "by creating societal pressure to opt for euthanasia"
+  ],
+  "target": 1,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 11268,
+  "question": " The goal of cognitive-behavioral therapy is to",
+  "options": [
+   "enhance physical strength.",
+   "reward good behavior.",
+   "develop artistic skills.",
+   "increase emotional intelligence.",
+   "maximize athletic performance.",
+   "improve memory retention.",
+   "achieve stoic wisdom.",
+   "promote spiritual growth.",
+   "build grit."
+  ],
+  "target": 8,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 11270,
+  "question": " Huemer worries that the employment of a \"war\" metaphor when describing government policies about drug use",
+  "options": [
+   "does not really describe the situation well at all, since it is more like a game than a war.",
+   "diminishes the seriousness of actual wars.",
+   "masks a bad argument by analogy.",
+   "is perfectly apt.",
+   "makes it hard to think and discuss the rights of drug users.",
+   "indicates that the issue can only be solved through violent measures.",
+   "implies that the government is the enemy.",
+   "suggests that drug users are combatants."
+  ],
+  "target": 4,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ },
+ {
+  "id": 11271,
+  "question": " Papadaki thinks that in cases where partners in a relationship mutually deny each other's humanity that",
+  "options": [
+   "the context of the relationship is irrelevant in determining sexual objectification.",
+   "sexual objectification occurs.",
+   "the context of the relationship will determine whether or not sexual objectification occurred.",
+   "sexual objectification is only valid in a non-mutual context.",
+   "only physical abuse qualifies as sexual objectification.",
+   "both partners are incapable of sexually objectifying each other.",
+   "there is no straightforward answer to the question of whether or not sexual objectification occurs.",
+   "sexual objectification does not occur.",
+   "the partner who denies the other's humanity is always the one who sexually objectifies.",
+   "neither partner is capable of sexual objectification."
+  ],
+  "target": 6,
+  "kind": "philosophy | ori_mmlu-moral_disputes"
+ }
+]

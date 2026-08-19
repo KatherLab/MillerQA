@@ -1,0 +1,1102 @@
+[
+    {
+        "id": "1426_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: In addition, we may disclose your Personal Information in order to identify you to anyone to whom you send communications or gifts through our Online Services.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "1586_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: We may share information about you with Internet Brands' subsidiaries and affiliates.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "2925_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: How We Protect Your Information The security of personally-identifiable information is important to us. We maintain administrative, technical and physical safeguards to protect against unauthorized use, disclosure, alteration or destruction of the personally-identifiable information we collect on this website. While we make every effort to help ensure the integrity and security of our network and systems, we cannot guarantee our security measures.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "2932_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: (v) In accordance with your indicated preferences (e.g., you indicated you wanted to receive promotional materials directly from a third party partner).",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "90_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: WHAT KIND OF SECURITY PROCEDURES ARE IN PLACE TO PROTECT THE LOSS, MISUSE OR ALTERATION OF INFORMATION UNDER THE COMPANY'S CONTROL We operate secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary and only authorized individuals have access to the information provided by our customers. Any particularly sensitive information, such as a customer's credit card number, is encrypted prior to transmission. To the extent that administration of the program requires us to grant our Service Vendors access to customer information, we insist that they implement similar controls.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "2577_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: Please note that third parties may independently collect data about you, including your IP address and information about the websites you visit and the links you click, through cookies, clicks on links, or other means when you visit or view ads on the site. We do not control the privacy practices of these third-party services.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "1030_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: We provide a variety of online web services, mobile applications, and services for location-enabled and other types of devices (collectively, the \"Services\") from news and weather to interactive entertainment to electronic commerce via our relationship with Gannaway Web Holdings, LLC d/b/a WorldNow (\"WorldNow\"). WorldNow is the host of this Web site. Because the success of the Services is dependent on building and maintaining goodwill with our customers, this Web site and WorldNow (hereinafter collectively referred to as \"we\" or \"us\" or \"our\") are committed to implementing measures designed to protect the privacy of those using our services. Moreover, we see it as our responsibility to set examples and help establish the standards for privacy on the Internet.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "2308_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: This Privacy Policy was revised Jan. 2, 2014.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "933_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: In the course of serving advertisements to this Site, our third-party advertiser may place or recognize a unique \"cookie\" on your browser. If you would like more information about this practice and to know your choices about not having this information used by this company, please click here.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "2981_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: Aggregate Information: We may share aggregate information, such as demographics and Website usage statistics, with advertisers, sponsors or other organizations. When this type of information is shared, the other parties do not have access to your personally identifiable information.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "135_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: Remember that when you share information publicly online, it may be indexable by search engines or recorded by others, and any search engine index or record of your information may persist after you delete the information at the original source.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "934_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: Please note that because we cannot guarantee the status of specific items, you use materials found in our holdings at your own risk.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "1599_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: B. Third party advertising cookies. We allow other companies to serve ads on our web pages. We do not control their use of cookies or other data collection technologies or practices. We currently allow Google AdSense to serve ads on our websites. Google uses other companies, such as PointRoll and Nielsen/Netratings to help it serve ads. Google and some of the companies it works with may offer additional choices about your preferences. Please visit the Google for more information about the technologies they use and their privacy practices. Google is a member of the Network Advertising Initiative. The NAI offers useful information about ad networks and a single place to turn off targeted ad serving from any of its members. We may add or change the list of third party advertisers from time to time without changing the effective date of the Privacy Policy itself. We urge you to check this section for changes regularly.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "1141_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: The use and collection of information by third-party advertising service providers are governed by the relevant third party's Privacy Notice and are not covered by our Privacy Notice. If you would like more information about the information collection practices of a particular service provider, or if you would like more information on how to opt out of a service provider's information collection practices, go to www.aboutads.info. You can opt out of the use of cookies by DoubleClick, one of our service providers, by visiting http://www.google.com/intl/en/policies/privacy. Additionally, many of our advertising service providers are members of the Network Advertising Initiative (\"NAI\"). You can obtain more information about these advertising service providers' information collection practices, and opt out of such practices (and at the same time opt out of the collection practices of other, or all, NAI members) by following the opt out instructions on the NAI's website at http://www.networkadvertising.org/managing/opt_out.asp.If you would like more information on how to opt out of information collection practices, go to www.aboutads.info.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "1191_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: Sharing Information with Third Parties for Advertising and Other Promotional Purposes. We may use third-party service providers to target and serve some of the advertisements you see on the Site. We may share technical or aggregate information, such as type of pages viewed and categories of interest, from our Site with these service providers and advertisers for their use in displaying ads on our Site. These third party providers and advertisers may use their own browser or flash cookies, web beacons and similar technologies to collect technical information (such as device unique identifier, IP address, MAC address, browser type, pages visited, and location information) from users of the Site that is generated automatically as a user views or interacts with an ad. These service providers may use that information, sometimes in conjunction with similar information gathered through other websites and other sources, to deliver advertisements on this Site, and on other websites.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "2678_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: We are not responsible for the personally identifiable information you choose to submit in these forums, and we have no responsibility to publish, remove or edit any of your comments, conversations or other content. For more information, see the TED.com Terms of Use.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "2654_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: Paid subscribers to AAAS publications including Science , Science NOW, Science Signaling , and Science Translational Medicine may also opt in for third-party informational e-mails or opt out of all e-mail communication (with the exception of subscription renewal information) by contacting AAAS Member Services.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "1848_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: The Internet and Your Information Security Our web sites, allstate.com and miallstate.com, provides information about us, our products, and the agencies and brokers that represent us. You may also perform some transactions on the web site. This Privacy Statement applies to users of allstate.com and miallstate.com, regardless of whether the user is an Allstate customer.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "1920_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: Last Revised: December 23, 2013 To jump to our Privacy Policy, click here To opt-out of Third Party Tracking Technologies, click here To opt-out of Third Party Sharing, click here If you have a complaint about another user, click here Kids and parents click here",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "87_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: 2. Data Security Prometheus Global Media cannot ensure or warrant the security or privacy of any information you transmit to us. We attempt to follow policies and procedures that will protect against unauthorized access to your Personally Identifiable Information. But we can make no guarantees or promises in this regard, and you provide information to us at your own risk.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "1161_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: You may opt out of accepting cookies by changing the settings on your browser. However, rejecting cookies may prevent you from using certain functions and you may have to repeatedly enter information to take advantage of services or promotions.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "2639_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: Microsoft Services Powered by Bing Microsoft services and apps that are powered by Bing services, such as MSN and Bing apps, Cortana, and Microsoft mapping services, use Bing search to provide you with enhanced features and convenient ways to access information such as weather forecasts, traffic reports or internet search results (not all Microsoft applications or Bing features are available in every country). These Bing-powered services are available on a variety of platforms including apps preinstalled with Windows, apps created for the iOS, apps in the Microsoft Store, and as browser plug-ins and toolbars.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "478_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: What information about you do we share with other parties? We may use your personally-identifiable information and your non-personally-identifiable information to provide analyses of the users of the Sites and the Services, in the aggregate, to prospective partners, advertisers and other third parties.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "2267_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: 5. Security FSD uses commercially reasonable administrative, technical, personnel and physical measures to safeguard information in its possession against loss, theft and unauthorized use, disclosure or modification. However, no one can guarantee the complete safety of your information.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "818_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: The SSL encrypts, or translates, your order information into a highly indecipherable code, which is processed immediately. When you've finished your transactions and begin the checkout process, you will move into the secure area of our site. A warning window may pop up to notify you that you are entering this \"safe\" area. Once you've entered, the page address (URL) will change from http to https, to let you know you are in a secure area. Also, a key or closed lock will appear in the lower left-hand corner of your screen to notify you of this change. You will remain in this secure zone for the entire checkout process. In addition, only the last four digits of your credit card number will be revealed on the screen when confirming an order. Of course, we securely transmit the entire credit card number to the appropriate credit card service company during order processing.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "1579_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: Children's Privacy The IFSA-Butler website is not intended for visitors under the age of 13 and IFSA-Butler does not solicit or intentionally collect information from children under the age of 13.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "1753_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: In any such request, please provide us with your full name and the email address you used when you registered with or made a purchase from us. If you ask us to remove your name and address from promotional lists, we will maintain your name in a \"do not contact\" file to ensure that we can honor your request. It may take up to 10 days to process your email request and 6-8 weeks to process your postal mail request, during which transition period you may continue to receive communications from us.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "2510_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: (iv) The entity to whom the information is disclosed is an Affiliate of Hearst.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "444_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: How do we protect visitor information? Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "569_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: involuntary pornography reddit is committed to your privacy. If you believe that someone has submitted, without your permission, to reddit a link to a photograph, video, or digital image of you in a state of nudity or engaged in any act of sexual conduct, please contact us ( contact@reddit.com), and we will expedite its removal as quickly as possible. reddit prohibits the posting of such content without consent.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "410_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: Third party advertising and your choices. Third parties whose products or services are accessible or advertised via the Services may also place cookies or other tracking technologies on your computer, mobile phone, or other device to collect non-personal information about your use of the Services. We also allow other third parties (e.g., ad networks and ad servers) to serve tailored ads to you on the Services, and to access their own cookies or other tracking technologies on your computer, mobile phone, or other device you use to access the Services. We neither have access to, nor does this Policy govern, the use of cookies or other tracking technologies that may be placed on your computer, mobile phone, or other device you use to access the Services by non-affiliated, third-party ad technology, ad servers, ad networks or any other non-affiliated third parties. Those parties that use these technologies may offer you a way to opt out of ad targeting as described below. You may receive tailored advertising on your computer through a web browser. If you are interested in more information about tailored browser advertising and how you control cookies from being put on your computer to deliver tailored advertising, you may visit the Network Advertising Initiatives website and/or the Digital Advertising Alliances website. You also can control advertising cookies from Google, by using its Ads Preference Manager . Please note that to the extent advertising technology is integrated into the Services, you may still receive advertisements even if you opt-out of tailored advertising.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "2351_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: Our commitment to data security To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "312_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: Affiliated Businesses We Do Not Control : We work closely with our affiliated businesses. In some cases, we will include offerings from these businesses on IMDb. In other cases, we may include joint offerings from IMDb and these businesses on IMDb. You can tell when another business is involved in the offering, and we share user information related to those offerings with that business.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "504_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: Social Networks: You may interact with certain features of the online services that cause information to be published to your social networks. For example, you may click on a Facebook \"like\" button, which publishes to your Facebook account that you \"like\" one of our TV shows or movies. On pages of the online services that contain social network functionality, the social network providing the functionality may be able to collect information about you, even if you don't use that functionality. For example, if a page within the online services contains a Facebook \"like\" button, Facebook may be able to collect data about your visit to that page, even if you don't click on the \"like\" button. To control this sharing of information, please review the privacy policy of the relevant social network and/or log out of it before you use the online services.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "881_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: Changing Your Personal Information After Registering Your Caribou Gift Card If any of your personal information changes after you register your Caribou Gift Card you may log into www.cariboucoffee.com and update your personal information.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "2881_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: Online Community Users Barnes & Noble provides you with the ability to access, correct, change or request deletion of the personal information in your community profile(s) at any time by following the instructions below. We will respond to all access requests within 30 days. However, you cannot currently change your profile name although you may re-register and choose a new name. To review or modify your profile information, please click here. Please be advised that Barnes & Noble may archive information it collects on its community and visitors. Additionally, by participating in the Barnes & Noble online interactive community, and using Barnes & Noble's various interactive offerings, including, the submission of customer reviews, or participation in the Barnes & Noble Book Clubs, you agree to receive communications from Barnes & Noble, other users, and moderators related to the provision of these services.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "728_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: For NOOK Press collaborator emails : You may choose to opt out of receiving NOOK Press collaborator emails by contacting NOOK Press Customer Service at nookpress@nook.com.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "1912_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: In your discussion or correspondence with us, please be sure to provide us with your name, address and all telephone numbers you wish to include on our list. If you have questions about this notice, you may contact us at the address listed above or you may also contact the Nevada Attorney General's office at: Office of the Nevada Attorney General Bureau of Consumer Protection 555 E.Washington Avenue.; Suite 3900 Las Vegas, NV 89101 Phone: (702) 486-3132 Email: BCPINFO@ag.state.nv.us",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "1206_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: Cookies can be removed by following your Internet browser's directions within the help tab. In order to use certain Services offered through the Sites, your web browser must accept cookies. If you choose to disable cookies, some aspects of the Sites may not work properly, and you may not be able to access our Services.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "1701_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: Taking Action We do not disclose the information you enter on an action page to any outside entity - except as follows: If you sign a petition, your name and state may be included in an electronic file or hard-copy printout delivered to legislators or other policymakers. If you email a member of Congress or other policymaker, submit a comment to a government agency, send a letter-to-the-editor, or take any other action that generates a communication to an outside entity, the information you enter on the action page may be passed along to that outside entity. We may give consultants and organizations working with us on specific projects temporary access to information about our online action-takers. They will not retain the information or contact the people whose information they have access to. We may offer to connect you to other activists or volunteer organizers. Before doing so, we will notify you by email with an option to decline.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "1712_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: B. Agents and Contractors. We may provide your Personal Information to service providers who work on our behalf or help us to operate our business, the Sites and the Services. Examples of such service providers include vendors and suppliers that provide us with technology, research, and/or marketing assistance; provide services and/or content for sending email and providing customer service; analyze data, serve advertisements on our Sites and Services and on third-party channels; and process payments (including credit card payments). Access to your Personal Information by these service providers is limited to the information reasonably necessary to perform its limited function.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "842_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: Your child's personal information is subject to all of the terms of this privacy policy.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "2810_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: You have choices about the collection of information by third parties on our website: 1) If you would like more about your option not to accept advertiser cookies, please click here. 2) If you would like to opt-out of having interest-based ad targeting, click here.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "698_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: Provider Partners and Service Providers. To make your experience with our Services more useful and enjoyable, we may offer some features (such as social sharing tools and chat rooms) in conjunction with third-party providers (\"Provider Partners\") that specialize in operating such services. We share with each of these Provider Partners such information as is useful or necessary to provide you with the services we offer through that Provider Partner. We also contract with other companies to provide specialized services to us, including but not limited to credit-card and billing processing, shipping, marketing, email and text message distribution, data processing, mobile and website analytics and promotions management. We reserve the right to share with these companies any information we collect about you and/or authorize them to collect information from you directly for purposes consistent with this Privacy Policy.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "2409_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: What are your Sites advertising practices to see how these cookies are used. Most web browsers automatically accept cookies, but they also offer a user the ability to block them. Doing so may prevent you from using some of the features of our Sites. Instructions for blocking cookies can be found in your browser help tab. You can also learn more about how cookies and other technologies are used to target advertisements to your browser at www.networkadvertising.org/understanding-online-advertising. You also have choices regarding participating companies collection and use of certain information collected through these technologies, as described below.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "2135_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: 10. COOKIES AND OTHER TECHNOLOGIES For more information about the use of Cookies and Other Technology on our online services (including your opt-out choices) please see the Cookies and Tracking Technologies policy. Through our Cookies and Tracking Technologies policy, we provide opt-out choices. The effect of an opt-out will be to stop targeted advertising, but it will still allow the collection of usage data for certain purposes (e.g., research, analytics and internal online services operation purposes).",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "1721_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: ii. Disclosure of Certain Information in Postings Intended to Be Disclosed. Certain Personal Information associated with a Posting may be intended for disclosure (\"Posting Information\"), such as username. We will disclose Posting Information in connection with the display of, and other services relating to, such Posting.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "1854_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: Please note that once we share your personal information with another company, the information received by the other company becomes subject to the other companys privacy practices. When we cooperate with financial institutions to offer co-branded products or services to you, such as our co-branded Disney Rewards Visa Card; however, we will do so only if permitted by applicable law and, in these cases, the financial institutions are prohibited from using your personal information for purposes other than those related to the co-branded products or services When companies perform services on our behalf, like package delivery and customer service; however, these companies are prohibited from using your personal information for purposes other than those requested by us or required by law When we share personal information with third parties in connection with the sale of a business, to enforce our Terms of Use or rules, to ensure the safety and security of our guests and third parties, to protect our rights and property and the rights and property of our guests and third parties, to comply with legal process or in other cases if we believe in good faith that disclosure is required by law",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "2689_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: This privacy policy covers the use of cookies by GameStop and does not cover the use of cookies or other tracking technologies by any of its advertisers.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "918_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: Additionally, we use third-party companies to collect non-personally identifiable information (e.g., the pages you visit, and which links you click, which ads you see and click on, and the categories of search terms you enter) when you visit one of our websites. Some of these third-party companies collect information when serving ads on our sites, while others collect information without showing ads on our sites. These companies may use the information outlined above (which does not include your name, address, email address or telephone number) about your visits to our sites in order to provide advertisements about goods and services of interest to you. These companies often use a cookie or third party web beacon to collect this information. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 1,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "1921_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: What are Cookies? A cookie is a text-only string of information that a website transfers to the cookie file of the browser on your computer's hard disk so that the website can recognize you when you revisit and remember certain information about you. This can include which pages you have visited, choices you have made from menus, any specific information you have entered into forms and the time and date of your visit.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "749_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: When you fill out our online forms, they are returned to us via electronic mail. Your responses are not encrypted. We cannot guarantee the security of information sent via electronic mail.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "2642_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: Personally Identifiable Information \"Personally identifiable information\" is information that tells us who you are, such as your name, screen name, email address, postal address, phone number, credit card information, birth date/year and gender.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "1378_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: In addition, we may collect information about your location when you access any of our mobile applications. If you do not enable the service to use your location information or if the app does not have that feature, we will not collect or store your location information.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "920_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: Information from Other Sources: We might receive information about you from other sources and add it to our account information. Click here to see examples of the information we receive.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "2820_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: If you participate in a contest or sweepstakes, we may publish information about you such as your name, city of residence or prize winnings.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "727_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: We also use cookies, web beacons, and Java Script to administer our site and deliver a personalized experience. For additional detailed information on each of these, please see below.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "2973_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: A. Our cookies. We place cookies that identify you, or allow third parties to do so on our behalf, for the following purposes: to recognize you automatically when you return to our websites and mobile applications and to customize certain features and functions; to understand your interests in content, both our own content and that of other companies, on or across our websites and mobile applications; to make an automated record of your activities on our websites and mobile applications; and to manage, track and follow up on email campaigns.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "1195_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: Aggregated data: We maintain automatic information in aggregated form, not associated with your IP address or personally identifiable information.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "614_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: The site you visited before visiting a Meredith website and the site you visited after visiting a Meredith website;",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "572_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: Collection of your Personal Information: We will ask you when we need information that personally identifies you (personal information) or allows us to contact you to provide a service or carry out a transaction that you have requested such as receiving information about Abita products and services, entering a contest, ordering e-mail newsletters, joining a limited-access premium site or service, or when purchasing, downloading and/or registering Abita products. The personal information we collect may include your name, title, company or organization name, work e-mail, work phone, work or home address, information about your job function, information about your company, information about circumstances related to your purchase, and payment information.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "417_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: Information We Automatically Collect. We automatically collect certain information to help us understand how our users use the Services (which we will refer to in this Privacy Policy collectively as \"Usage Data\" ). For example, each time you visit the Services we may automatically collect your IP address, browser and computer type, access time, the Web page you came from, the URL you go to next, and the Web page(s) that you access during your visit.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "1760_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: If you are randomly selected, a pop-up window will lead to the survey. The survey uses a persistent \"cookie\" to recognize that you have been invited to complete the survey and block subsequent prompts. If you have set up your Internet browser to ignore or disable pop-ups, you will not be able to be randomly selected for the survey. If you have disabled JavaScript in your browser, but are interested in responding to our survey if randomly selected, you will want to enable JavaScript and reload the website now.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "1494_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: By visiting the Site, whether as a registered user or otherwise, you acknowledge, understand and hereby agree that you are giving us your consent to track your activities and your use of the Site through these Tracking Technologies and that we may use Tracking Technologies in the emails we send to you.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "2083_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: Shopping When you purchase products or services from Kraft, we request your billing information so we can fulfill your request. We use your billing information only to send you the items you ordered.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "370_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: Listservs and E-mail Newsletters: On occasion, we may collect personal information from users in connection with optional (i.e. you opt-in to subscribe to these services) listservs and e-mail newsletters. Such information will be used as indicated at the time of collection.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "1011_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: Survey Email. We may invite you to participate in user surveys asking for feedback on NYTimes.com and existing or prospective products and services, as well as information to better understand our users. User surveys greatly help us to improve the NYT Services, and any information we obtain in such surveys will not be shared with third parties, except in aggregate form.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "146_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: D. We reserve the right to access, use, and share with others your personally identifiable information for purposes of health, safety and other matters of public interest.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "2262_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: We link to third-party surveys. When you complete a purchase, you are often invited to participate in a survey to rate your experience. The survey is conducted by a third party (and is identified as such) who shares all of the survey information with us, including your email address if you specify it in the survey. We use this information to gauge which areas of our service need improving.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "2895_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: EasyPay Enrollment. If you are already an AHFC customer, you may decide to enroll in our convenient EasyPay program and authorize AHFC to automatically withdraw scheduled monthly payments from your bank checking or savings account. In order to enroll, we will request that you provide personally identifiable information such as your AHFC account number, the last four digits of your social security number, your bank's name and routing number, and your bank account type (checking or savings) and account number. This information is collected and used in a manner appropriate to process your EasyPay enrollment request. Note that you can also change or update your information by clicking on \"Change\" button off the EasyPay home page.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "2021_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: Log information . This is information we automatically collect and store when you use our Services or other companies' websites and apps in the AOL Advertising Network. It may include, for example: Information about your interactions with the websites, apps, and other services you use, the content you view, the search queries you submit, and information in cookies and similar technologies; Information about how you access those websites, apps, and other services, your browser or operating system, your Internet Protocol (\"IP\") address, and the website you visited before visiting our Services.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "2106_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: We may also file your comments to improve the site, or review and discard the information.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "1616_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: AHFC collects information from 1. Credit applications or from other forms that you give us (for example, your name, address, social security number, income and obligations); 2. Credit reporting agencies (for example, your creditworthiness and credit history); 3. The American Honda Finance Corporation family of companies on transactions with us that you have conducted (for example, products that you have purchased, financed or leased, your retail or lease account balance and payment history).",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "2972_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: How We Use Personal Information We Collect We may use Personal Information about you for purposes described in this Privacy Policy or as otherwise disclosed to you through our Online Services. For example, we may use Personal Information:",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "1473_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: Where possible, we embed the media in a way that minimizes the use of cookies. Third party hosts of the embedded media do not collect personally identifiable information (PII) on behalf of NARA. Any PII they collect on their own behalf is not shared with NARA.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "1531_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: We use cookies to enhance the RedOrbit experience. By setting a cookie on our site, users would not have to log in a password more than once, thereby saving time while on our site. If users reject the cookie, they may still use our site. The only drawback to this is that the user will be limited in some areas of our site. For example, the user will not be able to participate in any of our sweepstakes, contests or monthly drawings that take place. Persistent cookies enable us to track and target the interests of our users to enhance the experience on our site. See the 'Profile' section.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "1750_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: You may choose to create a TED.com account using the Facebook Connect feature on TED.com. By doing this, you are asking Facebook to send us certain information from your Facebook profile, and you authorize us to collect, store and use in accordance with this privacy policy any and all information available to us through the Facebook interface.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "1575_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: When you share (with or without adding your own comments) any of our Web Sites' articles or content on a social media platform, that action is governed by such social media platform's privacy policy. We do not record those comments. For example, when you share content from our Web Sites on your Facebook profile, that action is governed by the Facebook Privacy Policy.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "2864_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: Registration Forms. Our site's registration form requires users to give us contact information (like their name and e-mail address), financial information (like their account or credit card numbers), and demographic information (like their zip code and state). We use customer contact information from the registration form to send the user information about our company. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future e-mails; see the choice/opt-out section below. Financial information that is collected is used to check the users' qualifications for registration. Demographic and profile data is also collected at our site. We use this data to help us improve this website and our service.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "102_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: Demographic information. We may collect information about events you like or products you buy. We might collect this as part of a survey, for example.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "671_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: Local Storage & Other Tracking Technologies. We, along with third parties, may use other kinds of technologies, such as Local Shared Objects (also referred to as Flash cookies) and HTML5 local storage, in connection with our Services. These technologies are similar to the cookies discussed above in that they are stored on your device and can be used to store certain information about your activities and preferences. However, these technologies may make use of different parts of your device from standard cookies, and so you might not be able to control them using standard browser tools and settings. For HTML5 local storage, the method for disabling HTML5 will vary depending on your browser. For Flash cookies, information about disabling or deleting information contained in Flash cookies can be found here.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "1441_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: Use and share your information with one or more MLB Clubs or entities, to the extent that you've submitted information or accessed functionality or content that relates specifically to such Club(s) or entities (e.g., you've asked to receive the newsletter of a Club or you've purchased Club-specific merchandise), so they may learn more about fans like you, add you to the Club's postal mail list and provide better services to you;",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "2216_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: INFORMATION COLLECTED Personally Identifying Information (PIN) The Personally Identifying Information (PIN) gathered by MediaNews on MediaNews Web sites generally includes, e-mail address, password, zip code, age, gender and whether you are a print subscriber, but may also include your name (and/or company name), street address, and date of birth, phone numbers, and credit card numbers or other billing information where necessary to contact you or to process your Web site purchases. MediaNews may also collect information such as household income, job title, personal interests and hobbies. The PIN collected depends on the page you are visiting and the services that you participate in.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "610_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: Certificate Application for Current Offers. You may choose to apply for a personalized current offer certificate that you can bring to your local Honda motorcycle dealer and use at your time of purchase. If you do so, we will request that you provide your name, home address, and email address. At such time, you may also choose whether you would like to receive additional information on Motorcycle products or whether you would like to email the link to a friend.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "2282_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: To tailor advertising efforts. Most of the information and services available to you at Tulsaworld.com are free. In order to continue providing services free of charge, Tulsaworld.com sells advertising. Advertisers prefer to target their communication toward audiences who are most likely to be interested in their products. The information gathered on Tulsaworld.com helps us advise advertisers in general terms about certain aspects of site visitors (e.g. how visitors use the site, general demographic attributes of visitors, usage patterns on various parts of our site, etc.). This information helps both advertisers and Tulsaworld.com make better decisions about where to place advertising. This information may also be used to send targeted marketing, such as emails, to users that we think would be interested in such marketing. Visitors who choose to conduct financial transactions with advertisers on Tulsaworld.com may also provide specific data to those advertisers during the process of their transactions. Additionally, any information provided during the purchase of Tulsaworld.com or Tulsa World products or services will result in the collection of certain information required to complete the transaction.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "2579_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: Personal Information In order to use certain features of the Library's websites, you may need to submit personal information so we can respond appropriately. We will inform you what information we require and will only use it for the stated purpose. Examples include making a purchase from the Library's online gift shop, requesting a response on a feedback form and participating in the Library's wikis or blog areas. By providing the information, you are giving consent to the Library to use the information for the stated purpose; if you do not want to provide the information, the feature will not be available to you.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "2150_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: Feedback, Commentary, Surveys, Message Boards, Chat Rooms: Those Web site users that choose to provide feedback or commentary, fill out surveys, engage in MediaNews chat rooms or use MediaNews message boards may be required to provide additional PIN such as demographic information, household/personal characteristics and purchase behavior. If such information is gathered for a MediaNews survey, no PIN is released and is reported or used only in aggregate form. Some chat room and message board forums may require registration and the sharing of PIN. Any information disclosed in chat rooms, forums, message boards, and/or news groups becomes public information. You should exercise caution when deciding to disclose personal information in public forums.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "1230_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: V. HOW DO WE USE WEB BEACONS, WEB ANALYTICS, AND OTHER BEHAVIORAL MARKETING TECHNOLOGIES? A number of technologies exist to assess consumer behavior both on-line and off-line. TEN employs a variety of these technologies, including web beacons (see below), web analytics techniques, and other behavior marketing technologies, to assess consumer behavior and to understand how we can better serve our customers. Many of these technologies are provided to TEN via third party providers specializing in behavioral marketing and consumer behavior. In the course of using these behavioral marketing technologies, we automatically collect non-personal information from you, including but not limited to the following types of information: Internet protocol (IP) address used to connect your computer to the Internet; login, e-mail address; computer and connection information such as browser type and related browser data; content viewed; and purchase history, which may be aggregated with other information for analytic purposes.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "1229_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: We collect information through technology, such as cookies, Flash cookies and Web beacons, including when you visit our sites and applications or use our applications on third-party sites or platforms. Please visit Online Tracking and Advertisingfor further information, including Do Not Track and how to disable cookies.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "1068_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: Mobile. We may from time to time offer certain location or pinpoint based services with our applications (such as, GPS assisted navigation instruction, wireless tower location, triangulation or other available location technologies). If you elect to use such location based services, we must periodically receive your location in order to provide such location-based services to you. By using the applications\" location based services, you authorize us to: (a) locate your hardware; (b) record, compile and display your location; and (c) publish your location to third parties designated by you by means of location publication controls available within the applications (e.g., settings, user preferences). As part of the applications, we may also collect and store certain information about our users, such as, users' wireless mobile subscriber ISDN and/or IMEI numbers (as applicable) and users' network access identifier information. This information will be used to provide you the services accessed through our applications. We may use third party providers to help provide services through mobile systems and such providers may use the information in accordance with our Privacy Policy.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "217_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: provide technical support for the online services;",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "46_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: Other technologies including pixel tags, web beacons, and clear GIFs: These may be used in connection with some Site pages, downloadable mobile applications and HTML-formatted email messages to measure the effectiveness of our communications, the success of our marketing campaigns, to compile statistics about usage and response rates, to personalize/tailor your experience while engaging with us online and offline, for fraud detection and prevention, for security purposes, for advertising, and to assist us in resolving account holders questions regarding use of our Site. Please see our Advertising section below for more information regarding our use of other technologies.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "220_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: Information We Collect We collect and maintain personally identifiable information and automatic information.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "304_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: Persistent cookies. Persistent cookies remain on your computer after you have closed your browser or turned off your computer. We use persistent cookies to track aggregate and statistical information about user activity, which may be combined with other user information.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "2600_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: Privacy Policy Your privacy is important to us. Public Citizen does not automatically collect personal information from people who visit or interact with our website. This privacy policy applies to the www.citizen.org website.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "1123_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: Cookies are bits of electronic information that a website can transfer to a consumer's hard drive to keep records of his or her visit at the website. We may use cookies to improve consumers' experiences when visiting our websites. We may use cookies to anonymously track interest in, and collect aggregate information on, our websites.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "939_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: 1. Types of Information We Collect We collect two basic types of information personal informationand anonymous information and we may use personal and anonymous information to create a third type of information, aggregate information. We collect the following categories of information:",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "364_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: Additionally, if you choose to receive our Library Alerts via text message delivered to cell phones by SMS messaging, we automatically collect your cell phone number so we can send you the Library Alerts. You can opt out of our Library Alerts at any time.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "329_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: PRIVACY STATEMENT OUR COMMITMENT TO PROTECTING YOUR PRIVACY Community Coffee Company respects your right to privacy and is committed to protecting it. In our site, we give you opportunities to provide your name, address, email and other relevant information that we use to give you a more personalized shopping experience and to make ordering and reordering easier for you. We do not sell or trade customer information with others for use on their mailing lists.",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "opp115_first_party_collection_use"
+    },
+    {
+        "id": "1855_ofp",
+        "question": "Does the clause describe how and why a service provider collects user information?\nClause: standard server log information; and",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "target": 0,
+        "kind": "opp115_first_party_collection_use"
+    }
+]

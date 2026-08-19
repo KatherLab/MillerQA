@@ -1,0 +1,1047 @@
+[
+ {
+  "id": "19_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: Yahoo works with vendors, partners, advertisers, and other service providers in different industries and categories of business. For more information regarding providers of products or services that you've requested please read our detailed reference links.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 1,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "369_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: Information About Your Use of the Services. Device informationsuch as your hardware model, IP address, other unique device identifiers, operating system version, and settings of the device you use to access the Services. Usage informationsuch as information about the Services you use, the time and duration of your use of the Services and other information about your interaction with content offered through a Service, and any information stored in cookies and similar technologies that we have set on your device. For detailed information about our use of cookies, web beacons, and other technologies, see Online Tracking and Advertising. Location informationsuch as your computers IP address, your mobile devices GPS signal or information about nearby WiFi access points and cell towers that may be transmitted to us when you use certain Services.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 1,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "245_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: Opt-out You may at any time opt-out of receiving promotional communications from The Hill or third parties at any time by contacting our Information Privacy Manager at the address below. Please note that if you decide to opt-out of receiving promotional information or other communications after you have previously opted-in, your change in preference will only affect future contacts; if the information already has been provided to third parties, they may continue to use it.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 1,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "418_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: Payment. Kaleida Health may use your health information or share it with others so that we may obtain payment for your health care services. These include your health insurance company, employer-sponsored self-funded group health plan, Medicare, Medicaid, and any other party that may be responsible for paying or processing for payment of any portion your bill for services. For example, Kaleida Health may share information about you with your health insurance company in order to obtain reimbursement after we have treated you, or to determine whether it will cover your treatment. Kaleida Health might also need to inform a payor about your health condition in order to obtain pre-approval for your treatment, such as admitting you to the hospital for a particular type of surgery. Finally, we may share your information with other health care providers and payors for their payment activities.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 1,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "294_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: Social Networks: You may interact with certain features of the online services that cause information to be published to your social networks. For example, you may click on a Facebook \"like\" button, which publishes to your Facebook account that you \"like\" one of our TV shows or movies. On pages of the online services that contain social network functionality, the social network providing the functionality may be able to collect information about you, even if you don't use that functionality. For example, if a page within the online services contains a Facebook \"like\" button, Facebook may be able to collect data about your visit to that page, even if you don't click on the \"like\" button. To control this sharing of information, please review the privacy policy of the relevant social network and/or log out of it before you use the online services.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 1,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "433_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: Student directory information is routinely requested by vendors through the Texas Public Information Act. Students have the option of excluding their personal information from the directory during registration.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 1,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "367_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: Additional Information About Our Access to Your Contacts Our Access to Your Contacts. When you use our Mobile Games, we may solicit your permission to access your contacts list (e.g., address book) so that we may match individuals from your contacts lists with those participating in our Mobile Games so you can invite your friends to play with and against you. We will not store the information in your contacts list.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 1,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "172_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: Service Providers We may disclose your Personal Information to third-party service providers to provide us with services such as website hosting, professional services, including information technology services and related infrastructure, customer service, e-mail delivery, auditing and other similar services.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 1,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "360_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: Cookies Cookies help provide a customized user experience. We and our third party service providers may use cookies to, among other things, better serve you with tailored information and facilitate your ongoing access to and use of our Services. There are two types of cookies: session-based and persistent cookies. We also allow third party vendors to use cookies on our Site and Application. - See more at: http://newsbusters.org/privacy-policy#sthash.3sEtPLFK.dpuf",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 1,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "348_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: to personalize your experience on the Site;",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 1,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "130_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: We may disclose personal information in some other limited circumstances, but we will specifically describe them to you when we collect the information, such as in the rules of a contest or a new service. For example, if we are going to give personal information to a contest's sponsor, we will disclose it when you sign up for the contest, so that you can decide whether to enter.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 1,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "28_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: Web Beacons A \"tracking pixel\" (sometimes called \"web beacons\", \"transparent GIFs\", \"clear GIFs\", \"pixel gifs\", or \"pixel tags\") is a tiny, invisible image that allows us to track activities based on pages you visit. Tracking pixels redeliver advertising and notifications through 3rd party vendors. No personally identifiable information is collected through these retargeting services, and we do not sell or rent the information collected through tracking pixels. Information collected through tracking pixels can only be shared with third parties in aggregated form and in accordance with the college's privacy policy.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 1,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "400_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: From time to time, Tulsaworld.com will conduct surveys on its site for research purposes. When you participate in a survey, the information you provide about yourself and your responses are collected by Tulsaworld.com. We will always inform you how we will use this information.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 1,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "48_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: The information we receive or can determine from your interaction with our Websites includes your Internet (IP) address; login and password information; email address; web browser type and version; operating system and computer platform; purchase history, which we may aggregate with similar information from other customers; the full Uniform Resource Locator (URL) clickstream to, through, and from our Websites, including date and time; one or more unique identifiers; products you viewed or searched for; areas of our Websites you visited; and the phone number you used to call our toll-free number. We also may log the length of time of your visit and the number of times you visit and purchase from us. We assign you one or more unique identifiers to help keep track of your future visits",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 1,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "56_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: Passive Information Collection SCEA may collect information such as our website visitors' IP address, IP address-related information, system Media Access Control (\"MAC\") address, network configuration information, network device information, browser plug-in types and versions, operating system, and platform. We also may collect information about your download activity, browser activity, forum postings and session information.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 1,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "81_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: 4. Sharing Your Information with Other Companies We will not share your personal informationoutside The Walt Disney Family of Companiesexcept in limited circumstances, including: When you allow us to share your personal information with another company, such as: Electing to share your personal information with carefully selected companies so that they can send you offers and promotions about their products and services Directing us to share your personal information with third-party sites or platforms, such as social networking sites",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 1,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "110_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: Information We Receive From You You share information with us in various ways in our stores and online. For example, you share information when you: Make an in-store or online purchase, or other transaction, with us; Create an account on one of our websites or mobile services; Use a gift registry or create a mobile shopping list; Participate in our programs, such as Savings Catcher or eReceipts; Conduct a transaction or request a service where we collect information (including when required by law, such as hunting and fishing licenses); Request customer service or contact us; Post a review or comment on one of our social media pages, or post a rating, review or other user-generated content on one of our websites or mobile services; and Participate in a contest, sweepstake, promotion, or survey.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 1,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "351_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: Paid subscribers to AAAS publications including Science , Science NOW, Science Signaling , and Science Translational Medicine may also opt in for third-party informational e-mails or opt out of all e-mail communication (with the exception of subscription renewal information) by contacting AAAS Member Services.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 1,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "198_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: We occasionally run our own email surveys and we ask visitors for contact, demographic and technical information. We use contact data from our surveys to send users information about our company. This information is also used to contact visitors to learn more about specific problems they might have reported or to give them rewards, if such a reward program is part of the survey. The demographic information is used to learn more about the types of people who visit our site.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 1,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "325_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: Associated Press We participate in the News Registry, a service operated by the NewsRight, LLC (NewsRight). The News Registry collects content usage information and may use cookies in conjunction with this activity. Your continued readership of the Site means you accept the privacy policy of the NewsRight News Registry. Please refer to the NewsRight News Registry privacy policy at http://www.newsregistry.com/privacycenter/servicepolicy.aspx for further information.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 1,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "158_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: Advertisers, survey groups and other sites linked to or from our Sites may seek to obtain additional information from users. For example, they may serve cookies, conduct surveys, request personal information or take actions not covered by our privacy policy. This information will not be gathered by or on behalf of our Sites unless clearly authorized and stated in such solicitations. If you choose to do business with vendors on our Sites, you may be asked to provide personal information, including credit and credit card data. Any information you share will be covered only by that partys own privacy policy.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 1,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "33_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: During the normal course of our business, Kraft may sell or purchase assets. If another entity acquires us or any of our assets, information we have collected about you may be transferred to such entity. In addition, if any bankruptcy or reorganization proceeding is brought by or against us, such information may be considered an asset of ours and may be sold or transferred to third parties. Should a sale or transfer occur, we will use reasonable efforts to try to require that the transferee use personally identifiable information provided through this website in a manner that is consistent with this Privacy Notice.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 1,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "331_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: C. Cookies. Groundspeak uses cookies and other types of data collection technologies for different purposes, including recognizing our users and customizing certain features of our services and functions for repeat visitors. See \"How We Use Cookies\" below for more information.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 1,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "302_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: What happens in the event of a change of control: If we sell or otherwise transfer part or the whole of Instagram or our assets to another organization (e.g., in the course of a transaction like a merger, acquisition, bankruptcy, dissolution, liquidation), your information such as name and email address, User Content and any other information collected through the Service may be among the items sold or transferred. You will continue to own your User Content. The buyer or transferee will have to honor the commitments we have made in this Privacy Policy.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 1,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "186_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: You may register or enhance your profile by linking your Facebook or Google accounts on NYTimes.com. By doing this, you are asking them to send us certain information from those social media accounts, and you are authorizing us to collect, store, and use what they send us in accordance with this Privacy Policy. You can unlink your social media accounts or control what they share from their privacy controls.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 1,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "165_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, including customized Recommendations, advertising and currency display, to improve marketing, and to track access and use of the NYT Services across the devices that you use to access the NYT Services. For more information on the Recommendations feature, please read the Recommendations FAQ.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 1,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "388_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: 9. Non-U.S. Users. If you are located outside of the United States, please note that the information you provide to us will be transferred to and processed in the United States, where laws regarding processing of Personally Identifiable Information may be less stringent than the laws in your country. By using this Covered Site, you consent to this transfer and processing. You also consent to the adjudication of any disputes arising in connection with this Covered Site in the federal and state courts of, and in accordance with the laws of, the state of New York.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 1,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "442_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: Disclosure by Law and Protection of Farlex If we are required by law to disclose certain information to local, state, federal, national or international law enforcement authorities, we will do so. We will also disclose information to third parties as necessary in order to comply with applicable laws and regulations. In addition, Farlex may share information in order to investigate, prevent, or take action regarding illegal activities or suspected fraud, or enforce or apply our agreements.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 1,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "204_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: Consent and Security It is your choice whether or not you provide your Subscriber Information to UpToDate, but Subscriber Information is required for UpToDate to provide you with services (for example, access to UpToDate under a subscription agreement).",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 1,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "237_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: To learn more about the privacy practices of Google, you may review its privacy policy located here. To disable the Google Analytics cookie and other third party web analytics service provider cookies, you can choose to have your browser notify you when cookies are being written to your computer or accessed, or you can disable cookies entirely.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 1,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "150_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: Information We Collect and Retain Personal Information is information that can be used to identify you, or any other individual to whom the information may relate, personally. It includes data elements such as name, address, e-mail address, credit card number, and telephone number. We only collect personal information about you when you choose to provide it to us. You do not have to give us any personal information in order to read the content portions of our Site.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 1,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "31_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: In some areas of the Science Website, we request or may request that you provide personal information, including your name, address, e-mail address, telephone number, credit card number, contact information, billing information, and any other information from which your identity is discernible. In other areas, we collect or may collect demographic information such as your age, career focus and discipline, preferences, gender, educational degrees, ethnic background, interests, and household income range. Sometimes we collect or may collect a combination of the two types of information. Examples of areas on the Science Website where we collect or may collect personal or combined personal and demographic data are pages where you can sign up to use a service, post a resume, enter a contest, or purchase a product.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 1,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "398_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: LINKS This website may contain links to third party websites that we do not own, including links on our website to purchase DQ or Orange Julius gift cards or merchandise. We are not responsible for the privacy practices of these other sites, and we encourage you to read the privacy statements of every website that collects personal information from you. This privacy statement applies solely to information collected by this website.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 1,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "405_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: What Are Your California Privacy Rights? Our Privacy Policy describes how we share information for marketing purposes. The Policy and rights apply to all customers, including California residents.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 1,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "392_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: Types of cookies: There are two main types of cookies: Session cookies: these are temporary cookies that expire at the end of a browser session; that is, when you leave the site. Session cookies allow the website to recognize you as you navigate between pages during a single browser session and allow you to use the website most efficiently. For example, session cookies enable a website to remember that a user has placed items in an online shopping basket. Persistent cookies: in contrast to session cookies, persistent cookies are stored on your equipment between browsing sessions until expiry or deletion. They therefore enable the website to \"recognize\" you on your return remember your preferences and tailor services to you. In addition to session cookies and persistent cookies, there may be other cookies which are set by the website which you have chosen to visit, such as this website, in order to provide us or third parties with information.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 1,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "227_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: Opt-Out Choices. Postal Lists. To remove your name and postal address from postal lists that we sell or rent to third parties for their direct marketing purposes, please use the postal list opt-out form available here or send your request to us in a letter addressed to Meredith Corporation, Opt-Out Postal, Attn: Circulation, 1716 Locust Street, Des Moines, Iowa 50309).",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 1,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "221_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: Time Inc. sites sometimes may offer contests, sweepstakes, promotions, editorial features, or other activities or offerings that are sponsored or co-sponsored by or presented with identified third parties. By virtue of your participation in such activities or offerings, your IP address and the personally identifiable information that you voluntarily submit may be provided to both the Time Inc. site and the third parties. Time Inc. has no control over the third parties' use of this information.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 1,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "289_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: If you are a California resident and wish to request information about how to exercise your third party disclosure choices, please send a request by email to the Privacy Administrator at admin@latinpost.com or by postal mail to Latin Post, 250 Vesey Street, 26th Floor, New York, NY 10281, Attn: Your California Privacy Rights, c/o Privacy Administrator.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 1,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "282_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: to allow you to use some Site financial planning tools. Information that you enter into one of these planning tools may be stored for future access and use. You have the option not to save the information;",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 1,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "431_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: Notifying parentsabout our information practices with regard to children, including the types of personal information we may collect from children, the uses to which we may put that information, and whether and with whom we may share that information",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 1,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "287_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: Information Collected Using Technology: In addition to any information you provide directly to us, we and our third party service providers may use a variety of technologies that automatically collect certain non-personal information when you interact with the Sites or emails sent to you, including the following:",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 1,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "444_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: Download the Green Dealer Guide. You may download the green dealer guideline. In doing so, you will be required to provide your email address and occupation, and asked to submit your first name, last name, country of origin, and organization before your download begins. Downloading the green dealer guideline and providing your personal information is your choice.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 1,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "285_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: Our Commitment to Security Although no one can guarantee the security of the information collected and received, we do employ a number of safeguards intended to mitigate the risk of unauthorized access or disclosure of this information. Examples of the types of safeguards we may provide (depending on the circumstances) include: Storing the data you provide in controlled facilities; Using HTTPS encryption when you authenticate (i.e., log into one of our Services), which helps prevent unauthorized access to your login credentials; Limiting access to personal information to employees who need that access to perform their jobs; and Providing company-wide training on privacy and data security.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 1,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "319_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: Family and Friends Involved In Your Care. If you do not object, Kaleida Health may share your health information with a family member, relative, or close personal friend who is involved in your care or payment for that care. We may also notify a family member, personal representative or another person responsible for your care about your location and general condition here at the hospital, or about the unfortunate event of your death. In some cases, Kaleida Health may need to share your information with a disaster relief organization that will help us notify these persons.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 1,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "128_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: third party sites Certain third party sites may offer users the option to log in using their reddit id (for example, redditgifts). This option is only an authentication tool and does not transmit any new personal information to or from reddit, or give reddit access to details of subsequent actions taken on these sites.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 1,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "101_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: Patient Directory. If you do not object, Kaleida Health will include your name, your location in our facility, your general condition (e.g., fair, stable, critical, etc.) and your religious affiliation in our Patient Directory while you are a patient in the hospital or one of the facilities listed at the beginning of this notice. This directory information, except for your religious affiliation, may be released to people who ask for you by name. Your religious affiliation may be given to a member of the clergy, such as a priest or rabbi, even if he or she doesn't ask for you by name. Kaleida Health's policy is to not disclose protected health information about Behavioral Health patients except as permitted or required by law.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 1,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "252_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: Links This Web site contains links to other sites. Please be aware that we, RedOrbit Inc., are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 1,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "258_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: Our Privacy Assurance We do not sell your personal or medical information to anyone. We do not share your information with non-affiliate companies that would use it to contact you about their own products and services, unless permitted pursuant to a joint marketing agreement. We require persons or organizations that represent or assist us in servicing your policy and claims to keep your information confidential. We require our employees to protect your personal information and keep it confidential.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 1,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "17_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: Data Retention Upon your request, we will remove your personal information from the website but we will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our Fool Rules and take other actions otherwise permitted by law.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 0,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "73_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: Your request must state a time period within the past six years for the disclosures you want us to include. For example, you may request a list of the disclosures that we made the previous year between January 1 and June 1. You have a right to receive one accounting within every 12 month period for free. However, we may charge you for the cost of providing any additional accounting in that same 12 month period. Kaleida Health will always notify you of any cost involved so that you may choose to withdraw or modify your request before any costs are incurred.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 0,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "87_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: For Montana residents: Pursuant to Montana law, you may also request a record of any disclosure of your medical information during the preceding three years. Please send requests to: Allstate Insurance Company Customer Privacy Inquiries, P.O. Box 40047, Roanoke, VA 24022-0047",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 0,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "448_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: Correcting/updating personal information If your personally identifiable information changes (such as your email address or zip code), or if you no longer desire to access our Website, we will endeavor to provide a way to correct, update, delete or remove the personal data you have provided to us. This can be done by making changes to your profile, by using an opt out message in an email, or by emailing us at website@vikings.nfl.com, admin@vikingscontests.com, admin@vikingsnewsletter.com.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 0,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "205_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: In addition to the above methods, if you wish to view, delete, or correct the personal information collected about you, you may also send an e-mail to privacypolicy@take2games.com, or write to us at Take-Two Interactive, Attn: Internet Privacy Policy Administrator, 622 Broadway, New York, New York 10012. Please indicate your country of residence in your correspondence.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 0,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "406_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: How you can access and update your information. To ensure that you have some control over the information we have about you, you may review and update certain user profile information by logging in to the relevant portions of the Services where such information may be updated (may be available on some Services and not others) or by contacting us at privacy@tribune.com.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 0,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "125_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: We take children's privacy very seriously, and encourage parents to contact us with any questions or concerns they may have via the web form at www.loc.gov/contact/web-site-comments/. Additionally, if parents want us to delete any collected personally identifiable information about their children under the age of 13, they can also contact us at the website address listed above.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 0,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "246_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: My Profile. Once you have registered, a \"My Profile\" button will be located at the top of every Honda Owners/Acura Owners page. This is a summary of your account with us. By clicking this button, you can view and/or edit your personal information at any time by clicking the \"Edit/Update\" button. You may also change your Communication Preferences.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 0,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "147_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: If you wish to update, delete inaccuracies, or modify your profile information, you may do so at any time by logging into your account. If you no longer wish to receive certain email communications from us, you may opt-out by following the unsubscribe link located at the bottom of each communication or by contacting us at the e-mail address listed above.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 0,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "71_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: How to Access, Change, or Remove Your Protected Health Information To comply with HIPAA, your healthcare provider must provide you with rights in certain circumstances with respect to your protected health information. Very generally described, these rights are a right to restrict the uses and disclosures of, a right of access to, a right to amend, and a right to receive an accounting of, the disclosures of your protected health information. These limited rights will be described in detail in the healthcare provider's notice of privacy practices. If you wish to restrict the uses and disclosures of your protected health information, amend, or receive an accounting of the disclosures of your protected health information, then you must do so through your healthcare provider.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 0,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "417_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: Amazon.com knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting Amazon.com, you are accepting the practices described in this Privacy Notice. What Personal Information About Customers Does Amazon.com Gather? What About Cookies? Does Amazon.com Share the Information It Receives? How Secure Is Information About Me? What About Third-Party Advertisers and Links to Other Websites? Which Information Can I Access? What Choices Do I Have? Are Children Allowed to Use Amazon.com? Does Amazon.com Participate in the Safe Harbor Program? Conditions of Use, Notices, and Revisions Examples of Information Collected",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 0,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "328_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: If you are lyndaKiosk, lyndaClassroom, lyndaCampus or lyndaEnterprise and would like to cancel your membership, please contact your sales representatives or contact support@lynda.com. To have any personally identifiable information deleted, please contact: support@lynda.com.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 0,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "199_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: Please read the information below: Information we collect about you Where we store data How we use your information Disclosure of your information Updating or correcting your personally identifiable information Canceling your account or deleting your personally identifiable information Choices regarding control of your personally identifiable information Information related to data collected through the lynda.com platform service Data Security Cookies Mobile Analytics Links to third party web sites and advertisers Notice to California residents Changes to this Privacy Policy Communities, forums, chat rooms, and message boards Social Media features Gift Certificates How do you contact us with questions?",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 0,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "91_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: account deletion You may choose to delete your reddit account at any time. The usernames associated with deleted accounts remain unavailable for others to use, and your public profile is no longer visible to reddit users. However, the posts and content you made during your tenure as a reddit user will not be automatically deleted as part of the account removal process, though your username will be publicly disassociated with all posts. Also, we do not have control over third parties that may collect and store data independently from reddit without our permission and without following our rules.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 0,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "401_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: How do I access or change my personal information- You can access, add or update certain information in the \" My Account\" section of the Sites, including order tracking and account information. When you update information, your old information is replaced by your new information.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 0,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "145_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: Any personal information that we collect will be stored in secure servers hosted in the U.S. or Canada. We will correct such information whenever possible and delete stale information on an ongoing basis and are very happy to hear from you to ensure that our information is as complete and accurate as possible.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 0,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "217_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: You can add or update certain information, such as your e-mail address, by using our User Administration pages. When you update information, we usually keep a copy of the prior version for our records.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 0,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "141_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: Information we collect when you are signed in to Google may be associated with your Google Account. When information is associated with your Google Account, we treat it as personal information. For more information about how you can access, manage or delete information that is associated with your Google Account, visit the Transparency and choice section of this policy.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 0,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "2_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: CHANGING/UPDATING YOUR PERSONAL INFORMATION You may review and update your subscription or account information at any time.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 0,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "134_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: Online Community Users Barnes & Noble provides you with the ability to access, correct, change or request deletion of the personal information in your community profile(s) at any time by following the instructions below. We will respond to all access requests within 30 days. However, you cannot currently change your profile name although you may re-register and choose a new name. To review or modify your profile information, please click here. Please be advised that Barnes & Noble may archive information it collects on its community and visitors. Additionally, by participating in the Barnes & Noble online interactive community, and using Barnes & Noble's various interactive offerings, including, the submission of customer reviews, or participation in the Barnes & Noble Book Clubs, you agree to receive communications from Barnes & Noble, other users, and moderators related to the provision of these services.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 0,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "338_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: If you need assistance accessing records related to your Vision Center, Pharmacy, or financial services information, please visit the \"What Are Your Privacy Protections for Specific Types of Personal Information?\"section.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 0,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "180_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: Your Ability to Edit and Delete Your Account Information and Preferences You can edit your Yahoo Account Information, including your marketing preferences, at any time. You can also modify information you have provided to Yahoo through the Yahoo products or services you may use.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 0,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "271_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: We may reject requests that are unreasonably repetitive, require disproportionate technical effort (for example, developing a new system or fundamentally changing an existing practice), risk the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup systems).",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 0,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "155_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: User Generated Content and Public Activities (Including Comments) We offer you the opportunity to engage in public activities on our Web Sites and other SIDEARM Services. \"Public activities\" include any actions you take on our Web Sites that are designed to be visible to other users, including comments or any other items that you submit. Any information you disclose in your public activities, along with your screen name or ID, or any image or photo, becomes public and may be used by SIDEARM Sports for online and offline promotional or commercial uses in any and all media. If you choose to engage in public activities, you should be aware that any personal information you submit can be read, collected and used by other users. We are not responsible for the personally identifiable information you choose to submit in the course of your public activities and we have no responsibility to publish, take down, remove or edit any of your public activities or submissions.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 0,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "117_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: To view additional details about Microsoft account, including how to create and use a Microsoft account, how to edit account information, and how we collect and use information relating to a Microsoft account, please click on Learn More.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 0,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "148_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: Honda Owners/Acura Owners My Vehicle. Honda Owners/Acura Owners provides access to valuable resources like maintenance schedules, roadside tips, FAQs, and account management. If you choose to register for Honda Owners/Acura Owners, you will be asked to set up a Honda ID/Acura ID and password. You will be required to submit your email address where we can send your password information, in case you forget it. Your email address will also be used to send you any messages relating to the Communication Preferences you choose to set up; for example, you may choose to receive messages from us relating to \"general information about Honda Owners/Acura Owners, such as site updates.\" You may also choose not to receive any messages at all. You will also be asked to tell us the make, year, model, trim, color, and year purchased. This information is used to set up your account specific to your vehicle. You will be able to edit or delete your vehicle information any time.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 0,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "391_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: If you wish to review or delete any profile information that you have provided us regarding a child, or ask that we stop using such information, you may do so at any time through the settings area of your account or by contacting us using the information below.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 0,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "152_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: We are not responsible for the personally identifiable information you choose to submit in these forums, and we have no responsibility to publish, remove or edit any of your comments, conversations or other content. For more information, see the TED.com Terms of Use.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 0,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "188_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: You may access, correct or change the personal information in your community profile(s) on Lark Crafts at any time. To review or modify your profile information, log in to larkcrafts.com. Additionally, by using Lark Crafts' various interactive offerings, you agree to receive communications from Barnes & Noble, Lark Crafts, other users, and moderators related to the provision of these services.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 0,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "42_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: In addition to responding to your email correspondence and sending you information you have requested via our email lists, we send activation emails and other transactional emails to your e-mail address as necessary. You may not opt out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 0,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "143_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: 5. UPDATING OR CORRECTING YOUR PERSONALLY IDENTIFYING INFORMATION You may change any of your or your childs Personally Identifiable Information online by logging into My Account in accordance with instructions posted elsewhere on our Websites.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 0,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "349_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: Retention of Personal Information We will retain your personal information while you have an account with us and thereafter for as long as we need it for purposes not prohibited by applicable laws. Thereafter, we will either delete your personal information or de-identify it so that it is anonymous and not attributed to your identity. Your rights to request that we delete your personal information are set forth in the\"Accessing, Correcting, and Deleting Your Personal Information\" section above.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 0,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "182_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: Questions About this Policy; Access to Your Information If you have an account with The Atlantic, you may review and change your information by logging into your account and editing your account profile. If you have questions about our privacy policy, you may contact us at:",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 0,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "255_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: What We Do With What We Collect We use the personal information we collect for various purposes, including to complete a purchase that you initiate, to respond to your requests for information, to manage our Sites, to allow you to participate in electronic activities, marketing analysis, marketing communications, facilitating loyalty programs, and for other lawful purposes. From time to time, we may also contact customers by email, phone or mail for such purposes as to inform them of new products, services and special offers, administer a survey, or to follow up on previous interactions. If you do not wish to receive such communications from us, please follow the opt-out instructions generally provided in such communications. Upon your request, we will make reasonable efforts to delete your personal information from our database, however, it may be impossible to delete your entry without retaining some residual information for a period of time due to backups and records of deletion. Be assured that we will never knowingly send messages to customers who have asked not to receive them.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 0,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "243_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: Modifying and Deleting Your Personal Information. If you would like to modify or delete from our database any User Information you previously submitted to us, please let us know by accessing and updating your profile. Please note that any User Information that we have copied may remain in back-up storage for some period of time after your request, and that if you delete certain information you may not be able to order services in the future without re-submitting such information. Also, please note that we will maintain User Information in our database whenever we are required to do so by law.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 0,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "146_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: Changing/deleting personal information If you would like to have your personally identifiable information changed or removed from our database, please contact us at Info@WorldNow.com, and we will use reasonable efforts to comply with your request. Keep in mind, however, that there will be residual information that will remain within our databases, access logs, and other records, which may or may not contain such personally identifiable information. The residual information will not be used for commercial purposes; however we reserve the right, from time to time, to recontact former customers or users of this Web site.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 0,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "353_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: If you have voluntarily submitted personal information to us and wish to review, update, correct or delete it, please email your request to webmaster@research.stlouisfed.org",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 0,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "358_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: Where we can provide information access and correction, we will do so for free, except where it would require a disproportionate effort. We aim to maintain our services in a manner that protects information from accidental or malicious destruction. Because of this, after you delete information from our services, we may not immediately delete residual copies from our active servers and may not remove information from our backup systems.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 0,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "160_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: Web Site User Registration: User registration is required to access the majority of content, services and features on MediaNews Web sites. Upon registration, we require you provide your email address or your first name as a username and a password that will allow you to change your PIN as needed. User registration with MediaNews Web sites is completed and membership activated upon clicking a link e-mailed to the address provided in registration. At that time you have the opportunity to opt-in to e-mail newsletters and alerts and have e-mail offers sent to you on behalf of MediaNews advertisers, however, you can update your preferences at a later time.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 0,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "8_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: (iii) If you don't want cookies, most Web browsers include an option that allows you to not accept them. However, if you set your browser to refuse cookies, some portions of our Covered Sites may not function efficiently. Flash cookies may regenerate HTTP cookies that you have affirmatively deleted. Deleting, rejecting, disabling or turning offHTTP cookies as described above will not remove flash cookies. We use flash cookies as an alternative method to HTTP cookies for storing information about your web browsing history across unaffiliated domains, unrelated to the delivery of content through the FlashPlayer or the performance of the Flash Player in delivering such content. You can manage and delete flash cookies by visiting http://kb2.adobe.com/cps/526/52697ee8.html.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 0,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "424_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: 4. Access to your information You may contact us at terms@prometheusgm.com if at any time you would like to see the Personally Identifiable Information we hold about you, or to ask us to correct or update this information, or to ask us to delete it. Please contact us if you have questions or wish to take any action with respect to information to which this Privacy Policy applies (see below for contact information).",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 0,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "213_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: 6. User Access and Control If you would like to access, review, correct, update, suppress, or otherwise limit our use of your personal information you have previously provided directly to us, you may contact us using the mechanisms provided below. In your request, please include your email address, name, address, and telephone number and specify clearly what information you would like to access, change, update and/or suppress. We will try to comply with your request as soon as reasonably practicable.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 0,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "240_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: Ordinarily Kaleida Health will respond to your request for an accounting within 60 days. If we need additional time to prepare the accounting you have requested, we will notify you in writing about the reason for the delay and the date when you can expect to receive the accounting. In rare cases, Kaleida Health may have to delay providing you with the accounting without notifying you because a law enforcement official or government agency has asked us to do so.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 0,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "163_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: To access or correct your information You can access all your personally identifiable information that we collect online and maintain by logging into your account and adjusting your account settings and profile information. You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 0,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "262_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: 3. Right To An Accounting Of Disclosures You have a right to request an \"accounting of disclosures\" which identifies certain other persons or organizations to whom we have disclosed your health information in accordance with applicable law and the protections afforded in this Notice of Privacy Practices. An accounting of disclosures does not describe the ways that your health information has been shared within and between the hospital and the facilities listed at the beginning of this notice, as long as all other protections described in this Notice of Privacy Practices have been followed (such as obtaining the required approvals before sharing your health information with our doctors for research purposes).",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 0,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "159_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: Process to remove your personal information Most of our services include information on how to remove your information and cancel the service. You may alternatively send us an email at webmaster@newspost.com identifying the services and information you would like removed. Please provide explicit reasons why we should remove the content. We reserve the right to decline requests for removal of information based on maintaining the historical and archival nature of our website(s).",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 0,
+  "kind": "opp115_user_access_edit_and_deletion"
+ },
+ {
+  "id": "380_oad",
+  "question": "Does the clause describe if and how users may access, edit, or delete their information?\nClause: The Federal Reserve Bank of St. Louis will have no obligations of any kind with respect to any Content you submit and users of the site will be free to edit, reproduce, use, disclose, publish and/or distribute any Content for any purpose whatsoever, without limitation.",
+  "options": [
+   "Yes",
+   "No",
+   "Not Sure"
+  ],
+  "target": 0,
+  "kind": "opp115_user_access_edit_and_deletion"
+ }
+]
