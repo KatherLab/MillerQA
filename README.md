@@ -1,4 +1,4 @@
-# Prj-BENCH
+# MillerQA
 
 Benchmark data and zero-shot inference harness accompanying the paper.
 
