@@ -8,6 +8,11 @@ Licence:                 CC BY-SA 4.0
 Full licence text:       https://creativecommons.org/licenses/by-sa/4.0/legalcode
 Upstream dataset:        https://huggingface.co/datasets/ncbi/MedCalc-Bench-v1.0
 
+Citation
+--------
+Khandekar, N. et al. MedCalc-Bench: Evaluating Large Language Models for
+Medical Calculations. Adv. Neural Inf. Process. Syst. 37, 84730-84745 (2024).
+
 Files in this directory
 -----------------------
   medcalc.json

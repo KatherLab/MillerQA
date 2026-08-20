@@ -8,6 +8,11 @@ Licence:                 MIT
 Full licence text:       https://opensource.org/license/mit
 Upstream dataset:        https://huggingface.co/datasets/TIGER-Lab/MMLU-Pro
 
+Citation
+--------
+Wang, Y. et al. MMLU-Pro: A More Robust and Challenging Multi-Task Language
+Understanding Benchmark. Adv. Neural Inf. Process. Syst. 37, 95266-95290 (2024).
+
 Files in this directory
 -----------------------
   mmlupro_med.json
@@ -24,8 +29,28 @@ upstream authors:
   - Test split. mmlupro_med: health category, clinical-knowledge and professional-medicine sources. mmlupro_phil: philosophy, formal-logic and moral-disputes categories.
   - No quality-control exclusions applied (this is the pre-QC release).
 
-ACTION REQUIRED
---------------
-The MIT licence requires that the upstream copyright notice and the full
-licence text be distributed with the work. Paste the MMLU-Pro project's own
-LICENSE file below this line, replacing this notice.
+Upstream licence text
+---------------------
+Reproduced verbatim from the LICENSE file of the MMLU-Pro dataset on Hugging
+Face, which is where these items were obtained.
+
+Two things to note, recorded here so downstream users can judge for themselves:
+
+  - The MMLU-Pro GitHub repository carries an Apache-2.0 LICENSE, while the
+    Hugging Face dataset carries the MIT licence below. We take the Hugging Face
+    terms as governing, because the Hugging Face distribution is the one we drew
+    from. Anyone relying on the GitHub distribution should check its terms.
+  - The upstream MIT notice below is an unfilled template: the copyright year
+    and holder are left as "[year]" and "[fullname]" by the upstream authors. It
+    is reproduced exactly as published, with no fields completed by us, since
+    naming a copyright holder is not ours to do.
+
+MIT License
+
+Copyright (c) [year] [fullname]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.

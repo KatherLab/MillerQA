@@ -8,6 +8,12 @@ Licence:                 MIT
 Full licence text:       https://opensource.org/license/mit
 Upstream dataset:        https://huggingface.co/datasets/qiaojin/PubMedQA
 
+Citation
+--------
+Jin, Q. et al. PubMedQA: A Dataset for Biomedical Research Question Answering.
+Preprint at arXiv https://arxiv.org/abs/1909.06146 (2019).
+
+
 Files in this directory
 -----------------------
   pubmedqa.json
@@ -23,8 +29,28 @@ upstream authors:
   - pqa_labeled configuration, 1,000-item subset.
   - No quality-control exclusions applied (this is the pre-QC release).
 
-ACTION REQUIRED
---------------
-The MIT licence requires that the upstream copyright notice and the full
-licence text be distributed with the work. Paste the PubMedQA project's own
-LICENSE file below this line, replacing this notice.
+Upstream licence text
+---------------------
+Reproduced verbatim from the PubMedQA project's own LICENSE file.
+
+MIT License
+
+Copyright (c) 2019 pubmedqa
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

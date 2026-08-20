@@ -8,6 +8,12 @@ Licence:                 CC BY 4.0
 Full licence text:       https://creativecommons.org/licenses/by/4.0/legalcode
 Upstream dataset:        https://huggingface.co/datasets/Maximegmd/MetaMedQA
 
+Citation
+--------
+Griot, M., Hemptinne, C., Vanderdonckt, J. & Yuksel, D. Large Language Models
+lack essential metacognition for reliable medical reasoning. Nat. Commun. 16,
+642 (2025).
+
 Files in this directory
 -----------------------
   metamedqa.json

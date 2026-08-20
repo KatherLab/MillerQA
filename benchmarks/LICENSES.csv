@@ -1,16 +1,16 @@
 benchmark,source_dir,source_dataset,spdx,licence,licence_url,upstream,non_commercial
-cupcase,cupcase,CUPCase,Apache-2.0,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0,,no
-fairmedqa,fairmedqa,FairMedQA,CC-BY-4.0,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/legalcode,,no
-global_mmlu,global_mmlu,Global MMLU,Apache-2.0,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0,,no
+cupcase,cupcase,CUPCase,Apache-2.0,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0,https://huggingface.co/datasets/ofir408/CupCase,no
+fairmedqa,fairmedqa,FairMedQA,CC-BY-4.0,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/legalcode,https://doi.org/10.5281/zenodo.18146153,no
+global_mmlu,global_mmlu,Global MMLU,Apache-2.0,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0,https://huggingface.co/datasets/CohereLabs/Global-MMLU,no
 hle,hle,Humanity's Last Exam,MIT,MIT,https://opensource.org/license/mit,https://huggingface.co/datasets/cais/hle,no
 ipi_legalbench,legalbench,LegalBench,CC-BY-4.0,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/legalcode,https://huggingface.co/datasets/nguha/legalbench,no
 lhb_legalbench,legalbench,LegalBench,CC-BY-4.0,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/legalcode,https://huggingface.co/datasets/nguha/legalbench,no
 lhh_legalbench,legalbench,LegalBench,CC-BY-4.0,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/legalcode,https://huggingface.co/datasets/nguha/legalbench,no
-medbullets,medbullets,MedBullets,Apache-2.0,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0,https://huggingface.co/datasets/LangAGI-Lab/medbullets_op5,no
+medbullets,medbullets,MedBullets,NOASSERTION,not redistributed,,https://huggingface.co/datasets/LangAGI-Lab/medbullets_op5,unknown
 medcalc,medcalc,MedCalc-Bench v1.0,CC-BY-SA-4.0,CC BY-SA 4.0,https://creativecommons.org/licenses/by-sa/4.0/legalcode,https://huggingface.co/datasets/ncbi/MedCalc-Bench-v1.0,no
-medethicsqa,medethicsqa,MedEthicsQA,CC-BY-NC-4.0,CC BY-NC 4.0,https://creativecommons.org/licenses/by-nc/4.0/legalcode,,yes
+medethicsqa,medethicsqa,MedEthicsQA,CC-BY-NC-4.0,CC BY-NC 4.0,https://creativecommons.org/licenses/by-nc/4.0/legalcode,https://github.com/JianhuiWei7/MedEthicsQA,yes
 metamedqa,metamedqa,MetaMedQA,CC-BY-4.0,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/legalcode,https://huggingface.co/datasets/Maximegmd/MetaMedQA,no
-mhqa,mhqa,MHQA,CC-BY-NC-2.0,CC BY-NC 2.0,https://creativecommons.org/licenses/by-nc/2.0/legalcode,,yes
+mhqa,mhqa,MHQA,CC-BY-NC-2.0,CC BY-NC 2.0,https://creativecommons.org/licenses/by-nc/2.0/legalcode,https://huggingface.co/datasets/jastorj/MHQA,yes
 mmlupro_med,mmlu_pro,MMLU-Pro,MIT,MIT,https://opensource.org/license/mit,https://huggingface.co/datasets/TIGER-Lab/MMLU-Pro,no
 mmlupro_phil,mmlu_pro,MMLU-Pro,MIT,MIT,https://opensource.org/license/mit,https://huggingface.co/datasets/TIGER-Lab/MMLU-Pro,no
 oad_legalbench,legalbench,LegalBench,CC-BY-4.0,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/legalcode,https://huggingface.co/datasets/nguha/legalbench,no
@@ -21,5 +21,5 @@ otp_legalbench,legalbench,LegalBench,CC-BY-4.0,CC BY 4.0,https://creativecommons
 pubmedqa,pubmedqa,PubMedQA,MIT,MIT,https://opensource.org/license/mit,https://huggingface.co/datasets/qiaojin/PubMedQA,no
 tos_legalbench,legalbench,LegalBench,CC-BY-4.0,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/legalcode,https://huggingface.co/datasets/nguha/legalbench,no
 triage,triage,TRIAGE,CC-BY-4.0,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/legalcode,https://huggingface.co/datasets/NLie2/TRIAGE,no
-tridentbench,tridentbench,TridentBench,MIT,MIT,https://opensource.org/license/mit,,no
-truthfulqa,truthfulqa,TruthfulQA,Apache-2.0,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0,,no
+tridentbench,tridentbench,TridentBench,MIT,MIT,https://opensource.org/license/mit,https://github.com/zackhuiiiii/TRIDENT,no
+truthfulqa,truthfulqa,TruthfulQA,Apache-2.0,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0,https://github.com/sylinrl/truthfulqa,no

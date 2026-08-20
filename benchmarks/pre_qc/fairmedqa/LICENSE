@@ -6,7 +6,14 @@ This directory redistributes data derived from FairMedQA.
 SPDX-License-Identifier: CC-BY-4.0
 Licence:                 CC BY 4.0
 Full licence text:       https://creativecommons.org/licenses/by/4.0/legalcode
-Upstream dataset:        see the accompanying paper for the full citation
+Upstream dataset:        https://doi.org/10.5281/zenodo.18146153
+
+Citation
+--------
+Replication Package for Creating the FairMedQA Benchmark and Conducting the
+Related Empirical Investigation (v2). Zenodo https://doi.org/10.5281/zenodo.18146153
+(2026). [Authors listed as Anonymous on the record.]
+
 
 Files in this directory
 -----------------------

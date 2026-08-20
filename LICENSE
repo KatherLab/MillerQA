@@ -38,8 +38,9 @@ benchmarks/LICENSES.csv gives the same mapping in machine-readable form: which
 benchmark comes from which source, under which SPDX identifier.
 
 The collection spans Apache-2.0, MIT, CC BY 4.0, CC BY-SA 4.0, CC BY-NC 4.0 and
-CC BY-NC 2.0. There is no single licence under which the whole collection may be
-redistributed, and the licence on this file does not grant rights over the data.
+CC BY-NC 2.0. One further subset is not redistributed at all (section 4). There is no single
+licence under which the whole collection may be redistributed, and the licence
+on this file does not grant rights over the data.
 
 
 3. Non-commercial subsets
@@ -56,7 +57,23 @@ MedCalc is CC BY-SA 4.0, which additionally imposes a share-alike obligation on
 adapted versions of that subset.
 
 
-4. Attribution
+4. Subset that is NOT redistributed
+-----------------------------------
+
+medbullets (MedBullets) is part of the benchmark suite as analysed in the paper,
+but its data file is NOT included in this repository.
+
+No licence could be established: neither the Hugging Face mirror we drew from nor
+the originating repository declares one, and the underlying questions derive from
+a commercial medical question bank. Rather than redistribute items with no
+permission behind them, the file is omitted and the source is linked instead.
+
+benchmarks/<release>/medbullets/ retains a LICENSE explaining the omission and an
+item_ids.csv listing the ids in each release, so the full suite can be rebuilt
+from upstream. Identifiers are references, not content.
+
+
+5. Attribution
 --------------
 
 The CC licences here require attribution and an indication of changes. Each

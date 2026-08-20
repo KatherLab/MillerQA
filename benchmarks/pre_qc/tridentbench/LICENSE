@@ -6,7 +6,14 @@ This directory redistributes data derived from TridentBench.
 SPDX-License-Identifier: MIT
 Licence:                 MIT
 Full licence text:       https://opensource.org/license/mit
-Upstream dataset:        see the accompanying paper for the full citation
+Upstream dataset:        https://github.com/zackhuiiiii/TRIDENT
+
+Citation
+--------
+Trident-Bench: Benchmarking LLM Safety in Law, Finance, and Medicine. COLM
+(2026). https://github.com/zackhuiiiii/TRIDENT
+[The upstream repository lists its arXiv identifier as TBD.]
+
 
 Files in this directory
 -----------------------
@@ -23,8 +30,39 @@ upstream authors:
   - Medical subset. The nine AMA Principles of Medical Ethics used as a fixed option set; the harmful-prompt field used as the question stem with a fixed instruction appended.
   - No quality-control exclusions applied (this is the pre-QC release).
 
-ACTION REQUIRED
---------------
-The MIT licence requires that the upstream copyright notice and the full
-licence text be distributed with the work. Paste the TridentBench project's own
-LICENSE file below this line, replacing this notice.
+Licence basis
+-------------
+The upstream repository declares MIT via a "License: MIT" badge in its README,
+but publishes no LICENSE file: both /blob/main/LICENSE and /blob/master/LICENSE
+return HTTP 404 (verified 2026-08-20). No copyright year or holder is stated
+anywhere upstream.
+
+The standard MIT licence terms are therefore reproduced below for reference.
+This text is NOT a verbatim copy of an upstream file, because no such file
+exists, and the copyright line has deliberately been left unfilled — naming a
+copyright holder is not ours to do. Anyone relying on this subset may wish to
+ask the authors for an explicit LICENSE file.
+
+Standard MIT licence text
+-------------------------
+MIT License
+
+Copyright (c) <year> <copyright holder — not declared upstream>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

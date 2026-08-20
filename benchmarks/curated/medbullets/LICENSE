@@ -1,30 +1,57 @@
-MedBullets — licence and attribution
-====================================
+MedBullets — NOT REDISTRIBUTED
+==============================
 
-This directory redistributes data derived from MedBullets.
+The MedBullets items are part of the benchmark suite as analysed in the paper,
+but the data file is deliberately NOT included in this repository.
 
-SPDX-License-Identifier: Apache-2.0
-Licence:                 Apache-2.0
-Full licence text:       https://www.apache.org/licenses/LICENSE-2.0
+Why
+---
+No licence could be established for this dataset. The Hugging Face mirror we
+drew from declares none, and the originating repository contains no LICENSE file
+(verified 2026-08-20: github.com/HanjieChen/ChallengeClinicalQA/blob/main/LICENSE
+returns HTTP 404). The underlying questions derive from a commercial medical
+question bank, so the absence of a licence appears deliberate rather than an
+oversight: the authors were not in a position to grant redistribution rights.
+
+Material published without a licence is "all rights reserved" by default. Rather
+than redistribute 188 items with no permission behind them, we omit the file and
+point to the source instead.
+
+Where to get it
+---------------
 Upstream dataset:        https://huggingface.co/datasets/LangAGI-Lab/medbullets_op5
+Originating repository:  https://github.com/HanjieChen/ChallengeClinicalQA
 
-Files in this directory
------------------------
-  medbullets.json
+Obtain the data from upstream directly, on whatever terms the authors provide.
 
-Modifications
--------------
-The data here is not the upstream distribution. It has been modified as follows,
-and these changes are the responsibility of the Prj-BENCH authors, not the
-upstream authors:
+How to reconstruct our subset
+-----------------------------
+item_ids.csv in this directory lists the 188 item ids that make up the curated
+release of this benchmark. Identifiers are references, not content, so they are
+included here. To rebuild the file:
 
+  1. Download medbullets from the upstream source above.
+  2. Keep the five-option subset.
+  3. Filter to the ids in item_ids.csv.
+  4. Convert to the Prj-BENCH schema (id / question / options / target / kind)
+     and save as medbullets.json in this directory.
+
+The harness will then pick it up automatically — it globs for *.json — and the
+curated release will return to its full item count. With the file absent, the
+harness simply runs the other 23 benchmarks.
+
+Citation
+--------
+Chen, H., Fang, Z., Singla, Y. & Dredze, M. Benchmarking Large Language Models
+on Answering and Explaining Challenging Medical Questions. Proc. NAACL (2025).
+
+
+Language Models on Answering and Explaining Challenging Medical Questions.
+Proceedings of NAACL 2025.
+
+Modifications we applied (for reproduction)
+-------------------------------------------
   - Converted to the common Prj-BENCH multiple-choice JSON schema
     (id / question / options / target / kind).
   - Five-option subset.
   - Quality-control exclusions applied; see ../../_dropped_items.csv.
-
-ACTION REQUIRED
---------------
-The Apache-2.0 licence requires that the upstream copyright notice and the full
-licence text be distributed with the work. Paste the MedBullets project's own
-LICENSE file below this line, replacing this notice.

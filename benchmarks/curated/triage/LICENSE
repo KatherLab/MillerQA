@@ -8,6 +8,11 @@ Licence:                 CC BY 4.0
 Full licence text:       https://creativecommons.org/licenses/by/4.0/legalcode
 Upstream dataset:        https://huggingface.co/datasets/NLie2/TRIAGE
 
+Citation
+--------
+Kirch, N. M., Hebenstreit, K. & Samwald, M. Medical triage as an AI ethics
+benchmark. Sci. Rep. 15, 30974 (2025).
+
 Files in this directory
 -----------------------
   triage.json

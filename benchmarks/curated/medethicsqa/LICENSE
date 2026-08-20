@@ -1,12 +1,34 @@
 MedEthicsQA — licence and attribution
-=====================================
+====================================
 
 This directory redistributes data derived from MedEthicsQA.
 
 SPDX-License-Identifier: CC-BY-NC-4.0
-Licence:                 CC BY-NC 4.0
+Licence:                 CC BY-NC 4.0 — NON-COMMERCIAL USE ONLY
 Full licence text:       https://creativecommons.org/licenses/by-nc/4.0/legalcode
-Upstream dataset:        see the accompanying paper for the full citation
+Upstream dataset:        https://github.com/JianhuiWei7/MedEthicsQA
+
+Licence basis
+-------------
+The source repository carries no LICENSE file, so the licence is taken from the
+authors' own declaration in the paper. The abstract of arXiv:2506.22808 states
+that the dataset is "registered under CC BY-NC 4.0 license".
+
+Note that the arXiv submission itself is published under CC BY-NC-SA 4.0. That
+covers the article, not the dataset; the dataset terms are the CC BY-NC 4.0
+stated above.
+
+NON-COMMERCIAL: this subset may not be used for commercial purposes under any
+circumstances. Any commercial use of this repository must exclude it.
+
+Citation
+--------
+Wei, J. et al. MedEthicsQA: A Comprehensive Question Answering Benchmark for
+Medical Ethics Evaluation of LLMs. Preprint at arXiv
+https://arxiv.org/abs/2506.22808 (2025).
+
+
+Ethics Evaluation of LLMs. arXiv:2506.22808.
 
 Files in this directory
 -----------------------
@@ -20,5 +42,6 @@ upstream authors:
 
   - Converted to the common Prj-BENCH multiple-choice JSON schema
     (id / question / options / target / kind).
-  - Randomly sampled 1,000 items, stratified evenly across the four core medical-ethics principles.
+  - Randomly sampled 1,000 items, stratified evenly across the four core
+    medical-ethics principles.
   - Quality-control exclusions applied; see ../../_dropped_items.csv.

@@ -5,17 +5,19 @@ Benchmark data and zero-shot inference harness accompanying the paper.
 This repository contains two things:
 
 1. **The benchmark suite** — 24 multiple-choice benchmarks, released in both
-   their original (pre-QC) and curated (post-QC) form.
+   their original (pre-QC) and curated (post-QC) form. 23 of the 24 are
+   redistributed here; MedBullets is omitted for licensing reasons (see
+   [Licensing](#licensing)) and is linked instead.
 2. **The zero-shot harness** — the code used to run the models over the suite
    via [OpenRouter](https://openrouter.ai).
 
 ```
 benchmarks/
-  pre_qc/            24 benchmarks, 10,020 items — the original suite, before QC
+  pre_qc/            23 of 24 shipped, 9,712 items — the original suite, before QC
     <source>/        one directory per upstream dataset
       LICENSE        that dataset's licence and attribution
       *.json         the benchmarks derived from it
-  curated/           24 benchmarks,  9,594 items — the post-QC suite used in the paper
+  curated/           23 of 24 shipped, 9,406 items — the post-QC suite used in the paper
     <source>/        same 15 source directories
   LICENSES.csv       benchmark → source → SPDX identifier, machine-readable
   _manifest.csv      per-benchmark item counts, pre-QC vs curated
@@ -27,9 +29,14 @@ requirements.txt
 .env.example
 ```
 
-The 24 benchmarks come from 15 upstream sources under six different licences, so
-they are grouped by source and each group carries its own `LICENSE`. See
-[Licensing](#licensing) — **two subsets are non-commercial only**.
+The 24 benchmarks come from 15 upstream sources under several different
+licences, so they are grouped by source and each group carries its own
+`LICENSE`. See [Licensing](#licensing) — **two subsets are non-commercial only,
+and one is not redistributed at all**.
+
+The paper analyses the full suite of 24 benchmarks (10,020 pre-QC / 9,594
+curated). This repository ships 23 of them (9,712 / 9,406); MedBullets is
+excluded, with its item ids provided so the full suite can be reconstructed.
 
 ## The benchmark suite
 
@@ -71,7 +78,7 @@ the set was pulled from the Hub.
 | Benchmark | File | Pre-QC | Curated | Source dataset | Licence | Description |
 | --- | --- | ---: | ---: | --- | --- | --- |
 | **MMLU-Pro (Med)** | `mmlupro_med` | 326 | 252 | `TIGER-Lab/MMLU-Pro` | MIT | Advanced clinical-knowledge and professional-medicine exam questions |
-| **MedBullets** | `medbullets` | 308 | 188 | `LangAGI-Lab/medbullets_op5` | Apache-2.0 | USMLE Step 2/3-style clinical vignettes |
+| **MedBullets** ⚠️ | `medbullets` | 308 | 188 | `LangAGI-Lab/medbullets_op5` | **not redistributed** | USMLE Step 2/3-style clinical vignettes — *data file not included, see [Licensing](#licensing)* |
 | **PubMedQA** | `pubmedqa` | 1,000 | 998 | `qiaojin/PubMedQA` | MIT | Yes / no / maybe QA over biomedical research abstracts |
 
 ### Legal and Regulatory
@@ -118,6 +125,17 @@ any circumstances, and any commercial use of this repository must exclude them:
 `medcalc` is CC BY-SA 4.0, which additionally imposes share-alike on adapted
 versions of that subset.
 
+**Subset that is not redistributed.** `medbullets` is part of the suite as
+analysed, but its data file is **not included in this repository**. No licence
+could be established — neither the Hugging Face mirror we drew from nor the
+originating repository declares one — and the underlying questions derive from a
+commercial question bank, so we do not redistribute them.
+
+`benchmarks/<release>/medbullets/` still contains a `LICENSE` explaining the
+omission and an `item_ids.csv` listing the exact ids in each release, so the full
+suite can be rebuilt from the upstream source. The harness runs the other 23
+benchmarks unchanged when the file is absent.
+
 **Our contributions** — the harness code, the QC layer, the harmonised schema
 and the option sets we wrote when recasting source tasks as multiple choice —
 are released under **CC BY 4.0**. The data items themselves are not ours to
@@ -148,8 +166,9 @@ what makes the choice-only baseline possible.
 
 ### pre-QC vs curated
 
-`pre_qc/` is the suite as originally assembled: 10,020 items. `curated/` is the
-same suite after the quality-control pass described in the paper: 9,594 items,
+`pre_qc/` is the suite as originally assembled: 10,020 items, of which 9,712 are
+shipped here. `curated/` is the same suite after the quality-control pass
+described in the paper: 9,594 items, of which 9,406 are shipped here,
 with defective items excluded and duplicates removed. Three benchmarks were
 rebuilt from source during QC rather than filtered — `medcalc`, `triage` and
 `truthfulqa` — and both directories carry the rebuilt versions, so the two
@@ -204,7 +223,8 @@ python run_experiment.py
 python run_experiment.py --data-dir ../benchmarks/pre_qc --experiment-id zeroshot_preqc
 ```
 
-The full run is **26 model configurations × 9,594 items ≈ 249k API calls**. Cost
+The full run is **26 model configurations × 9,406 shipped items ≈ 245k API
+calls** (9,594 if you reconstruct MedBullets). Cost
 and time are substantial. Use `--dry-run` first and scope with `--models` /
 `--benchmarks`.
 

@@ -8,6 +8,12 @@ Licence:                 CC BY 4.0
 Full licence text:       https://creativecommons.org/licenses/by/4.0/legalcode
 Upstream dataset:        https://huggingface.co/datasets/nguha/legalbench
 
+Citation
+--------
+Guha, N. et al. LegalBench: A Collaboratively Built Benchmark for Measuring
+Legal Reasoning in Large Language Models. Adv. Neural Inf. Process. Syst. 36
+(2023).
+
 Files in this directory
 -----------------------
   ipi_legalbench.json

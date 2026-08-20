@@ -4,9 +4,21 @@ MHQA — licence and attribution
 This directory redistributes data derived from MHQA.
 
 SPDX-License-Identifier: CC-BY-NC-2.0
-Licence:                 CC BY-NC 2.0
+Licence:                 CC BY-NC 2.0 — NON-COMMERCIAL USE ONLY
 Full licence text:       https://creativecommons.org/licenses/by-nc/2.0/legalcode
-Upstream dataset:        see the accompanying paper for the full citation
+Upstream dataset:        https://huggingface.co/datasets/jastorj/MHQA
+
+NON-COMMERCIAL: this subset may not be used for commercial purposes under any
+circumstances. Any commercial use of this repository must exclude it.
+
+Citation
+--------
+Racha, S. et al. MHQA: A Diverse, Knowledge Intensive Mental Health Question
+Answering Challenge for Language Models. Preprint at arXiv
+https://arxiv.org/abs/2502.15418 (2025).
+
+
+Question Answering Challenge for Language Models. arXiv:2502.15418.
 
 Files in this directory
 -----------------------

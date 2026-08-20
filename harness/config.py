@@ -39,7 +39,7 @@ OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY", "")
 OPENROUTER_BASE_URL = "https://openrouter.ai/api/v1"
 
 # HTTP referrer / title sent with every request (OpenRouter guidelines)
-HTTP_REFERER = os.getenv("HTTP_REFERER", "https://github.com/prj-bench")
+HTTP_REFERER = os.getenv("HTTP_REFERER", "https://github.com/KatherLab/MillerQA")
 APP_TITLE = os.getenv("APP_TITLE", "Prj-BENCH")
 
 # ---------------------------------------------------------------------------
