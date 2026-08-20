@@ -1,0 +1,24 @@
+MetaMedQA — licence and attribution
+===================================
+
+This directory redistributes data derived from MetaMedQA.
+
+SPDX-License-Identifier: CC-BY-4.0
+Licence:                 CC BY 4.0
+Full licence text:       https://creativecommons.org/licenses/by/4.0/legalcode
+Upstream dataset:        https://huggingface.co/datasets/Maximegmd/MetaMedQA
+
+Files in this directory
+-----------------------
+  metamedqa.json
+
+Modifications
+-------------
+The data here is not the upstream distribution. It has been modified as follows,
+and these changes are the responsibility of the Prj-BENCH authors, not the
+upstream authors:
+
+  - Converted to the common Prj-BENCH multiple-choice JSON schema
+    (id / question / options / target / kind).
+  - Randomly sampled 400 from the 'original' category; all items from the other categories.
+  - No quality-control exclusions applied (this is the pre-QC release).

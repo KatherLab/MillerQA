@@ -1,0 +1,30 @@
+Humanity's Last Exam — licence and attribution
+==============================================
+
+This directory redistributes data derived from Humanity's Last Exam.
+
+SPDX-License-Identifier: MIT
+Licence:                 MIT
+Full licence text:       https://opensource.org/license/mit
+Upstream dataset:        https://huggingface.co/datasets/cais/hle
+
+Files in this directory
+-----------------------
+  hle.json
+
+Modifications
+-------------
+The data here is not the upstream distribution. It has been modified as follows,
+and these changes are the responsibility of the Prj-BENCH authors, not the
+upstream authors:
+
+  - Converted to the common Prj-BENCH multiple-choice JSON schema
+    (id / question / options / target / kind).
+  - Biology/medicine subset, text-only questions.
+  - Quality-control exclusions applied; see ../../_dropped_items.csv.
+
+ACTION REQUIRED
+--------------
+The MIT licence requires that the upstream copyright notice and the full
+licence text be distributed with the work. Paste the Humanity's Last Exam project's own
+LICENSE file below this line, replacing this notice.

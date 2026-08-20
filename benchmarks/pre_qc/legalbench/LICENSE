@@ -1,0 +1,32 @@
+LegalBench — licence and attribution
+====================================
+
+This directory redistributes data derived from LegalBench.
+
+SPDX-License-Identifier: CC-BY-4.0
+Licence:                 CC BY 4.0
+Full licence text:       https://creativecommons.org/licenses/by/4.0/legalcode
+Upstream dataset:        https://huggingface.co/datasets/nguha/legalbench
+
+Files in this directory
+-----------------------
+  ipi_legalbench.json
+  lhb_legalbench.json
+  lhh_legalbench.json
+  oad_legalbench.json
+  odr_legalbench.json
+  ods_legalbench.json
+  ofp_legalbench.json
+  otp_legalbench.json
+  tos_legalbench.json
+
+Modifications
+-------------
+The data here is not the upstream distribution. It has been modified as follows,
+and these changes are the responsibility of the Prj-BENCH authors, not the
+upstream authors:
+
+  - Converted to the common Prj-BENCH multiple-choice JSON schema
+    (id / question / options / target / kind).
+  - Per-task test splits. Each task was recast as MCQ with a fixed question string and a fixed option set; the OPP-115 tasks were balance-sampled at 50 items per answer class, and unfair_tos at 40 per category where available.
+  - No quality-control exclusions applied (this is the pre-QC release).

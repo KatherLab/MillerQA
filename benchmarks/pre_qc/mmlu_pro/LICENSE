@@ -1,0 +1,31 @@
+MMLU-Pro — licence and attribution
+==================================
+
+This directory redistributes data derived from MMLU-Pro.
+
+SPDX-License-Identifier: MIT
+Licence:                 MIT
+Full licence text:       https://opensource.org/license/mit
+Upstream dataset:        https://huggingface.co/datasets/TIGER-Lab/MMLU-Pro
+
+Files in this directory
+-----------------------
+  mmlupro_med.json
+  mmlupro_phil.json
+
+Modifications
+-------------
+The data here is not the upstream distribution. It has been modified as follows,
+and these changes are the responsibility of the Prj-BENCH authors, not the
+upstream authors:
+
+  - Converted to the common Prj-BENCH multiple-choice JSON schema
+    (id / question / options / target / kind).
+  - Test split. mmlupro_med: health category, clinical-knowledge and professional-medicine sources. mmlupro_phil: philosophy, formal-logic and moral-disputes categories.
+  - No quality-control exclusions applied (this is the pre-QC release).
+
+ACTION REQUIRED
+--------------
+The MIT licence requires that the upstream copyright notice and the full
+licence text be distributed with the work. Paste the MMLU-Pro project's own
+LICENSE file below this line, replacing this notice.

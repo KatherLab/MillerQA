@@ -11,15 +11,25 @@ This repository contains two things:
 
 ```
 benchmarks/
-  pre_qc/            24 files, 10,020 items — the original suite, before QC
-  curated/           24 files,  9,594 items — the post-QC suite used in the paper
+  pre_qc/            24 benchmarks, 10,020 items — the original suite, before QC
+    <source>/        one directory per upstream dataset
+      LICENSE        that dataset's licence and attribution
+      *.json         the benchmarks derived from it
+  curated/           24 benchmarks,  9,594 items — the post-QC suite used in the paper
+    <source>/        same 15 source directories
+  LICENSES.csv       benchmark → source → SPDX identifier, machine-readable
   _manifest.csv      per-benchmark item counts, pre-QC vs curated
   _dropped_items.csv every item removed by QC, with the reason
 harness/             zero-shot inference code
 docs/                figures used in this README
+LICENSE              licensing for the collection — read this first
 requirements.txt
 .env.example
 ```
+
+The 24 benchmarks come from 15 upstream sources under six different licences, so
+they are grouped by source and each group carries its own `LICENSE`. See
+[Licensing](#licensing) — **two subsets are non-commercial only**.
 
 ## The benchmark suite
 
@@ -78,10 +88,44 @@ the set was pulled from the Hub.
 | **LB (otp)** | `otp_legalbench` | 100 | 98 | `nguha/legalbench` | CC BY 4.0 | OPP-115: third-party sharing and collection clauses |
 | **LB (tos)** | `tos_legalbench` | 298 | 298 | `nguha/legalbench` | CC BY 4.0 | Classifying potentially unfair Terms-of-Service clauses |
 
-Full citations for each source dataset are given in the paper. Each benchmark
-remains subject to its original licence, listed above; several are
-non-commercial (CC BY-NC), so the suite as a whole cannot be redistributed under
-a single permissive licence.
+Full citations for each source dataset are given in the paper.
+
+## Licensing
+
+This repository is a **mixed-licence collection**. There is no single licence
+covering all of it, and the top-level `LICENSE` does not grant rights over the
+benchmark data.
+
+**Per-source licences.** Each of the 15 upstream datasets has its own directory
+inside both releases, carrying that dataset's `LICENSE` file — its SPDX
+identifier, a link to the full licence text, the upstream source, and a record
+of how we modified the data. `benchmarks/LICENSES.csv` gives the same mapping in
+machine-readable form.
+
+```
+benchmarks/curated/legalbench/LICENSE            ← CC BY 4.0, covers the 9 LB sets
+benchmarks/curated/legalbench/tos_legalbench.json
+```
+
+**Non-commercial subsets.** Two benchmarks may not be used commercially under
+any circumstances, and any commercial use of this repository must exclude them:
+
+| Benchmark | Source | Licence |
+| --- | --- | --- |
+| `mhqa` | MHQA | CC BY-NC 2.0 |
+| `medethicsqa` | MedEthicsQA | CC BY-NC 4.0 |
+
+`medcalc` is CC BY-SA 4.0, which additionally imposes share-alike on adapted
+versions of that subset.
+
+**Our contributions** — the harness code, the QC layer, the harmonised schema
+and the option sets we wrote when recasting source tasks as multiple choice —
+are released under **CC BY 4.0**. The data items themselves are not ours to
+relicense.
+
+The CC licences require attribution and an indication of changes: when reusing a
+subset, cite the original dataset alongside this work, and see that source
+directory's `LICENSE` for what we changed.
 
 ## Benchmark format
 

@@ -1,0 +1,65 @@
+Prj-BENCH — licensing
+=====================
+
+This repository is a MIXED-LICENCE COLLECTION. Read this file before reusing
+any part of it.
+
+
+1. The Prj-BENCH authors' own contributions
+-------------------------------------------
+
+SPDX-License-Identifier: CC-BY-4.0
+Full licence text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+Copyright (c) 2026 the Prj-BENCH authors.
+
+Licensed under the Creative Commons Attribution 4.0 International licence.
+This covers only the material we authored, namely:
+
+  - everything under harness/ (the zero-shot inference code)
+  - the quality-control layer: benchmarks/_manifest.csv,
+    benchmarks/_dropped_items.csv, benchmarks/LICENSES.csv
+  - the harmonised schema, the option sets and fixed question strings we wrote
+    when recasting source tasks as multiple choice, and the QC decisions that
+    define the curated release
+  - this README and the figures in docs/
+
+
+2. The benchmark data
+---------------------
+
+It does NOT cover the underlying benchmark items. Those remain under the
+licences of their original sources and are redistributed here in modified form.
+Each source has its own directory carrying its own LICENSE file:
+
+  benchmarks/<release>/<source>/LICENSE
+
+benchmarks/LICENSES.csv gives the same mapping in machine-readable form: which
+benchmark comes from which source, under which SPDX identifier.
+
+The collection spans Apache-2.0, MIT, CC BY 4.0, CC BY-SA 4.0, CC BY-NC 4.0 and
+CC BY-NC 2.0. There is no single licence under which the whole collection may be
+redistributed, and the licence on this file does not grant rights over the data.
+
+
+3. Non-commercial subsets
+-------------------------
+
+Two benchmarks are NON-COMMERCIAL ONLY and may not be used for commercial
+purposes under any circumstances:
+
+  mhqa         MHQA           CC BY-NC 2.0
+  medethicsqa  MedEthicsQA    CC BY-NC 4.0
+
+Any commercial use of this repository must exclude those two benchmarks.
+MedCalc is CC BY-SA 4.0, which additionally imposes a share-alike obligation on
+adapted versions of that subset.
+
+
+4. Attribution
+--------------
+
+The CC licences here require attribution and an indication of changes. Each
+source directory's LICENSE file records what we modified. When reusing a subset,
+cite the original dataset as well as this work; full citations for every source
+are given in the accompanying paper.

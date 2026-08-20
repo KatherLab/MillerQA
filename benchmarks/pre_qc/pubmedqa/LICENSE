@@ -1,0 +1,30 @@
+PubMedQA — licence and attribution
+==================================
+
+This directory redistributes data derived from PubMedQA.
+
+SPDX-License-Identifier: MIT
+Licence:                 MIT
+Full licence text:       https://opensource.org/license/mit
+Upstream dataset:        https://huggingface.co/datasets/qiaojin/PubMedQA
+
+Files in this directory
+-----------------------
+  pubmedqa.json
+
+Modifications
+-------------
+The data here is not the upstream distribution. It has been modified as follows,
+and these changes are the responsibility of the Prj-BENCH authors, not the
+upstream authors:
+
+  - Converted to the common Prj-BENCH multiple-choice JSON schema
+    (id / question / options / target / kind).
+  - pqa_labeled configuration, 1,000-item subset.
+  - No quality-control exclusions applied (this is the pre-QC release).
+
+ACTION REQUIRED
+--------------
+The MIT licence requires that the upstream copyright notice and the full
+licence text be distributed with the work. Paste the PubMedQA project's own
+LICENSE file below this line, replacing this notice.

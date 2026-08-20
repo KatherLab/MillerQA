@@ -1,0 +1,24 @@
+TRIAGE — licence and attribution
+================================
+
+This directory redistributes data derived from TRIAGE.
+
+SPDX-License-Identifier: CC-BY-4.0
+Licence:                 CC BY 4.0
+Full licence text:       https://creativecommons.org/licenses/by/4.0/legalcode
+Upstream dataset:        https://huggingface.co/datasets/NLie2/TRIAGE
+
+Files in this directory
+-----------------------
+  triage.json
+
+Modifications
+-------------
+The data here is not the upstream distribution. It has been modified as follows,
+and these changes are the responsibility of the Prj-BENCH authors, not the
+upstream authors:
+
+  - Converted to the common Prj-BENCH multiple-choice JSON schema
+    (id / question / options / target / kind).
+  - All rows except one malformed record. Recast as MCQ with a fixed four-tier option set (Green, Yellow, Red, Black).
+  - Quality-control exclusions applied; see ../../_dropped_items.csv.

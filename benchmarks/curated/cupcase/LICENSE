@@ -1,0 +1,30 @@
+CUPCase — licence and attribution
+=================================
+
+This directory redistributes data derived from CUPCase.
+
+SPDX-License-Identifier: Apache-2.0
+Licence:                 Apache-2.0
+Full licence text:       https://www.apache.org/licenses/LICENSE-2.0
+Upstream dataset:        see the accompanying paper for the full citation
+
+Files in this directory
+-----------------------
+  cupcase.json
+
+Modifications
+-------------
+The data here is not the upstream distribution. It has been modified as follows,
+and these changes are the responsibility of the Prj-BENCH authors, not the
+upstream authors:
+
+  - Converted to the common Prj-BENCH multiple-choice JSON schema
+    (id / question / options / target / kind).
+  - Randomly sampled 700 cases from the source set.
+  - Quality-control exclusions applied; see ../../_dropped_items.csv.
+
+ACTION REQUIRED
+--------------
+The Apache-2.0 licence requires that the upstream copyright notice and the full
+licence text be distributed with the work. Paste the CUPCase project's own
+LICENSE file below this line, replacing this notice.

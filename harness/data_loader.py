@@ -76,7 +76,10 @@ def load_benchmarks(names: Optional[list[str]] = None) -> list[dict]:
     Load specific benchmarks by stem name, or all if names is None.
     Returns a flat list of normalised BenchmarkItem dicts.
     """
-    paths = sorted(config.DATA_DIR.glob("*.json"))
+    # rglob, not glob: benchmarks are grouped into one directory per upstream
+    # source so each can carry its own LICENSE. The benchmark name is still the
+    # file stem, so the layout is invisible to everything downstream.
+    paths = sorted(config.DATA_DIR.rglob("*.json"))
     if names:
         name_set = set(names)
         paths = [p for p in paths if p.stem in name_set]

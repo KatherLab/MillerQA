@@ -1,0 +1,24 @@
+MedCalc-Bench v1.0 — licence and attribution
+============================================
+
+This directory redistributes data derived from MedCalc-Bench v1.0.
+
+SPDX-License-Identifier: CC-BY-SA-4.0
+Licence:                 CC BY-SA 4.0
+Full licence text:       https://creativecommons.org/licenses/by-sa/4.0/legalcode
+Upstream dataset:        https://huggingface.co/datasets/ncbi/MedCalc-Bench-v1.0
+
+Files in this directory
+-----------------------
+  medcalc.json
+
+Modifications
+-------------
+The data here is not the upstream distribution. It has been modified as follows,
+and these changes are the responsibility of the Prj-BENCH authors, not the
+upstream authors:
+
+  - Converted to the common Prj-BENCH multiple-choice JSON schema
+    (id / question / options / target / kind).
+  - Test split; items whose output type is integer or decimal.
+  - No quality-control exclusions applied (this is the pre-QC release).

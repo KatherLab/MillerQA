@@ -1,0 +1,30 @@
+MedBullets — licence and attribution
+====================================
+
+This directory redistributes data derived from MedBullets.
+
+SPDX-License-Identifier: Apache-2.0
+Licence:                 Apache-2.0
+Full licence text:       https://www.apache.org/licenses/LICENSE-2.0
+Upstream dataset:        https://huggingface.co/datasets/LangAGI-Lab/medbullets_op5
+
+Files in this directory
+-----------------------
+  medbullets.json
+
+Modifications
+-------------
+The data here is not the upstream distribution. It has been modified as follows,
+and these changes are the responsibility of the Prj-BENCH authors, not the
+upstream authors:
+
+  - Converted to the common Prj-BENCH multiple-choice JSON schema
+    (id / question / options / target / kind).
+  - Five-option subset.
+  - No quality-control exclusions applied (this is the pre-QC release).
+
+ACTION REQUIRED
+--------------
+The Apache-2.0 licence requires that the upstream copyright notice and the full
+licence text be distributed with the work. Paste the MedBullets project's own
+LICENSE file below this line, replacing this notice.
